@@ -1,0 +1,4987 @@
+1
+00:00:14,810 --> 00:00:16,620
+It turned, you know, John Pierre.
+
+2
+00:00:18,180 --> 00:00:20,705
+I do, umm, I'm
+
+3
+00:00:20,705 --> 00:00:23,230
+coming across from TD
+
+4
+00:00:23,230 --> 00:00:25,755
+Callum. Originally Cowen rebranded
+
+5
+00:00:25,755 --> 00:00:28,279
+kind of as TD
+
+6
+00:00:28,279 --> 00:00:30,804
+Cowan after the acquisition
+
+7
+00:00:30,804 --> 00:00:33,329
+and I had had
+
+8
+00:00:33,329 --> 00:00:35,854
+the pleasure of having
+
+9
+00:00:35,854 --> 00:00:38,379
+John as my dedicated
+
+10
+00:00:38,379 --> 00:00:41,241
+resource. Well, the cow on earth
+
+11
+00:00:41,241 --> 00:00:43,823
+D Nice. Yeah, he's good. He's
+
+12
+00:00:43,823 --> 00:00:46,404
+great. I must have worked with
+
+13
+00:00:46,404 --> 00:00:48,985
+him for over a year and
+
+14
+00:00:48,985 --> 00:00:51,567
+a half. Probably to get where
+
+15
+00:00:51,567 --> 00:00:54,148
+we need it to be and
+
+16
+00:00:54,148 --> 00:00:55,869
+everything. Yep. Fantastic. Fantastic
+
+17
+00:00:55,869 --> 00:00:57,160
+guy. Good. Good.
+
+18
+00:01:01,740 --> 00:01:03,630
+You can tell him he owes me a beer.
+
+19
+00:01:06,340 --> 00:01:09,263
+He'll say sure, where you at
+
+20
+00:01:09,263 --> 00:01:09,750
+exactly?
+
+21
+00:01:23,980 --> 00:01:25,550
+Who are we waiting for?
+
+22
+00:01:48,910 --> 00:01:51,890
+OK. Next
+
+23
+00:01:51,890 --> 00:01:54,856
+week. And
+
+24
+00:01:54,856 --> 00:01:57,487
+Anya or Daniel or do we want
+
+25
+00:01:57,487 --> 00:02:00,118
+to begin? Do we need to wait
+
+26
+00:02:00,118 --> 00:02:02,749
+for other folks? We're almost to the
+
+27
+00:02:02,749 --> 00:02:05,381
+five minute mark. No, I think we
+
+28
+00:02:05,381 --> 00:02:08,012
+can. We can proceed. Yeah. OK. Well,
+
+29
+00:02:08,012 --> 00:02:10,643
+I'm going to start off first by
+
+30
+00:02:10,643 --> 00:02:13,274
+asking is there any questions? So last
+
+31
+00:02:13,274 --> 00:02:16,035
+meeting. Um, we did like
+
+32
+00:02:16,035 --> 00:02:18,686
+a kick off and we explained how
+
+33
+00:02:18,686 --> 00:02:21,337
+to use e-mail fraud defense. Have you
+
+34
+00:02:21,337 --> 00:02:23,989
+come up with any questions since then
+
+35
+00:02:23,989 --> 00:02:26,640
+that you would like to have answered?
+
+36
+00:02:30,220 --> 00:02:32,937
+So I've got one question. So I've been
+
+37
+00:02:32,937 --> 00:02:35,654
+poking around in it just a bit as
+
+38
+00:02:35,654 --> 00:02:38,372
+of yesterday and in the reports. Is there
+
+39
+00:02:38,372 --> 00:02:40,070
+a way for us to?
+
+40
+00:02:41,190 --> 00:02:43,710
+To generate like I
+
+41
+00:02:43,710 --> 00:02:46,455
+think. But we'll be
+
+42
+00:02:46,455 --> 00:02:49,198
+adding for example, is say for example
+
+43
+00:02:49,198 --> 00:02:51,940
+t.com. And so ideally I want to
+
+44
+00:02:51,940 --> 00:02:53,899
+see everything sub domain wiseundertd.com
+
+45
+00:02:53,899 --> 00:02:56,641
+specifically. So can we create a group
+
+46
+00:02:56,641 --> 00:02:59,384
+for that and then report to show
+
+47
+00:02:59,384 --> 00:03:01,734
+the coverage like the percentage of
+
+48
+00:03:01,734 --> 00:03:04,476
+emails that are passing detail like looks
+
+49
+00:03:04,476 --> 00:03:06,996
+like that's. Possible, but that is a
+
+50
+00:03:06,996 --> 00:03:09,329
+typical report. That is a typical report.
+
+51
+00:03:09,329 --> 00:03:11,995
+OK, let me share my Well, would you
+
+52
+00:03:11,995 --> 00:03:14,661
+rather share your screen or do you want
+
+53
+00:03:14,661 --> 00:03:17,327
+me to share mine? Do you have a
+
+54
+00:03:17,327 --> 00:03:19,660
+preference? I'll let you drive. OK, let
+
+55
+00:03:19,660 --> 00:03:20,660
+me show you.
+
+56
+00:03:24,730 --> 00:03:27,468
+Let me know when you're able to
+
+57
+00:03:27,468 --> 00:03:30,206
+see my screen. You should see e-mail
+
+58
+00:03:30,206 --> 00:03:32,944
+fraud defense. OK, that's it. So you
+
+59
+00:03:32,944 --> 00:03:35,682
+kind of stay to what you already
+
+60
+00:03:35,682 --> 00:03:38,420
+needed to do. I mean, you go
+
+61
+00:03:38,420 --> 00:03:41,158
+into create report, but if you want
+
+62
+00:03:41,158 --> 00:03:43,895
+it for td.com and sub domains, then
+
+63
+00:03:43,895 --> 00:03:46,832
+there's a little trick. That you'd want
+
+64
+00:03:46,832 --> 00:03:49,435
+to do so um let's just
+
+65
+00:03:49,435 --> 00:03:52,039
+chat yeah I didn't think I
+
+66
+00:03:52,039 --> 00:03:54,642
+saw any there so you click
+
+67
+00:03:54,642 --> 00:03:57,246
+on create group and it needs
+
+68
+00:03:57,246 --> 00:03:59,849
+to be a dynamic group you
+
+69
+00:03:59,849 --> 00:04:02,453
+click next and here if you're
+
+70
+00:04:02,453 --> 00:04:05,056
+after everything you really don't want
+
+71
+00:04:05,056 --> 00:04:07,914
+to. Specify sending or non sending and
+
+72
+00:04:07,914 --> 00:04:10,661
+then again here you wouldn't have to
+
+73
+00:04:10,661 --> 00:04:13,407
+specify anything here. But the trick is
+
+74
+00:04:13,407 --> 00:04:16,154
+this here you want to type in
+
+75
+00:04:16,154 --> 00:04:18,900
+the name of the apex domain right?
+
+76
+00:04:21,750 --> 00:04:24,616
+So you select it, but in order to see
+
+77
+00:04:24,616 --> 00:04:27,164
+all the subdomains you got to check this
+
+78
+00:04:27,164 --> 00:04:29,711
+thing right here. And then of course you
+
+79
+00:04:29,711 --> 00:04:32,577
+got to give it a name. And I don't
+
+80
+00:04:32,577 --> 00:04:35,443
+know if this is what you want, but we
+
+81
+00:04:35,443 --> 00:04:38,336
+can do. I
+
+82
+00:04:38,336 --> 00:04:40,694
+guess td.com and
+
+83
+00:04:40,694 --> 00:04:43,620
+subdomains. I don't know if that's the
+
+84
+00:04:43,620 --> 00:04:44,520
+name you want, but.
+
+85
+00:04:48,880 --> 00:04:51,584
+So now I got my group and then
+
+86
+00:04:51,584 --> 00:04:54,287
+it's just a matter of of, uh, positioning
+
+87
+00:04:54,287 --> 00:04:56,991
+the widgets. So my interest, what am I
+
+88
+00:04:56,991 --> 00:04:59,695
+interested in most? Maybe at the top you
+
+89
+00:04:59,695 --> 00:05:02,398
+can drag these around a lot like the
+
+90
+00:05:02,398 --> 00:05:05,049
+canvas, So you can. You can drag
+
+91
+00:05:05,049 --> 00:05:07,893
+them around, um, but it's the wedges
+
+92
+00:05:07,893 --> 00:05:10,738
+that you may want to look at.
+
+93
+00:05:10,738 --> 00:05:13,176
+So you have multiple widgets. Domain
+
+94
+00:05:13,176 --> 00:05:16,020
+policy. Domain policy is useful if you're
+
+95
+00:05:16,020 --> 00:05:18,864
+starting a demark journey and you have
+
+96
+00:05:18,864 --> 00:05:21,708
+X number of domains and and you
+
+97
+00:05:21,708 --> 00:05:24,595
+just want to track it. Over a
+
+98
+00:05:24,595 --> 00:05:27,270
+period of time to see them go
+
+99
+00:05:27,270 --> 00:05:29,946
+from maybe no record, maybe to none,
+
+100
+00:05:29,946 --> 00:05:32,622
+and then to your reject or quarantine
+
+101
+00:05:32,622 --> 00:05:35,298
+policy. It would be an example. So
+
+102
+00:05:35,298 --> 00:05:37,974
+domain policy would be helpful in that.
+
+103
+00:05:37,974 --> 00:05:40,650
+Here, let me just say I'm just
+
+104
+00:05:40,650 --> 00:05:43,325
+going to save them all. You do
+
+105
+00:05:43,325 --> 00:05:46,222
+have tables. So everybody's a little bit
+
+106
+00:05:46,222 --> 00:05:48,604
+different. Some people are fine with the
+
+107
+00:05:48,604 --> 00:05:50,646
+charge that we provide. Some people
+
+108
+00:05:50,646 --> 00:05:52,689
+really like the data table. Everybody,
+
+109
+00:05:52,689 --> 00:05:55,411
+you know, is different. I'm just going to
+
+110
+00:05:55,411 --> 00:05:58,134
+save the defaults for right now so you
+
+111
+00:05:58,134 --> 00:06:00,857
+can see them. So once I have my
+
+112
+00:06:00,857 --> 00:06:03,240
+report created, you'll see it listed down
+
+113
+00:06:03,240 --> 00:06:06,189
+below. And when you when
+
+114
+00:06:06,189 --> 00:06:08,873
+you click on that, you'll come
+
+115
+00:06:08,873 --> 00:06:11,557
+to the tab and you'll have
+
+116
+00:06:11,557 --> 00:06:14,241
+the top. Unless you change things
+
+117
+00:06:14,241 --> 00:06:16,925
+around the default, it's going to
+
+118
+00:06:16,925 --> 00:06:19,609
+have Demark progress 1st. And Demark
+
+119
+00:06:19,609 --> 00:06:22,293
+progress is based upon permitted senders.
+
+120
+00:06:22,293 --> 00:06:25,064
+So if you remember firmware. Conversation
+
+121
+00:06:25,064 --> 00:06:27,961
+in the previous meeting we talked about
+
+122
+00:06:27,961 --> 00:06:30,858
+creating the canvas, you know using the
+
+123
+00:06:30,858 --> 00:06:33,755
+different tools there to mark a senders
+
+124
+00:06:33,755 --> 00:06:35,410
+permitted or not permitted.
+
+125
+00:06:37,110 --> 00:06:40,097
+So this is where you can come
+
+126
+00:06:40,097 --> 00:06:43,084
+to kind of get an idea. Well,
+
+127
+00:06:43,084 --> 00:06:46,072
+how well are our permitted emails passing
+
+128
+00:06:46,072 --> 00:06:49,059
+Dr. And it should be high, right?
+
+129
+00:06:49,059 --> 00:06:52,046
+The only time it may not be
+
+130
+00:06:52,046 --> 00:06:55,033
+is if you look down here, follow
+
+131
+00:06:55,033 --> 00:06:57,763
+my mouse this purple. Purple is
+
+132
+00:06:57,763 --> 00:07:00,642
+something you want to watch for. Um,
+
+133
+00:07:00,642 --> 00:07:03,522
+I would maybe recommend to look at
+
+134
+00:07:03,522 --> 00:07:06,401
+the reports once a month. Not a
+
+135
+00:07:06,401 --> 00:07:09,280
+daily thing, but you know, schedule it
+
+136
+00:07:09,280 --> 00:07:12,160
+to look at it once a month.
+
+137
+00:07:12,160 --> 00:07:15,039
+And, and the reason why is sometimes
+
+138
+00:07:15,039 --> 00:07:17,919
+not very often, but I've seen instances
+
+139
+00:07:17,919 --> 00:07:20,365
+where. A provider, um
+
+140
+00:07:20,365 --> 00:07:22,773
+or excuse me, a
+
+141
+00:07:22,773 --> 00:07:25,180
+vendor makes a change
+
+142
+00:07:25,180 --> 00:07:27,587
+in their DNS with
+
+143
+00:07:27,587 --> 00:07:29,995
+unintended consequences and it
+
+144
+00:07:29,995 --> 00:07:31,800
+can affect delivery.
+
+145
+00:07:33,350 --> 00:07:36,123
+So again, I don't see it very often, but
+
+146
+00:07:36,123 --> 00:07:38,588
+it is possible. But what what you'd end
+
+147
+00:07:38,588 --> 00:07:41,052
+up seeing if they did that is typically
+
+148
+00:07:41,052 --> 00:07:43,209
+you're going to have purple kind of
+
+149
+00:07:43,209 --> 00:07:45,982
+overlay this green line if you fall on my
+
+150
+00:07:45,982 --> 00:07:48,741
+mouse. I, I just
+
+151
+00:07:48,741 --> 00:07:51,651
+want to, uh, not, I guess dive off
+
+152
+00:07:51,651 --> 00:07:54,197
+into some direction here. I just wanted
+
+153
+00:07:54,197 --> 00:07:57,107
+to, so we can create a report we
+
+154
+00:07:57,107 --> 00:07:59,654
+can show just specifically td.com and all
+
+155
+00:07:59,654 --> 00:08:02,200
+of its subdomains. Yeah, perfect. Is that
+
+156
+00:08:02,200 --> 00:08:04,746
+something that is once we've created, is
+
+157
+00:08:04,746 --> 00:08:07,656
+that seen by everyone who has access to
+
+158
+00:08:07,656 --> 00:08:10,454
+this?Do we have to create that report
+
+159
+00:08:10,454 --> 00:08:13,143
+per user? It's a per user thing. So
+
+160
+00:08:13,143 --> 00:08:15,833
+if they wanted to, yeah. So how do
+
+161
+00:08:15,833 --> 00:08:18,187
+we make reports that are available for
+
+162
+00:08:18,187 --> 00:08:20,540
+the group? We don't have that capability.
+
+163
+00:08:20,540 --> 00:08:23,230
+If you come up here to the megaphone
+
+164
+00:08:23,230 --> 00:08:25,248
+and go to product documentation or,
+
+165
+00:08:25,248 --> 00:08:27,938
+excuse me, I clicked on the wrong thing,
+
+166
+00:08:27,938 --> 00:08:30,620
+my bad. Product feedback. This is
+
+167
+00:08:30,620 --> 00:08:33,158
+where you come to to submit an
+
+168
+00:08:33,158 --> 00:08:35,696
+enhancement. So I would submit it. I've
+
+169
+00:08:35,696 --> 00:08:38,596
+had a few customers ask about it, but
+
+170
+00:08:38,596 --> 00:08:41,497
+not many really not many requested to be
+
+171
+00:08:41,497 --> 00:08:44,034
+honest. But if that's important for you,
+
+172
+00:08:44,034 --> 00:08:46,935
+then I would submit it and then product
+
+173
+00:08:46,935 --> 00:08:49,564
+management will do what they do. You
+
+174
+00:08:49,564 --> 00:08:52,038
+know, in order to prioritize what they
+
+175
+00:08:52,038 --> 00:08:54,866
+add and the product next. So but that's
+
+176
+00:08:54,866 --> 00:08:56,987
+yeah, that's, that's a pretty important
+
+177
+00:08:56,987 --> 00:08:59,815
+thing because we don't want to onboard a
+
+178
+00:08:59,815 --> 00:09:02,643
+new user and have to walk them through
+
+179
+00:09:02,643 --> 00:09:04,764
+creating all the reports that we've
+
+180
+00:09:04,764 --> 00:09:06,532
+established as critical for monitoring.
+
+181
+00:09:06,532 --> 00:09:09,360
+Yeah. So right now to be the stakeholder.
+
+182
+00:09:09,430 --> 00:09:12,081
+Who has access can set it up
+
+183
+00:09:12,081 --> 00:09:14,732
+and then they would have to get
+
+184
+00:09:14,732 --> 00:09:16,625
+screenshots and share it, unfortunately.
+
+185
+00:09:16,625 --> 00:09:19,276
+All right. So separately like once the
+
+186
+00:09:19,276 --> 00:09:21,927
+report we have something on the screen
+
+187
+00:09:21,927 --> 00:09:24,578
+and we show where, where failure is
+
+188
+00:09:24,578 --> 00:09:27,229
+occurring. Is there any dive into that
+
+189
+00:09:27,229 --> 00:09:29,880
+data? Like could we see further detail?
+
+190
+00:09:30,410 --> 00:09:33,090
+Uh, if we have an anomaly
+
+191
+00:09:33,090 --> 00:09:34,430
+here, yeah, so.
+
+192
+00:09:36,470 --> 00:09:39,170
+What I would do is the canvas
+
+193
+00:09:39,170 --> 00:09:41,870
+is really good to see like high
+
+194
+00:09:41,870 --> 00:09:44,569
+level things. But in this case, right
+
+195
+00:09:44,569 --> 00:09:47,269
+here, let's say that we had some
+
+196
+00:09:47,269 --> 00:09:49,969
+purple on a specific time frame, right?
+
+197
+00:09:49,969 --> 00:09:52,669
+Then you can go into IP viewer.
+
+198
+00:09:52,669 --> 00:09:55,369
+If you remember, we talked about the
+
+199
+00:09:55,369 --> 00:09:58,305
+search tools. So if you
+
+200
+00:09:58,305 --> 00:10:01,094
+go to the search tool, particularly the
+
+201
+00:10:01,094 --> 00:10:03,883
+IP viewer, then you can specify the
+
+202
+00:10:03,883 --> 00:10:06,672
+date range. So it would need. So
+
+203
+00:10:06,672 --> 00:10:09,062
+if that's the situation where you're
+
+204
+00:10:09,062 --> 00:10:11,452
+seeing some purple for permitted emails,
+
+205
+00:10:11,452 --> 00:10:14,241
+then I would make a note of
+
+206
+00:10:14,241 --> 00:10:17,030
+the time and then go to IP.
+
+207
+00:10:17,100 --> 00:10:19,538
+Year make the time match and then the
+
+208
+00:10:19,538 --> 00:10:22,281
+other thing that you can do is there's a
+
+209
+00:10:22,281 --> 00:10:24,415
+current sender here. Let me just ensure
+
+210
+00:10:24,415 --> 00:10:27,158
+that the the data that we see in that
+
+211
+00:10:27,158 --> 00:10:29,596
+report is not something we can dig into.
+
+212
+00:10:29,596 --> 00:10:32,339
+We have to like take a note of where
+
+213
+00:10:32,339 --> 00:10:34,472
+that is that we're interested in finding
+
+214
+00:10:34,472 --> 00:10:36,606
+information and even looking at that if
+
+215
+00:10:36,606 --> 00:10:39,585
+we're looking at. Like as as like a
+
+216
+00:10:39,585 --> 00:10:41,738
+group, right? TDL subdomains, that data
+
+217
+00:10:41,738 --> 00:10:43,533
+doesn't say what it's specifically
+
+218
+00:10:43,533 --> 00:10:46,404
+related to it some part within that data
+
+219
+00:10:46,404 --> 00:10:48,917
+set, it doesn't identify what it is,
+
+220
+00:10:48,917 --> 00:10:51,429
+right? So, yeah, right. So you just
+
+221
+00:10:51,429 --> 00:10:54,301
+basically would be going to IP viewer and
+
+222
+00:10:54,301 --> 00:10:57,172
+using the same criteria that you have for
+
+223
+00:10:57,172 --> 00:10:59,953
+your report. Date range and then we'll
+
+224
+00:10:59,953 --> 00:11:02,658
+what am I? Which of these charts?
+
+225
+00:11:02,658 --> 00:11:04,978
+Ohh, I'm looking for not permitted,
+
+226
+00:11:04,978 --> 00:11:07,683
+undetermined. And then over here in IP
+
+227
+00:11:07,683 --> 00:11:10,003
+viewer you could say something like
+
+228
+00:11:10,003 --> 00:11:12,708
+current sender and you can say, well,
+
+229
+00:11:12,708 --> 00:11:15,414
+I'm looking at permitted or I'm looking
+
+230
+00:11:15,414 --> 00:11:17,733
+for undetermined or not permitted date
+
+231
+00:11:17,733 --> 00:11:20,571
+range. And the idea is you want to
+
+232
+00:11:20,571 --> 00:11:23,477
+make the IP viewer, you want to give it
+
+233
+00:11:23,477 --> 00:11:26,061
+the same data as the chart you're looking
+
+234
+00:11:26,061 --> 00:11:28,645
+at here. So if we're looking at Demark
+
+235
+00:11:28,645 --> 00:11:30,906
+block, right, and you're trying to figure
+
+236
+00:11:30,906 --> 00:11:33,490
+out, well, wait a second, I would expect
+
+237
+00:11:33,490 --> 00:11:36,073
+to see a whole lot more mail being
+
+238
+00:11:36,073 --> 00:11:38,657
+blocked than what I see here. It's only
+
+239
+00:11:38,657 --> 00:11:41,340
+17%. Well, there's reason for that. We
+
+240
+00:11:41,340 --> 00:11:43,1000
+already talked about the RUAUM. We may
+
+241
+00:11:43,1000 --> 00:11:46,660
+not be getting that. And by the
+
+242
+00:11:46,660 --> 00:11:49,320
+way, last week when we had talked
+
+243
+00:11:49,320 --> 00:11:50,460
+about the Rua.
+
+244
+00:11:52,010 --> 00:11:54,110
+You can have three.
+
+245
+00:11:54,970 --> 00:11:57,690
+Male choose for an RUA&RUF.
+
+246
+00:11:57,690 --> 00:12:00,409
+However, what we've found is
+
+247
+00:12:00,409 --> 00:12:03,129
+that some destinations will only
+
+248
+00:12:03,129 --> 00:12:05,848
+report on the 1st 2,
+
+249
+00:12:05,848 --> 00:12:07,480
+not the third.
+
+250
+00:12:08,990 --> 00:12:11,540
+Yeah, we're, so we're gonna be using
+
+251
+00:12:11,540 --> 00:12:14,454
+three. We'll be using two at most. OK,
+
+252
+00:12:14,454 --> 00:12:17,368
+anyway, but the idea is, is to use
+
+253
+00:12:17,368 --> 00:12:20,282
+this right here and then go to IP
+
+254
+00:12:20,282 --> 00:12:22,832
+viewer to get more granular view about
+
+255
+00:12:22,832 --> 00:12:25,746
+this. For example on the 27th, you know,
+
+256
+00:12:25,746 --> 00:12:28,660
+why are we seeing in so much purple?
+
+257
+00:12:28,910 --> 00:12:31,443
+And we would expect to see this, but
+
+258
+00:12:31,443 --> 00:12:33,343
+again, the argula would contribute to
+
+259
+00:12:33,343 --> 00:12:35,877
+that. If we're not, if we're not getting
+
+260
+00:12:35,877 --> 00:12:37,777
+the full visibility, we're we're not
+
+261
+00:12:37,777 --> 00:12:39,993
+going to show you the full picture,
+
+262
+00:12:39,993 --> 00:12:42,210
+right? And so that could be it.
+
+263
+00:12:43,470 --> 00:12:46,202
+Or it actually could be a sender. And
+
+264
+00:12:46,202 --> 00:12:48,934
+I don't think you guys have done this
+
+265
+00:12:48,934 --> 00:12:51,666
+yet with your canvas, so I don't think
+
+266
+00:12:51,666 --> 00:12:54,398
+this would be the situation, but it's a
+
+267
+00:12:54,398 --> 00:12:55,764
+possibility. When you're permitting
+
+268
+00:12:55,764 --> 00:12:57,813
+senders, sometimes you might mark a
+
+269
+00:12:57,813 --> 00:13:00,545
+sender as at that time as not permitted,
+
+270
+00:13:00,545 --> 00:13:02,935
+but in the future someone could switch
+
+271
+00:13:02,935 --> 00:13:05,383
+where they say. But we're not using
+
+272
+00:13:05,383 --> 00:13:07,412
+Sendgrid, we're going to switch to
+
+273
+00:13:07,412 --> 00:13:10,025
+Mailgun. Well, Mel
+
+274
+00:13:10,025 --> 00:13:12,879
+gun at that at the previous time
+
+275
+00:13:12,879 --> 00:13:15,733
+would have been marked as not permitted.
+
+276
+00:13:15,733 --> 00:13:18,587
+And so now if if they went
+
+277
+00:13:18,587 --> 00:13:20,626
+through and they've authorized and
+
+278
+00:13:20,626 --> 00:13:23,480
+everything, you'd have to go into the
+
+279
+00:13:23,480 --> 00:13:26,334
+not permitted in the canvas, mark it
+
+280
+00:13:26,334 --> 00:13:28,780
+as permitted and then Sendgrid since.
+
+281
+00:13:28,870 --> 00:13:31,720
+Some longer permit it would need to be
+
+282
+00:13:31,720 --> 00:13:34,570
+marked as not permitted and then after it
+
+283
+00:13:34,570 --> 00:13:37,420
+kind of depends on the date range, but
+
+284
+00:13:37,420 --> 00:13:40,270
+probably safe to say within 30 days you'd
+
+285
+00:13:40,270 --> 00:13:43,120
+have a better report of what you would
+
+286
+00:13:43,120 --> 00:13:45,970
+expect based upon the change and and and
+
+287
+00:13:45,970 --> 00:13:48,464
+final questions. So are there any reports
+
+288
+00:13:48,464 --> 00:13:51,449
+that?Would be generated in e-mail or or
+
+289
+00:13:51,449 --> 00:13:54,363
+do we have to visit the the portal
+
+290
+00:13:54,363 --> 00:13:57,276
+here? You have to visit the portal. There
+
+291
+00:13:57,276 --> 00:14:00,190
+is a report. So you have APIs, we
+
+292
+00:14:00,190 --> 00:14:03,103
+haven't talked about it yet, but you can
+
+293
+00:14:03,103 --> 00:14:05,652
+pull data via API. Yeah, understood. And
+
+294
+00:14:05,652 --> 00:14:08,566
+so we don't need to go into that
+
+295
+00:14:08,566 --> 00:14:11,438
+but. Is, is there any monitoring?
+
+296
+00:14:11,438 --> 00:14:13,787
+I'm kind of bouncing around a little bit,
+
+297
+00:14:13,787 --> 00:14:16,430
+so I apologize, but it is good. So some
+
+298
+00:14:16,430 --> 00:14:19,366
+of the emails that we get today is we get
+
+299
+00:14:19,366 --> 00:14:19,660
+notices.
+
+300
+00:14:22,460 --> 00:14:25,337
+Is where an SPF record is created is
+
+301
+00:14:25,337 --> 00:14:27,855
+changed or Decam records changed? Is Is
+
+302
+00:14:27,855 --> 00:14:30,372
+this also capable of monitoring those and
+
+303
+00:14:30,372 --> 00:14:32,890
+and alerting on those changes for DMARC
+
+304
+00:14:32,890 --> 00:14:35,767
+and SPF? Yes. You would set it up
+
+305
+00:14:35,767 --> 00:14:38,285
+for these two alerts right? Demark record
+
+306
+00:14:38,285 --> 00:14:41,162
+and if you click on these it says
+
+307
+00:14:41,162 --> 00:14:42,960
+3 but you got 3.
+
+308
+00:14:44,410 --> 00:14:47,238
+Three items you can choose
+
+309
+00:14:47,238 --> 00:14:50,066
+Demark record change, multiple or
+
+310
+00:14:50,066 --> 00:14:52,894
+inconsistent and then Demark errors
+
+311
+00:14:52,894 --> 00:14:55,722
+or warnings. Same for SPF.
+
+312
+00:14:55,722 --> 00:14:58,550
+Yep. So you just subscribe,
+
+313
+00:14:58,550 --> 00:15:01,378
+you know, and then you'll
+
+314
+00:15:01,378 --> 00:15:03,640
+start receiving those reports.
+
+315
+00:15:04,270 --> 00:15:06,310
+If you need to.
+
+316
+00:15:07,360 --> 00:15:10,011
+You can also pause it. So let's say you
+
+317
+00:15:10,011 --> 00:15:12,073
+say, well, I understand what the issue
+
+318
+00:15:12,073 --> 00:15:14,429
+is. We're we're fixing it, but I don't
+
+319
+00:15:14,429 --> 00:15:17,080
+want the alert. So what you could do is
+
+320
+00:15:17,080 --> 00:15:19,437
+come here, you could see I've got it
+
+321
+00:15:19,437 --> 00:15:22,088
+disabled. But what I can do is I can
+
+322
+00:15:22,088 --> 00:15:24,444
+pause that alert for a period of time.
+
+323
+00:15:24,444 --> 00:15:27,095
+Now I haven't, I haven't got it set up
+
+324
+00:15:27,095 --> 00:15:30,022
+so. But but it can be paused
+
+325
+00:15:30,022 --> 00:15:32,987
+if I need it to be. So,
+
+326
+00:15:32,987 --> 00:15:35,952
+OK. But yeah, just alerted the dashboard
+
+327
+00:15:35,952 --> 00:15:38,917
+itself, right? Yes, Sir. Yeah. OK. And
+
+328
+00:15:38,917 --> 00:15:41,882
+these again are going to be user
+
+329
+00:15:41,882 --> 00:15:44,848
+specific. So if you set up the
+
+330
+00:15:44,848 --> 00:15:47,813
+you subscribe to an alert, you're just
+
+331
+00:15:47,813 --> 00:15:49,647
+subscribing yourself. Right. So
+
+332
+00:15:49,647 --> 00:15:52,188
+understood. OK, Alright, thank you. Thank
+
+333
+00:15:52,188 --> 00:15:55,153
+you. Yeah. Yeah. Well, happy to answer
+
+334
+00:15:55,153 --> 00:15:55,1000
+any questions.
+
+335
+00:15:58,110 --> 00:16:00,753
+So what we didn't
+
+336
+00:16:00,753 --> 00:16:03,396
+cover in the previous
+
+337
+00:16:03,396 --> 00:16:06,039
+meeting is supplier Risk
+
+338
+00:16:06,039 --> 00:16:09,008
+Explorer. Look alike domains
+
+339
+00:16:09,008 --> 00:16:11,781
+and hosted services along with well, we
+
+340
+00:16:11,781 --> 00:16:14,553
+didn't cover reports either, but we kind
+
+341
+00:16:14,553 --> 00:16:17,326
+of did that right now, so I'm
+
+342
+00:16:17,326 --> 00:16:18,910
+not worried about that.
+
+343
+00:16:21,020 --> 00:16:22,850
+Look alike domains.
+
+344
+00:16:25,020 --> 00:16:27,095
+Is away and I can't show you because I
+
+345
+00:16:27,095 --> 00:16:29,170
+don't think we got to see. No, we don't.
+
+346
+00:16:30,560 --> 00:16:33,290
+Look, Alikes, so Demark does a
+
+347
+00:16:33,290 --> 00:16:36,020
+great job of protecting yourorganization.
+
+348
+00:16:39,340 --> 00:16:41,969
+From bad actors that
+
+349
+00:16:41,969 --> 00:16:44,597
+are using that specific
+
+350
+00:16:44,597 --> 00:16:47,226
+spelling or characters for
+
+351
+00:16:47,226 --> 00:16:48,540
+your domain.
+
+352
+00:16:50,670 --> 00:16:53,533
+But it doesn't protect you from look
+
+353
+00:16:53,533 --> 00:16:56,395
+alikes, you know we're a bad actor
+
+354
+00:16:56,395 --> 00:16:59,258
+could could take. I don't know if
+
+355
+00:16:59,258 --> 00:17:02,120
+TD's a good example, but if you
+
+356
+00:17:02,120 --> 00:17:04,574
+had another domain that had multiple
+
+357
+00:17:04,574 --> 00:17:07,027
+characters, they might be able to
+
+358
+00:17:07,027 --> 00:17:09,890
+substitute an A or an ID or.
+
+359
+00:17:09,980 --> 00:17:12,502
+Various different characters. They could
+
+360
+00:17:12,502 --> 00:17:15,024
+substitute it for some international
+
+361
+00:17:15,024 --> 00:17:17,546
+character as an attempt to
+
+362
+00:17:17,546 --> 00:17:20,067
+get someone to bite on
+
+363
+00:17:20,067 --> 00:17:22,589
+a fish massage. You know,
+
+364
+00:17:22,589 --> 00:17:25,111
+BC whatever campaign they're trying
+
+365
+00:17:25,111 --> 00:17:26,120
+to launch.
+
+366
+00:17:28,730 --> 00:17:31,381
+He mark doesn't protect you against that,
+
+367
+00:17:31,381 --> 00:17:34,031
+so that's why we added the look
+
+368
+00:17:34,031 --> 00:17:36,682
+alike domains feature. If you want to
+
+369
+00:17:36,682 --> 00:17:39,333
+use it, then you go to system
+
+370
+00:17:39,333 --> 00:17:41,984
+under system down here and to the
+
+371
+00:17:41,984 --> 00:17:44,635
+right is where you come to configure
+
+372
+00:17:44,635 --> 00:17:47,285
+it. Now it's going to say there's
+
+373
+00:17:47,285 --> 00:17:50,156
+no act of seeds. The way this
+
+374
+00:17:50,156 --> 00:17:53,109
+tool works is we look at the
+
+375
+00:17:53,109 --> 00:17:56,062
+apex domains. So if I say confirm
+
+376
+00:17:56,062 --> 00:17:59,015
+seed, it's going to bring me in
+
+377
+00:17:59,015 --> 00:18:01,968
+here step 1-2 and three. But first
+
+378
+00:18:01,968 --> 00:18:04,921
+step is adding the seeds and this
+
+379
+00:18:04,921 --> 00:18:07,874
+is where you'd want to add in
+
+380
+00:18:07,874 --> 00:18:10,182
+the look alikesnowtd.com. It's going to
+
+381
+00:18:10,182 --> 00:18:12,426
+be tough, guys. There's 2 characters. You
+
+382
+00:18:12,426 --> 00:18:14,670
+can have so many variations of that.
+
+383
+00:18:15,990 --> 00:18:18,623
+They would do or what they would
+
+384
+00:18:18,623 --> 00:18:21,256
+recommend is is. Maybe it might be
+
+385
+00:18:21,256 --> 00:18:22,760
+better to use um.
+
+386
+00:18:23,840 --> 00:18:26,698
+TD Bank. You know,
+
+387
+00:18:26,698 --> 00:18:29,432
+you, you, you kind of have to think like
+
+388
+00:18:29,432 --> 00:18:32,167
+a bad actor. So if I was going to
+
+389
+00:18:32,167 --> 00:18:33,990
+create a look alike, you know.
+
+390
+00:18:35,330 --> 00:18:37,966
+How how would I do that?
+
+391
+00:18:37,966 --> 00:18:40,602
+You know, TD is is might
+
+392
+00:18:40,602 --> 00:18:43,238
+be too short because of all
+
+393
+00:18:43,238 --> 00:18:45,874
+the variations for you to protect
+
+394
+00:18:45,874 --> 00:18:48,510
+against or monitor for. Well, we
+
+395
+00:18:48,510 --> 00:18:51,146
+do not maybe in lots of
+
+396
+00:18:51,146 --> 00:18:53,782
+other variations today. What what does
+
+397
+00:18:53,782 --> 00:18:56,478
+what does TD?It's an
+
+398
+00:18:56,478 --> 00:18:59,025
+abbreviation, right? What does T? It is,
+
+399
+00:18:59,025 --> 00:19:00,480
+It's around the menu.
+
+400
+00:19:01,950 --> 00:19:04,369
+So that might be something you could use,
+
+401
+00:19:04,369 --> 00:19:06,789
+but you want to think this out. Just
+
+402
+00:19:06,789 --> 00:19:09,208
+don't put in a 2 character or three
+
+403
+00:19:09,208 --> 00:19:11,325
+character. You kind of want to think,
+
+404
+00:19:11,325 --> 00:19:14,047
+well what are the bad guys going to do?
+
+405
+00:19:14,047 --> 00:19:16,164
+And I'm sure your security team has
+
+406
+00:19:16,164 --> 00:19:18,281
+already seen instances. So that would be
+
+407
+00:19:18,281 --> 00:19:21,003
+a good place to go to or resource to
+
+408
+00:19:21,003 --> 00:19:23,749
+go to say. These security, we have this
+
+409
+00:19:23,749 --> 00:19:26,225
+feature look alikes, you know what have
+
+410
+00:19:26,225 --> 00:19:29,054
+you seen in the past because we need
+
+411
+00:19:29,054 --> 00:19:31,884
+to add a seed that's going to catch
+
+412
+00:19:31,884 --> 00:19:34,360
+the look alikes that we're interested in.
+
+413
+00:19:35,340 --> 00:19:38,177
+Maybe not those that we don't care
+
+414
+00:19:38,177 --> 00:19:40,609
+about. South detection is key, that's
+
+415
+00:19:40,609 --> 00:19:43,446
+all. Yeah, like I said, we do
+
+416
+00:19:43,446 --> 00:19:46,283
+this today. We do monitor for the
+
+417
+00:19:46,283 --> 00:19:48,310
+keyword TD, unfortunately, because it
+
+418
+00:19:48,310 --> 00:19:50,742
+gets split with hyphens, underscores, all
+
+419
+00:19:50,742 --> 00:19:53,579
+variations that you can think of, you
+
+420
+00:19:53,579 --> 00:19:56,451
+know, and and and. Keyboard typos and
+
+421
+00:19:56,451 --> 00:19:59,386
+so any, any domain registrar with TD in
+
+422
+00:19:59,386 --> 00:20:02,321
+it, unfortunately, I have to look at it.
+
+423
+00:20:02,321 --> 00:20:05,257
+Do you have, are you saying that you
+
+424
+00:20:05,257 --> 00:20:07,458
+have another service you're using that
+
+425
+00:20:07,458 --> 00:20:10,393
+does the same thing? OK, so it's up
+
+426
+00:20:10,393 --> 00:20:13,329
+to you. It's part of the service. You
+
+427
+00:20:13,329 --> 00:20:15,530
+know, it's not any extra money.
+
+428
+00:20:16,650 --> 00:20:19,511
+But if you wanted to configure it and
+
+429
+00:20:19,511 --> 00:20:22,373
+test it out, I would recommend to add,
+
+430
+00:20:22,373 --> 00:20:25,234
+you know, two or three seeds and then
+
+431
+00:20:25,234 --> 00:20:28,096
+you can go look, We'd probably use this
+
+432
+00:20:28,096 --> 00:20:30,599
+in some capacity probably from a threat
+
+433
+00:20:30,599 --> 00:20:32,388
+defense operations perspective. But the,
+
+434
+00:20:32,388 --> 00:20:35,249
+the reason for the other service is for
+
+435
+00:20:35,249 --> 00:20:37,660
+for, for legal enforcement. OK.
+
+436
+00:20:40,720 --> 00:20:43,357
+So, and we said, let's see one
+
+437
+00:20:43,357 --> 00:20:45,993
+one thing to call out, sorry to
+
+438
+00:20:45,993 --> 00:20:48,253
+interrupt. I'm included in your license
+
+439
+00:20:48,253 --> 00:20:50,890
+is a takedown service. So you can
+
+440
+00:20:50,890 --> 00:20:53,150
+submit takedowns from our portal. You
+
+441
+00:20:53,150 --> 00:20:55,787
+might want to use your legal service,
+
+442
+00:20:55,787 --> 00:20:58,423
+but also use us in conjunction because
+
+443
+00:20:58,423 --> 00:21:01,060
+we can also do like soft takedowns.
+
+444
+00:21:01,140 --> 00:21:04,061
+Where we can, which are much faster, we
+
+445
+00:21:04,061 --> 00:21:06,981
+can go to our URL lists, our own
+
+446
+00:21:06,981 --> 00:21:09,902
+service and make the take that down as
+
+447
+00:21:09,902 --> 00:21:12,823
+you work through a hard takedown. We also
+
+448
+00:21:12,823 --> 00:21:14,648
+have relationships with the registrars,
+
+449
+00:21:14,648 --> 00:21:17,569
+so it's something that you can make use
+
+450
+00:21:17,569 --> 00:21:20,125
+of. You could submit the takedown request
+
+451
+00:21:20,125 --> 00:21:22,633
+from here or. From the takedown portal,
+
+452
+00:21:22,633 --> 00:21:24,932
+yeah, for sure. We'll definitely take a
+
+453
+00:21:24,932 --> 00:21:27,230
+look at it and evaluate its capabilities
+
+454
+00:21:27,230 --> 00:21:30,186
+and see where it fits in our process. But
+
+455
+00:21:30,186 --> 00:21:32,813
+the majority of the use cases that I'm
+
+456
+00:21:32,813 --> 00:21:35,111
+chasing down our trademark based. So. So
+
+457
+00:21:35,111 --> 00:21:38,066
+that's why it has to go through a legal
+
+458
+00:21:38,066 --> 00:21:40,693
+process. We have to have letters we have
+
+459
+00:21:40,693 --> 00:21:43,448
+to have. Follow up letter etcetera until
+
+460
+00:21:43,448 --> 00:21:46,288
+it's remediated. But for for threats that
+
+461
+00:21:46,288 --> 00:21:48,317
+are detected, we'll, we'll certainly
+
+462
+00:21:48,317 --> 00:21:51,156
+consider this for for takedowns. OK, just
+
+463
+00:21:51,156 --> 00:21:53,996
+one other thing before I forget, don't
+
+464
+00:21:53,996 --> 00:21:56,836
+I don't know why, but I've seen
+
+465
+00:21:56,836 --> 00:21:59,676
+a lot of Caspers just start adding
+
+466
+00:21:59,676 --> 00:22:02,110
+ignore rules without looking at the.
+
+467
+00:22:02,180 --> 00:22:04,719
+Protections. Please add your seeds,
+
+468
+00:22:04,719 --> 00:22:07,258
+get the detections. If you're
+
+469
+00:22:07,258 --> 00:22:09,797
+going to use the service,
+
+470
+00:22:09,797 --> 00:22:12,336
+add your seeds, look or
+
+471
+00:22:12,336 --> 00:22:14,875
+evaluate the detections, then come
+
+472
+00:22:14,875 --> 00:22:17,414
+back and create Ignore rules
+
+473
+00:22:17,414 --> 00:22:19,953
+because if you do it
+
+474
+00:22:19,953 --> 00:22:22,492
+too early, you're actually going
+
+475
+00:22:22,492 --> 00:22:25,212
+to. Prevent seeing some look alikes
+
+476
+00:22:25,212 --> 00:22:28,197
+that you need to block or you
+
+477
+00:22:28,197 --> 00:22:31,183
+need to take action on. So keep
+
+478
+00:22:31,183 --> 00:22:34,168
+that in mind. And the other gotcha
+
+479
+00:22:34,168 --> 00:22:36,300
+is this corporate name servers.
+
+480
+00:22:37,760 --> 00:22:40,588
+Corporate name servers, if you add them
+
+481
+00:22:40,588 --> 00:22:43,416
+here, only add a name server you
+
+482
+00:22:43,416 --> 00:22:46,244
+have control over. For example, if you're
+
+483
+00:22:46,244 --> 00:22:49,072
+using Akamai, I think you've got the
+
+484
+00:22:49,072 --> 00:22:51,900
+name right. If you use an Akamai
+
+485
+00:22:51,900 --> 00:22:54,728
+or GoDaddy or something like that, you
+
+486
+00:22:54,728 --> 00:22:57,556
+wouldn't want to add those name servers
+
+487
+00:22:57,556 --> 00:23:00,296
+here. Why? Because they those nameservers
+
+488
+00:23:00,296 --> 00:23:02,751
+are serving other organizations. And so
+
+489
+00:23:02,751 --> 00:23:05,615
+by adding them here again, you're going
+
+490
+00:23:05,615 --> 00:23:08,070
+to prevent some detections from being
+
+491
+00:23:08,070 --> 00:23:10,935
+seen. And then you might be on
+
+492
+00:23:10,935 --> 00:23:13,799
+the phone with me saying to him,
+
+493
+00:23:13,799 --> 00:23:16,663
+you know, we're we were expecting to
+
+494
+00:23:16,663 --> 00:23:19,356
+see this look alike. We found it
+
+495
+00:23:19,356 --> 00:23:22,225
+here, but we don't see it here why And
+
+496
+00:23:22,225 --> 00:23:24,775
+it's either going to be related to the
+
+497
+00:23:24,775 --> 00:23:27,324
+ignore rules you created or it's going to
+
+498
+00:23:27,324 --> 00:23:29,556
+be related to the corporate name servers.
+
+499
+00:23:29,556 --> 00:23:32,424
+So just a word of caution, if you are
+
+500
+00:23:32,424 --> 00:23:34,974
+going to use the service, I would, I
+
+501
+00:23:34,974 --> 00:23:37,524
+would encourage you to use it, but it's
+
+502
+00:23:37,524 --> 00:23:40,173
+up to you. Um, look alike
+
+503
+00:23:40,173 --> 00:23:43,142
+alerts is here. So if you need
+
+504
+00:23:43,142 --> 00:23:46,112
+to add an alert, you do it
+
+505
+00:23:46,112 --> 00:23:48,658
+here. Um, there's multiple conditions you
+
+506
+00:23:48,658 --> 00:23:51,627
+can use. You can and or you
+
+507
+00:23:51,627 --> 00:23:54,597
+can, you know, use ORS and Ands
+
+508
+00:23:54,597 --> 00:23:55,870
+or complex conditions.
+
+509
+00:23:58,080 --> 00:24:00,240
+And these are the ones you can choose
+
+510
+00:24:00,240 --> 00:24:03,212
+from. And you can, if
+
+511
+00:24:03,212 --> 00:24:05,929
+you're using the tag results, you can
+
+512
+00:24:05,929 --> 00:24:07,870
+use that as well, so.
+
+513
+00:24:09,730 --> 00:24:12,253
+Logos. I didn't. I skipped that part. My
+
+514
+00:24:12,253 --> 00:24:14,460
+back. Let me go back over here.
+
+515
+00:24:16,040 --> 00:24:18,655
+Hundreds of corporate name servers you
+
+516
+00:24:18,655 --> 00:24:21,270
+also have logos so the the
+
+517
+00:24:21,270 --> 00:24:23,885
+service is capable of scanning when
+
+518
+00:24:23,885 --> 00:24:26,500
+we're going out crawling the Internet
+
+519
+00:24:26,500 --> 00:24:29,116
+looking for look alikes we'll we'll
+
+520
+00:24:29,116 --> 00:24:31,731
+look for the logos that you've
+
+521
+00:24:31,731 --> 00:24:33,910
+added here very helpful so.
+
+522
+00:24:35,230 --> 00:24:38,032
+That's really look alike domains. Um,
+
+523
+00:24:38,032 --> 00:24:40,834
+I can't really demo the detections
+
+524
+00:24:40,834 --> 00:24:43,636
+because you got to add a
+
+525
+00:24:43,636 --> 00:24:46,438
+seed first. You can only add
+
+526
+00:24:46,438 --> 00:24:49,240
+a seed if it's claimed and
+
+527
+00:24:49,240 --> 00:24:52,042
+you've proven ownership. If you've done
+
+528
+00:24:52,042 --> 00:24:53,910
+that, you can add.
+
+529
+00:24:55,550 --> 00:24:58,092
+An apex domain as AC,
+
+530
+00:24:58,092 --> 00:25:00,635
+no role based access control.
+
+531
+00:25:00,635 --> 00:25:03,177
+Presently they're targeting I think
+
+532
+00:25:03,177 --> 00:25:05,719
+it's the third or fourth
+
+533
+00:25:05,719 --> 00:25:08,262
+quarter of this year. So,
+
+534
+00:25:08,262 --> 00:25:10,804
+but role based access control
+
+535
+00:25:10,804 --> 00:25:13,346
+is coming, we just can't
+
+536
+00:25:13,346 --> 00:25:16,233
+say exactly when but. With look
+
+537
+00:25:16,233 --> 00:25:18,581
+alike domains it's increased the the
+
+538
+00:25:18,581 --> 00:25:21,320
+priority of making sure that we get
+
+539
+00:25:21,320 --> 00:25:24,060
+that added. But they've been working on
+
+540
+00:25:24,060 --> 00:25:26,799
+role based access control for a few
+
+541
+00:25:26,799 --> 00:25:28,756
+years because it involves multiple
+
+542
+00:25:28,756 --> 00:25:31,495
+products. So it's not something they can
+
+543
+00:25:31,495 --> 00:25:34,235
+just knock out, you know, because it's
+
+544
+00:25:34,235 --> 00:25:37,024
+involving multiple products, so. That's
+
+545
+00:25:37,024 --> 00:25:39,763
+look alike. Umm, we can talk more if you
+
+546
+00:25:39,763 --> 00:25:42,197
+were to add some seeds. If you have
+
+547
+00:25:42,197 --> 00:25:44,023
+questions about the detections, then you
+
+548
+00:25:44,023 --> 00:25:46,761
+just need to reach out to me and and
+
+549
+00:25:46,761 --> 00:25:48,891
+if we have a regularly scheduled meeting,
+
+550
+00:25:48,891 --> 00:25:51,630
+we can talk about it then. Or if you
+
+551
+00:25:51,630 --> 00:25:54,369
+just want to do an ad hoc, we can
+
+552
+00:25:54,369 --> 00:25:55,890
+do that. Whatever you need.
+
+553
+00:25:57,240 --> 00:25:57,980
+Um.
+
+554
+00:26:00,040 --> 00:26:02,115
+I'm going to skip Supplier Risk Explorer
+
+555
+00:26:02,115 --> 00:26:04,784
+right now. I'm going to come up and talk
+
+556
+00:26:04,784 --> 00:26:05,970
+more about hosted services.
+
+557
+00:26:07,020 --> 00:26:07,870
+So.
+
+558
+00:26:10,740 --> 00:26:13,376
+Hosted SPF. So we've got all
+
+559
+00:26:13,376 --> 00:26:16,012
+these services here. Bimmy is fairly
+
+560
+00:26:16,012 --> 00:26:18,648
+new. I want to say maybe
+
+561
+00:26:18,648 --> 00:26:21,285
+about four months. I might have
+
+562
+00:26:21,285 --> 00:26:23,921
+that wrong, but hosted services is
+
+563
+00:26:23,921 --> 00:26:26,557
+very helpful if you're on the
+
+564
+00:26:26,557 --> 00:26:29,193
+journey. Now realize you got many
+
+565
+00:26:29,193 --> 00:26:31,390
+domains that reject or quarantine.
+
+566
+00:26:32,500 --> 00:26:35,113
+But there there is benefits and they're
+
+567
+00:26:35,113 --> 00:26:38,100
+going to be the same as what Agari
+
+568
+00:26:38,100 --> 00:26:40,713
+or anybody else provides that are they're
+
+569
+00:26:40,713 --> 00:26:43,700
+using dynamic SPF is I think what some
+
+570
+00:26:43,700 --> 00:26:46,556
+call it, but. But
+
+571
+00:26:46,556 --> 00:26:49,258
+there are certain benefits #1 if you
+
+572
+00:26:49,258 --> 00:26:51,961
+have a high volume domain, you may
+
+573
+00:26:51,961 --> 00:26:54,663
+have many vendors that you're using, and
+
+574
+00:26:54,663 --> 00:26:57,365
+you may have heard about the DNS
+
+575
+00:26:57,365 --> 00:27:00,067
+query limit. Well, that's the reason why
+
+576
+00:27:00,067 --> 00:27:02,770
+you might want to use hosted SPF
+
+577
+00:27:02,770 --> 00:27:04,700
+is to get around that.
+
+578
+00:27:06,150 --> 00:27:09,142
+It's very easy to set up. First thing
+
+579
+00:27:09,142 --> 00:27:12,135
+you do is you have to enroll and
+
+580
+00:27:12,135 --> 00:27:14,753
+that you would do for hosted Decam,
+
+581
+00:27:14,753 --> 00:27:17,371
+hosted Mark, hosted Bimmy first step is
+
+582
+00:27:17,371 --> 00:27:19,615
+to enroll the domains. Enrolling's real
+
+583
+00:27:19,615 --> 00:27:22,608
+easy. You just come here and either paste
+
+584
+00:27:22,608 --> 00:27:25,600
+in a list or you do a search.
+
+585
+00:27:26,320 --> 00:27:29,121
+And then um. And
+
+586
+00:27:29,121 --> 00:27:31,679
+then once they've been enrolled,
+
+587
+00:27:31,679 --> 00:27:34,236
+then you need to manage
+
+588
+00:27:34,236 --> 00:27:36,794
+them. So, um, you click
+
+589
+00:27:36,794 --> 00:27:39,351
+on it and it's going
+
+590
+00:27:39,351 --> 00:27:41,908
+to bring you into this
+
+591
+00:27:41,908 --> 00:27:44,870
+Screener. Right here 5
+
+592
+00:27:44,870 --> 00:27:47,553
+you can see what needs to be
+
+593
+00:27:47,553 --> 00:27:50,237
+replaced if you're going to have this,
+
+594
+00:27:50,237 --> 00:27:52,830
+um. Handle
+
+595
+00:27:52,830 --> 00:27:55,780
+request. Coming in for
+
+596
+00:27:55,780 --> 00:27:58,767
+SPF for this domain, if you're going to
+
+597
+00:27:58,767 --> 00:28:01,753
+have us handled for all the senders, then
+
+598
+00:28:01,753 --> 00:28:04,740
+you would use this. If you're going to
+
+599
+00:28:04,740 --> 00:28:07,727
+go for a hybrid, then you would use
+
+600
+00:28:07,727 --> 00:28:10,340
+this. So you'll notice that the include
+
+601
+00:28:10,340 --> 00:28:12,580
+is really the same for both.
+
+602
+00:28:14,370 --> 00:28:17,300
+What you have to do to set up
+
+603
+00:28:17,300 --> 00:28:20,230
+a hybrid is we would prefer that you
+
+604
+00:28:20,230 --> 00:28:22,794
+have us at the first position. For
+
+605
+00:28:22,794 --> 00:28:25,724
+example, when I say position you have V
+
+606
+00:28:25,724 --> 00:28:28,655
+equals SPF one. Well then you may have
+
+607
+00:28:28,655 --> 00:28:31,218
+some other include. Well it's at the
+
+608
+00:28:31,218 --> 00:28:34,149
+first position, you would want to put a
+
+609
+00:28:34,149 --> 00:28:35,980
+macro in front of it.
+
+610
+00:28:36,750 --> 00:28:39,737
+Why telemetry? So some of
+
+611
+00:28:39,737 --> 00:28:42,725
+you that's been maybe working
+
+612
+00:28:42,725 --> 00:28:45,712
+with e-mail for a long
+
+613
+00:28:45,712 --> 00:28:48,637
+time. You would know
+
+614
+00:28:48,637 --> 00:28:51,523
+that a lot of times SPF records
+
+615
+00:28:51,523 --> 00:28:54,410
+really are never cleaned up, which means
+
+616
+00:28:54,410 --> 00:28:57,296
+that they're overly permissive. So if I
+
+617
+00:28:57,296 --> 00:29:00,182
+had a sender and I moved away
+
+618
+00:29:00,182 --> 00:29:03,068
+from that sender and I left them
+
+619
+00:29:03,068 --> 00:29:05,130
+in there, basically I'm giving.
+
+620
+00:29:06,650 --> 00:29:09,276
+Someone permission who could use that
+
+621
+00:29:09,276 --> 00:29:11,902
+sender to send out so it's
+
+622
+00:29:11,902 --> 00:29:14,528
+recommended to clean it up with
+
+623
+00:29:14,528 --> 00:29:16,716
+telemetry. It makes it possible.
+
+624
+00:29:16,716 --> 00:29:19,342
+Telemetry will not be available until
+
+625
+00:29:19,342 --> 00:29:21,968
+it goes live. What is and
+
+626
+00:29:21,968 --> 00:29:24,594
+to go live. What you're going
+
+627
+00:29:24,594 --> 00:29:27,220
+to do is as an example.
+
+628
+00:29:27,310 --> 00:29:30,131
+This is the current SPF record. Once
+
+629
+00:29:30,131 --> 00:29:32,549
+you've gone through managing the senders
+
+630
+00:29:32,549 --> 00:29:35,370
+to go live, you're going to swap
+
+631
+00:29:35,370 --> 00:29:38,191
+this with this if you want us
+
+632
+00:29:38,191 --> 00:29:41,012
+to manage all of the senders. And
+
+633
+00:29:41,012 --> 00:29:43,833
+again, if you wanted to hybrid, then
+
+634
+00:29:43,833 --> 00:29:46,654
+you would want to put this right
+
+635
+00:29:46,654 --> 00:29:49,319
+after this. And then put um and
+
+636
+00:29:49,319 --> 00:29:52,133
+include to the right or in Max. Whatever
+
+637
+00:29:52,133 --> 00:29:54,947
+the mechanism is, you would put it to
+
+638
+00:29:54,947 --> 00:29:57,410
+the right if you needed a hybrid.
+
+639
+00:30:01,100 --> 00:30:03,984
+When, when you, when you unroll it, we're
+
+640
+00:30:03,984 --> 00:30:06,869
+going to, we pull in the SPF record
+
+641
+00:30:06,869 --> 00:30:09,393
+immediately. So you'll see this. And if
+
+642
+00:30:09,393 --> 00:30:11,917
+there's any nested includes, you can, you
+
+643
+00:30:11,917 --> 00:30:14,080
+know, expand them to see them.
+
+644
+00:30:15,630 --> 00:30:18,142
+Managed Sanders is where you come to
+
+645
+00:30:18,142 --> 00:30:20,654
+configure it though. So before you go
+
+646
+00:30:20,654 --> 00:30:23,525
+live, you need to configure it. And So
+
+647
+00:30:23,525 --> 00:30:26,395
+what we're going to do is we're going
+
+648
+00:30:26,395 --> 00:30:29,266
+to pull in those includes here. So we're
+
+649
+00:30:29,266 --> 00:30:32,137
+going to pull them in here. It won't
+
+650
+00:30:32,137 --> 00:30:34,290
+be active. It will show, no.
+
+651
+00:30:35,810 --> 00:30:38,662
+Then you could choose to say, hey, I
+
+652
+00:30:38,662 --> 00:30:41,514
+want I want proof point to manage all
+
+653
+00:30:41,514 --> 00:30:44,009
+of these senators. You just select that
+
+654
+00:30:44,009 --> 00:30:46,861
+you say add to hosted record and then
+
+655
+00:30:46,861 --> 00:30:49,713
+all of this right here is going to
+
+656
+00:30:49,713 --> 00:30:52,565
+switch to a yes. And assuming there's no
+
+657
+00:30:52,565 --> 00:30:55,060
+other senders that you need to add.
+
+658
+00:30:56,290 --> 00:30:58,859
+Then you can publish or
+
+659
+00:30:58,859 --> 00:31:01,428
+make the switch from the
+
+660
+00:31:01,428 --> 00:31:03,998
+SPF record to the macro,
+
+661
+00:31:03,998 --> 00:31:06,567
+and then once it propagates
+
+662
+00:31:06,567 --> 00:31:09,136
+this will switch to being
+
+663
+00:31:09,136 --> 00:31:11,705
+live. Then we're in your
+
+664
+00:31:11,705 --> 00:31:14,275
+mail flow, so we'll be
+
+665
+00:31:14,275 --> 00:31:17,050
+answering any SPF request. On your
+
+666
+00:31:17,050 --> 00:31:18,650
+behalf as they come in.
+
+667
+00:31:20,640 --> 00:31:21,360
+Um.
+
+668
+00:31:23,500 --> 00:31:26,295
+Documentation for hosted SPF If you
+
+669
+00:31:26,295 --> 00:31:29,090
+come up here to the megaphone,
+
+670
+00:31:29,090 --> 00:31:31,885
+we have both videos and we
+
+671
+00:31:31,885 --> 00:31:34,214
+have product documentation. The videos
+
+672
+00:31:34,214 --> 00:31:37,009
+are not very long. We keep
+
+673
+00:31:37,009 --> 00:31:39,803
+them short to the point because
+
+674
+00:31:39,803 --> 00:31:42,598
+we know that administrators are busy
+
+675
+00:31:42,598 --> 00:31:45,400
+so but. This is where they
+
+676
+00:31:45,400 --> 00:31:48,100
+are. So this is a good
+
+677
+00:31:48,100 --> 00:31:50,800
+place of of it's just a
+
+678
+00:31:50,800 --> 00:31:53,050
+good resource. And then product
+
+679
+00:31:53,050 --> 00:31:55,300
+documentation is another place. And
+
+680
+00:31:55,300 --> 00:31:57,1000
+again, here's the information for hosted
+
+681
+00:31:57,1000 --> 00:32:00,250
+SPF, hosted DTM, hosted DeMar.
+
+682
+00:32:01,560 --> 00:32:04,250
+So this is where you become um.
+
+683
+00:32:05,600 --> 00:32:06,850
+To learn more about it.
+
+684
+00:32:09,610 --> 00:32:12,001
+If I come back over here to manage
+
+685
+00:32:12,001 --> 00:32:12,300
+senders.
+
+686
+00:32:15,890 --> 00:32:18,693
+When you click on add senders, I'm going
+
+687
+00:32:18,693 --> 00:32:21,145
+to describe this as a basic find.
+
+688
+00:32:21,145 --> 00:32:23,948
+Sometimes you'll put in a sender name and
+
+689
+00:32:23,948 --> 00:32:26,751
+you won't get any result. Or you may
+
+690
+00:32:26,751 --> 00:32:29,554
+put in an include and you don't get
+
+691
+00:32:29,554 --> 00:32:32,356
+a result or an IP sider. Don't sweat
+
+692
+00:32:32,356 --> 00:32:35,159
+it, just come up here to advance. Specify
+
+693
+00:32:35,159 --> 00:32:36,1000
+that mechanism. I'll just choose include
+
+694
+00:32:36,1000 --> 00:32:39,340
+and then you put in the domain and submit
+
+695
+00:32:39,340 --> 00:32:41,940
+it. That will add it to the list and it
+
+696
+00:32:41,940 --> 00:32:44,935
+will be yes. The
+
+697
+00:32:44,935 --> 00:32:47,858
+caveat to this tool is if you take one
+
+698
+00:32:47,858 --> 00:32:50,782
+of these to a yes, then we're going to
+
+699
+00:32:50,782 --> 00:32:52,731
+start filtering this column. This will
+
+700
+00:32:52,731 --> 00:32:55,654
+show as blue and you're only going to see
+
+701
+00:32:55,654 --> 00:32:58,577
+the ones that have it yes. So you want
+
+702
+00:32:58,577 --> 00:33:01,501
+to make sure you check that select all so
+
+703
+00:33:01,501 --> 00:33:02,800
+you can see everything.
+
+704
+00:33:06,890 --> 00:33:09,490
+Any questions about hosted
+
+705
+00:33:09,490 --> 00:33:10,140
+SPF?
+
+706
+00:33:13,570 --> 00:33:16,388
+The 90 day date range or the date range
+
+707
+00:33:16,388 --> 00:33:18,580
+is where you can specify it um.
+
+708
+00:33:19,520 --> 00:33:22,391
+So that way if you are checking
+
+709
+00:33:22,391 --> 00:33:25,263
+telemetry, um, you can specify the date
+
+710
+00:33:25,263 --> 00:33:28,134
+range, for example, Most people are not
+
+711
+00:33:28,134 --> 00:33:31,006
+going to remove someone unless it's 90
+
+712
+00:33:31,006 --> 00:33:33,877
+days or older. They want that period
+
+713
+00:33:33,877 --> 00:33:36,749
+of time to pass before they feel
+
+714
+00:33:36,749 --> 00:33:39,210
+comfortable that yeah, this really isn't
+
+715
+00:33:39,210 --> 00:33:41,898
+being. Used or what a lot
+
+716
+00:33:41,898 --> 00:33:44,535
+of customers will do is they'll
+
+717
+00:33:44,535 --> 00:33:47,173
+say well I can see the
+
+718
+00:33:47,173 --> 00:33:49,810
+observed queries is really low you
+
+719
+00:33:49,810 --> 00:33:52,447
+know one in the last 90
+
+720
+00:33:52,447 --> 00:33:55,085
+days well does that mean we're
+
+721
+00:33:55,085 --> 00:33:57,722
+moving away from that sender So
+
+722
+00:33:57,722 --> 00:34:00,376
+typically an organization is going. When
+
+723
+00:34:00,376 --> 00:34:03,226
+they add a service here, they may use
+
+724
+00:34:03,226 --> 00:34:05,720
+service now, they may use remedy. But
+
+725
+00:34:05,720 --> 00:34:08,214
+through those means you could find out,
+
+726
+00:34:08,214 --> 00:34:11,064
+well, who do I need to talk to
+
+727
+00:34:11,064 --> 00:34:13,914
+about this sender to find out if we're
+
+728
+00:34:13,914 --> 00:34:16,407
+still using them because the telemetry is
+
+729
+00:34:16,407 --> 00:34:19,257
+kind of is indicating to me that it's
+
+730
+00:34:19,257 --> 00:34:21,962
+not being. So I just
+
+731
+00:34:21,962 --> 00:34:24,956
+don't want to Willy nilly remove it. I
+
+732
+00:34:24,956 --> 00:34:27,949
+want to at least verify with someone my
+
+733
+00:34:27,949 --> 00:34:30,942
+to know if they if we really did
+
+734
+00:34:30,942 --> 00:34:33,935
+move away from them or not. Maybe they're
+
+735
+00:34:33,935 --> 00:34:36,180
+a very random sender or seasonal.
+
+736
+00:34:37,830 --> 00:34:40,580
+Any questions about hosted SPF?
+
+737
+00:34:43,700 --> 00:34:46,535
+One of the things I didn't talk about is
+
+738
+00:34:46,535 --> 00:34:49,514
+templates. Templates
+
+739
+00:34:49,514 --> 00:34:52,484
+can save an administrator time.
+
+740
+00:34:52,484 --> 00:34:55,453
+Um, for example, let's say
+
+741
+00:34:55,453 --> 00:34:58,423
+that I had 10 domains
+
+742
+00:34:58,423 --> 00:35:01,393
+and the SPF record is
+
+743
+00:35:01,393 --> 00:35:04,362
+the same for all of
+
+744
+00:35:04,362 --> 00:35:07,332
+them. They use the exact
+
+745
+00:35:07,332 --> 00:35:09,990
+same senders. Well, instead
+
+746
+00:35:09,990 --> 00:35:12,930
+of enrolling all of those, what I
+
+747
+00:35:12,930 --> 00:35:15,870
+could do is I could come in
+
+748
+00:35:15,870 --> 00:35:18,390
+the template to create a template.
+
+749
+00:35:22,160 --> 00:35:24,843
+Pull in those and roll those
+
+750
+00:35:24,843 --> 00:35:27,527
+domains, and then what it can
+
+751
+00:35:27,527 --> 00:35:30,210
+do from there is manage the
+
+752
+00:35:30,210 --> 00:35:32,894
+senders, and instead of having to
+
+753
+00:35:32,894 --> 00:35:35,577
+do it 10 separate times, I
+
+754
+00:35:35,577 --> 00:35:38,261
+just did it once. That's only
+
+755
+00:35:38,261 --> 00:35:40,050
+useful if they're identical.
+
+756
+00:35:41,010 --> 00:35:43,304
+You can't have a hybrid with templates
+
+757
+00:35:43,304 --> 00:35:43,960
+right now.
+
+758
+00:35:46,120 --> 00:35:49,041
+We're, you know, we're maybe one of
+
+759
+00:35:49,041 --> 00:35:51,962
+the 10 has an additional sender, but
+
+760
+00:35:51,962 --> 00:35:54,883
+everything else is the same. You can't
+
+761
+00:35:54,883 --> 00:35:56,970
+do a hybrid yet, so.
+
+762
+00:35:59,600 --> 00:36:02,348
+That would be it for hosted SPF, but I
+
+763
+00:36:02,348 --> 00:36:04,485
+would encourage you to look at the
+
+764
+00:36:04,485 --> 00:36:07,315
+documentation. And
+
+765
+00:36:07,315 --> 00:36:07,820
+videos.
+
+766
+00:36:12,040 --> 00:36:13,580
+Poster Dekim.
+
+767
+00:36:14,910 --> 00:36:17,726
+Um, for the most part it's very
+
+768
+00:36:17,726 --> 00:36:20,139
+similar to hosted SPF. The only
+
+769
+00:36:20,139 --> 00:36:22,955
+difference is is when you enroll a
+
+770
+00:36:22,955 --> 00:36:25,771
+domain, it's going to have you specify
+
+771
+00:36:25,771 --> 00:36:28,184
+whether it's non delegated or delegated.
+
+772
+00:36:28,184 --> 00:36:30,1000
+You're always going to want to choose
+
+773
+00:36:30,1000 --> 00:36:33,815
+delegated you. You really don't want to
+
+774
+00:36:33,815 --> 00:36:36,353
+use non. Non delegated.
+
+775
+00:36:36,353 --> 00:36:38,859
+The reason is due to
+
+776
+00:36:38,859 --> 00:36:41,365
+C names, so you can
+
+777
+00:36:41,365 --> 00:36:43,872
+add some C names here,
+
+778
+00:36:43,872 --> 00:36:46,378
+but non delegated a little
+
+779
+00:36:46,378 --> 00:36:48,885
+bit wonky as far as
+
+780
+00:36:48,885 --> 00:36:51,391
+you could use it, but
+
+781
+00:36:51,391 --> 00:36:53,897
+you're adding it to your
+
+782
+00:36:53,897 --> 00:36:56,703
+own DNS. 1st and you're kind
+
+783
+00:36:56,703 --> 00:36:59,665
+of putting the scene name over to
+
+784
+00:36:59,665 --> 00:37:02,628
+the sender. It's wonky. I wouldn't really
+
+785
+00:37:02,628 --> 00:37:05,167
+recommend to ever choose non delegated
+
+786
+00:37:05,167 --> 00:37:07,707
+delegate is just simpler. It's more
+
+787
+00:37:07,707 --> 00:37:08,130
+straightforward.
+
+788
+00:37:10,570 --> 00:37:13,198
+Once you have it enrolled, then the
+
+789
+00:37:13,198 --> 00:37:15,827
+next step would be very similar to
+
+790
+00:37:15,827 --> 00:37:18,455
+hosted SPF, but in this case you're
+
+791
+00:37:18,455 --> 00:37:21,084
+going to be adding selectors. When you
+
+792
+00:37:21,084 --> 00:37:23,712
+add a selector, we have multiple options
+
+793
+00:37:23,712 --> 00:37:26,341
+to choose from. You can import detected
+
+794
+00:37:26,341 --> 00:37:28,969
+selectors. This is where we are just
+
+795
+00:37:28,969 --> 00:37:31,820
+going to. Um, list any that
+
+796
+00:37:31,820 --> 00:37:34,589
+we found. Or
+
+797
+00:37:34,589 --> 00:37:37,034
+you could import the selectors by name,
+
+798
+00:37:37,034 --> 00:37:39,828
+so this is where you would give the
+
+799
+00:37:39,828 --> 00:37:42,622
+name or provide the name for each of
+
+800
+00:37:42,622 --> 00:37:45,490
+the selectors. So that's how
+
+801
+00:37:45,490 --> 00:37:48,104
+you could quickly start using our service
+
+802
+00:37:48,104 --> 00:37:51,091
+for a given domain. I'm partial to import
+
+803
+00:37:51,091 --> 00:37:54,078
+selectors by name. Why? Because I can I
+
+804
+00:37:54,078 --> 00:37:57,065
+can get a dump of the zone file
+
+805
+00:37:57,065 --> 00:38:00,052
+for that domain and then I just need
+
+806
+00:38:00,052 --> 00:38:02,666
+to find those lines that have the
+
+807
+00:38:02,666 --> 00:38:05,653
+selector. So it's either going to be a
+
+808
+00:38:05,653 --> 00:38:08,431
+tax record. Seen it and so once
+
+809
+00:38:08,431 --> 00:38:11,133
+I have the selector names I know
+
+810
+00:38:11,133 --> 00:38:13,836
+I'm not missing anything. This is hit
+
+811
+00:38:13,836 --> 00:38:16,539
+and miss. Yes I could import in
+
+812
+00:38:16,539 --> 00:38:19,242
+what it found, but I don't know
+
+813
+00:38:19,242 --> 00:38:21,944
+what it didn't find. So I'm going
+
+814
+00:38:21,944 --> 00:38:24,647
+to the zone file anyway to determine
+
+815
+00:38:24,647 --> 00:38:27,350
+what will what selectors do we have.
+
+816
+00:38:27,620 --> 00:38:30,140
+So it's up to you, but you could use this
+
+817
+00:38:30,140 --> 00:38:32,408
+to do part of the labor. You could use
+
+818
+00:38:32,408 --> 00:38:34,676
+this to finish up the labor, or you could
+
+819
+00:38:34,676 --> 00:38:36,440
+use this because you're going to be
+
+820
+00:38:36,440 --> 00:38:38,204
+looking at the zone file anyway. Totally
+
+821
+00:38:38,204 --> 00:38:38,960
+up to you.
+
+822
+00:38:41,430 --> 00:38:44,113
+Once you have all of these imported
+
+823
+00:38:44,113 --> 00:38:46,795
+in the remaining two options this this
+
+824
+00:38:46,795 --> 00:38:49,095
+will change once you start adding
+
+825
+00:38:49,095 --> 00:38:51,778
+selectors or once it goes live. Excuse
+
+826
+00:38:51,778 --> 00:38:54,460
+me, once it goes live you only
+
+827
+00:38:54,460 --> 00:38:56,760
+have direct TXT, racker, or CA.
+
+828
+00:38:58,380 --> 00:39:01,371
+So if I were to choose direct TXT
+
+829
+00:39:01,371 --> 00:39:03,988
+record, you know, you give it the
+
+830
+00:39:03,988 --> 00:39:06,979
+selector name and then you give it the
+
+831
+00:39:06,979 --> 00:39:09,970
+public key because this is a tax record.
+
+832
+00:39:09,970 --> 00:39:12,587
+And then I would recommend that you
+
+833
+00:39:12,587 --> 00:39:14,830
+specify well, who is the sender.
+
+834
+00:39:16,320 --> 00:39:19,282
+And then we add this in here
+
+835
+00:39:19,282 --> 00:39:21,820
+automatically for you. If it's checked
+
+836
+00:39:21,820 --> 00:39:24,782
+you can uncheck it, but the default
+
+837
+00:39:24,782 --> 00:39:27,320
+is Leave it checked for RSA.
+
+838
+00:39:29,790 --> 00:39:32,570
+There's ECC that's starting to get used
+
+839
+00:39:32,570 --> 00:39:35,349
+more and more in the industry, so
+
+840
+00:39:35,349 --> 00:39:38,129
+if it's ECC, you would not want
+
+841
+00:39:38,129 --> 00:39:39,320
+to check this.
+
+842
+00:39:44,570 --> 00:39:47,505
+So you can use DNS SAC, just
+
+843
+00:39:47,505 --> 00:39:50,439
+make sure your DNS SAC is properly
+
+844
+00:39:50,439 --> 00:39:53,374
+configured. But you can use DNSSEC and
+
+845
+00:39:53,374 --> 00:39:56,308
+when you delegate it, we're all you're
+
+846
+00:39:56,308 --> 00:39:58,824
+only delegating the_domain key. I don't
+
+847
+00:39:58,824 --> 00:40:01,539
+know if you noticed that. 4
+
+848
+00:40:01,539 --> 00:40:04,473
+but you're delegating that sub domain
+
+849
+00:40:04,473 --> 00:40:07,406
+to proof point. To make this
+
+850
+00:40:07,406 --> 00:40:10,340
+go live, you would have to
+
+851
+00:40:10,340 --> 00:40:13,274
+add these two nameservers to name
+
+852
+00:40:13,274 --> 00:40:16,207
+server records to your DNS. That's
+
+853
+00:40:16,207 --> 00:40:19,141
+how you get this to go
+
+854
+00:40:19,141 --> 00:40:22,066
+live. Any
+
+855
+00:40:22,066 --> 00:40:24,890
+questions with posted decon?
+
+856
+00:40:29,360 --> 00:40:30,150
+OK.
+
+857
+00:40:34,830 --> 00:40:37,733
+Bolsa de mark is probably the easiest to
+
+858
+00:40:37,733 --> 00:40:40,635
+set up. Um, you still enroll the domain,
+
+859
+00:40:40,635 --> 00:40:43,538
+but it's going to have you start walking
+
+860
+00:40:43,538 --> 00:40:46,078
+through. Well, what options do you want?
+
+861
+00:40:46,078 --> 00:40:48,617
+Do you want reject, you know, quarantine
+
+862
+00:40:48,617 --> 00:40:51,520
+none or do I need to do it?
+
+863
+00:40:51,640 --> 00:40:54,429
+Asked them if I need to add some tags
+
+864
+00:40:54,429 --> 00:40:56,598
+that I normally wouldn't use. Umm. And
+
+865
+00:40:56,598 --> 00:40:59,076
+then if you're next to it, then you
+
+866
+00:40:59,076 --> 00:41:01,245
+select your domain or you choose the
+
+867
+00:41:01,245 --> 00:41:03,414
+domains that you're going to use this
+
+868
+00:41:03,414 --> 00:41:06,203
+for. But in order to make it go live,
+
+869
+00:41:06,203 --> 00:41:08,372
+this is a little different. You're going
+
+870
+00:41:08,372 --> 00:41:10,851
+to take the scene name that we provide
+
+871
+00:41:10,851 --> 00:41:13,798
+you and add it to your DNS. And
+
+872
+00:41:13,798 --> 00:41:16,797
+then next and then after DNS propagation
+
+873
+00:41:16,797 --> 00:41:18,510
+it will show live.
+
+874
+00:41:20,650 --> 00:41:23,560
+Do you guys are you using Bimmy?
+
+875
+00:41:26,560 --> 00:41:29,096
+In a very limited capacity. OK. Binny's
+
+876
+00:41:29,096 --> 00:41:31,995
+pretty easy to configure as well. You got
+
+877
+00:41:31,995 --> 00:41:34,893
+to enroll it. Do you mind if I
+
+878
+00:41:34,893 --> 00:41:37,430
+enroll like td.com? It's not live or
+
+879
+00:41:37,430 --> 00:41:40,328
+anything, but it helps me demo it a
+
+880
+00:41:40,328 --> 00:41:42,140
+little better. Is that OK?
+
+881
+00:41:43,470 --> 00:41:46,051
+That's just enrolled in terms of your
+
+882
+00:41:46,051 --> 00:41:48,264
+dashboard, it's not going right. Yes,
+
+883
+00:41:48,264 --> 00:41:51,214
+it's not live right. OK, give me just
+
+884
+00:41:51,214 --> 00:41:52,320
+a second here.
+
+885
+00:42:01,090 --> 00:42:03,829
+OK, so once it's enrolled then you
+
+886
+00:42:03,829 --> 00:42:06,568
+have to add a selector. So Benny's
+
+887
+00:42:06,568 --> 00:42:09,308
+similar to DKIM, but you have to
+
+888
+00:42:09,308 --> 00:42:12,047
+add a selector. A lot of times
+
+889
+00:42:12,047 --> 00:42:14,786
+the selector is going to be default
+
+890
+00:42:14,786 --> 00:42:15,960
+and that's fine.
+
+891
+00:42:17,860 --> 00:42:20,567
+But if you want to go with
+
+892
+00:42:20,567 --> 00:42:23,273
+the default selector then you just choose
+
+893
+00:42:23,273 --> 00:42:25,980
+next and then we will add it
+
+894
+00:42:25,980 --> 00:42:28,687
+in. If you want to go with
+
+895
+00:42:28,687 --> 00:42:31,393
+a custom selector like a lot of
+
+896
+00:42:31,393 --> 00:42:34,100
+times if you're using sub domains, it
+
+897
+00:42:34,100 --> 00:42:36,420
+would have its own logo and.
+
+898
+00:42:36,950 --> 00:42:39,470
+And so you could choose custom if you
+
+899
+00:42:39,470 --> 00:42:42,274
+need to. What
+
+900
+00:42:42,274 --> 00:42:44,710
+I'm going to do is rather than pursue
+
+901
+00:42:44,710 --> 00:42:47,451
+that, I'm going to come over to my portal
+
+902
+00:42:47,451 --> 00:42:48,060
+real quick.
+
+903
+00:42:59,710 --> 00:43:02,680
+So within my portal right here.
+
+904
+00:43:03,980 --> 00:43:06,819
+I have this zizzer.net, if I
+
+905
+00:43:06,819 --> 00:43:09,658
+select that to come into it
+
+906
+00:43:09,658 --> 00:43:12,498
+then when I add the selectors
+
+907
+00:43:12,498 --> 00:43:15,337
+let me just edit this one.
+
+908
+00:43:15,337 --> 00:43:15,810
+Sorry.
+
+909
+00:43:21,270 --> 00:43:24,142
+Then I can upload the upload
+
+910
+00:43:24,142 --> 00:43:26,754
+the logo. Or
+
+911
+00:43:26,754 --> 00:43:29,721
+I can specify if you've already
+
+912
+00:43:29,721 --> 00:43:32,540
+like um. That loaded up
+
+913
+00:43:32,540 --> 00:43:34,873
+someplace. You can specify here and we
+
+914
+00:43:34,873 --> 00:43:37,540
+can go find it. It's just an HTTP://PATH.
+
+915
+00:43:39,360 --> 00:43:41,788
+And then if it's a verified mark
+
+916
+00:43:41,788 --> 00:43:43,870
+certificate, you can choose that. Mine's
+
+917
+00:43:43,870 --> 00:43:46,645
+not so I'm not going to choose that,
+
+918
+00:43:46,645 --> 00:43:49,420
+but very easy to set up for Bimmy.
+
+919
+00:43:51,980 --> 00:43:54,729
+If you want us to handle that, you
+
+920
+00:43:54,729 --> 00:43:57,478
+know the quarters for that then or the
+
+921
+00:43:57,478 --> 00:44:00,226
+validation for that and we can do that
+
+922
+00:44:00,226 --> 00:44:02,863
+so. That covers
+
+923
+00:44:02,863 --> 00:44:05,170
+it for the hosted services.
+
+924
+00:44:07,450 --> 00:44:09,800
+You're quiet group, no questions.
+
+925
+00:44:13,030 --> 00:44:15,050
+OK, um.
+
+926
+00:44:18,300 --> 00:44:20,280
+What you're talking about records?
+
+927
+00:44:21,730 --> 00:44:24,530
+The supplier risk explorer
+
+928
+00:44:24,530 --> 00:44:25,930
+is um.
+
+929
+00:44:27,450 --> 00:44:29,420
+This is very handy.
+
+930
+00:44:32,010 --> 00:44:34,820
+So if you're using tap within
+
+931
+00:44:34,820 --> 00:44:37,629
+pod, so if you have the
+
+932
+00:44:37,629 --> 00:44:40,439
+inbound traffic going through a pod,
+
+933
+00:44:40,439 --> 00:44:43,249
+then this will give you visibility
+
+934
+00:44:43,249 --> 00:44:46,059
+to senders that could pose a
+
+935
+00:44:46,059 --> 00:44:48,869
+risk to your organization. So this
+
+936
+00:44:48,869 --> 00:44:51,210
+isn't so much about Demark.
+
+937
+00:44:51,630 --> 00:44:54,375
+As it is, um, well, let me
+
+938
+00:44:54,375 --> 00:44:57,119
+switch over to yours again. Just give
+
+939
+00:44:57,119 --> 00:44:59,864
+me just a second because I don't
+
+940
+00:44:59,864 --> 00:45:01,040
+have any traffic.
+
+941
+00:45:13,050 --> 00:45:15,194
+We don't see anything for you guys
+
+942
+00:45:15,194 --> 00:45:18,135
+either. There's no
+
+943
+00:45:18,135 --> 00:45:19,050
+traffic here.
+
+944
+00:45:23,560 --> 00:45:26,143
+Um, yeah. So if I'm not
+
+945
+00:45:26,143 --> 00:45:28,726
+seeing any traffic, it doesn't sound
+
+946
+00:45:28,726 --> 00:45:31,309
+like your MX records is pointing
+
+947
+00:45:31,309 --> 00:45:32,170
+to POD.
+
+948
+00:45:34,260 --> 00:45:36,853
+Uh, not for this instance. Umm, I think
+
+949
+00:45:36,853 --> 00:45:38,798
+that this is the production instance
+
+950
+00:45:38,798 --> 00:45:41,391
+We're doing all the testing and all the
+
+951
+00:45:41,391 --> 00:45:43,660
+stuffing that ohh, OK in the type
+
+952
+00:45:43,660 --> 00:45:45,929
+instance, right. So that's why you're not
+
+953
+00:45:45,929 --> 00:45:48,846
+going to see anything in the under the TD
+
+954
+00:45:48,846 --> 00:45:51,115
+Bank financial. That's OK, I can demo
+
+955
+00:45:51,115 --> 00:45:53,059
+this later, but basically supply risk
+
+956
+00:45:53,059 --> 00:45:55,790
+explorer is really meant to. To give
+
+957
+00:45:55,790 --> 00:45:57,800
+you visibility, it's just a monitoring
+
+958
+00:45:57,800 --> 00:45:59,140
+tool, no different DFD.
+
+959
+00:46:00,640 --> 00:46:03,147
+But it gives you visibility
+
+960
+00:46:03,147 --> 00:46:05,654
+to domains that pose a
+
+961
+00:46:05,654 --> 00:46:07,660
+risk to your recipients.
+
+962
+00:46:08,900 --> 00:46:11,355
+And it it leverages
+
+963
+00:46:11,355 --> 00:46:13,810
+what tap gives you.
+
+964
+00:46:14,880 --> 00:46:17,711
+Um, but this tool will
+
+965
+00:46:17,711 --> 00:46:20,542
+eventually be going away. It's
+
+966
+00:46:20,542 --> 00:46:23,374
+going to be replaced by
+
+967
+00:46:23,374 --> 00:46:26,073
+supplier. Threat
+
+968
+00:46:26,073 --> 00:46:28,523
+Protection STP. So I
+
+969
+00:46:28,523 --> 00:46:30,974
+don't know if you
+
+970
+00:46:30,974 --> 00:46:33,425
+guys purchased that or
+
+971
+00:46:33,425 --> 00:46:36,177
+not, but. But
+
+972
+00:46:36,177 --> 00:46:38,954
+this is really good as far as at
+
+973
+00:46:38,954 --> 00:46:41,731
+a high level getting the idea well who
+
+974
+00:46:41,731 --> 00:46:44,160
+could be who is sending to our
+
+975
+00:46:44,160 --> 00:46:46,590
+recipients, who could be a risk because
+
+976
+00:46:46,590 --> 00:46:49,367
+what we would show over at the right
+
+977
+00:46:49,367 --> 00:46:52,143
+here, let me try and do this. This
+
+978
+00:46:52,143 --> 00:46:54,573
+is not really all that sensitive with
+
+979
+00:46:54,573 --> 00:46:57,273
+data. Um, let's
+
+980
+00:46:57,273 --> 00:46:57,930
+see.
+
+981
+00:47:02,480 --> 00:47:05,233
+There we go. We'll just sit here. Think
+
+982
+00:47:05,233 --> 00:47:06,610
+we got beta here?
+
+983
+00:47:13,390 --> 00:47:16,316
+There we go. So you
+
+984
+00:47:16,316 --> 00:47:18,306
+have all domains and suppliers.
+
+985
+00:47:18,306 --> 00:47:21,091
+Suppliers, What's going to is the default
+
+986
+00:47:21,091 --> 00:47:23,877
+and that's what's going to show you
+
+987
+00:47:23,877 --> 00:47:26,663
+down below. This is based on the
+
+988
+00:47:26,663 --> 00:47:29,448
+header from. But the idea is as
+
+989
+00:47:29,448 --> 00:47:32,234
+we see inbound mail, we're looking, we
+
+990
+00:47:32,234 --> 00:47:33,030
+use a.
+
+991
+00:47:35,050 --> 00:47:37,746
+A language learning model that base is
+
+992
+00:47:37,746 --> 00:47:40,441
+looking at the inbound traffic to see
+
+993
+00:47:40,441 --> 00:47:43,137
+if there's any type of financial type
+
+994
+00:47:43,137 --> 00:47:45,833
+of information. If we see it like
+
+995
+00:47:45,833 --> 00:47:48,528
+in last seven days, depending on what
+
+996
+00:47:48,528 --> 00:47:51,224
+we have here, we're going to show
+
+997
+00:47:51,224 --> 00:47:53,920
+it as high risk if you're past
+
+998
+00:47:53,920 --> 00:47:56,817
+seven days. The risk will lower to
+
+999
+00:47:56,817 --> 00:47:59,697
+be in kid appears very high risk
+
+1000
+00:47:59,697 --> 00:48:02,577
+and then it could show as as
+
+1001
+00:48:02,577 --> 00:48:05,457
+high risk over a period of time.
+
+1002
+00:48:05,457 --> 00:48:08,337
+But you can see when I click
+
+1003
+00:48:08,337 --> 00:48:11,205
+on intuit.com. They're
+
+1004
+00:48:11,205 --> 00:48:14,175
+cashmere, we talked about this, but,
+
+1005
+00:48:14,175 --> 00:48:17,080
+um. You'll get
+
+1006
+00:48:17,080 --> 00:48:19,565
+this pop up. You'll have these three
+
+1007
+00:48:19,565 --> 00:48:22,050
+tabs, general domains, look alikes. So it
+
+1008
+00:48:22,050 --> 00:48:24,890
+will remind you what the risk is. It
+
+1009
+00:48:24,890 --> 00:48:27,730
+will show you the company for that domain
+
+1010
+00:48:27,730 --> 00:48:29,505
+registration date, all this good
+
+1011
+00:48:29,505 --> 00:48:31,990
+information. You can see if there's other
+
+1012
+00:48:31,990 --> 00:48:34,475
+sub domains that they're sending from and
+
+1013
+00:48:34,475 --> 00:48:37,184
+if there's any look alikes. To show
+
+1014
+00:48:37,184 --> 00:48:39,776
+it here, but what makes this
+
+1015
+00:48:39,776 --> 00:48:42,369
+useful is you can look at
+
+1016
+00:48:42,369 --> 00:48:44,961
+this and go OK, three fishing
+
+1017
+00:48:44,961 --> 00:48:47,553
+messages last seven days. Seven of
+
+1018
+00:48:47,553 --> 00:48:50,146
+them were bec well, if you're
+
+1019
+00:48:50,146 --> 00:48:52,912
+using tap. If you're
+
+1020
+00:48:52,912 --> 00:48:55,287
+tap administrator then this should be
+
+1021
+00:48:55,287 --> 00:48:57,662
+clickable or drillable, meaning if I
+
+1022
+00:48:57,662 --> 00:48:58,850
+click on it.
+
+1023
+00:49:00,500 --> 00:49:03,108
+It's going to show me the
+
+1024
+00:49:03,108 --> 00:49:05,716
+three fishing messages that came inbound
+
+1025
+00:49:05,716 --> 00:49:07,890
+to my to your plot.
+
+1026
+00:49:09,340 --> 00:49:12,181
+And over here at the far right, you can
+
+1027
+00:49:12,181 --> 00:49:15,023
+click this and it will take you into the
+
+1028
+00:49:15,023 --> 00:49:16,917
+dashboard, the tap dashboard. Now, I'm
+
+1029
+00:49:16,917 --> 00:49:19,759
+not a tap dashboard, so I'm not going to
+
+1030
+00:49:19,759 --> 00:49:22,600
+take you in there because I can show you
+
+1031
+00:49:22,600 --> 00:49:24,810
+the obvious things. But people on this
+
+1032
+00:49:24,810 --> 00:49:27,651
+phone are going to know more about me if
+
+1033
+00:49:27,651 --> 00:49:30,230
+they're in tap every day. So I would
+
+1034
+00:49:30,230 --> 00:49:31,990
+recommend that if you're interested in
+
+1035
+00:49:31,990 --> 00:49:33,750
+this, you know, and you have
+
+1036
+00:49:33,750 --> 00:49:36,097
+availability, I would come in to look at
+
+1037
+00:49:36,097 --> 00:49:36,390
+it.
+
+1038
+00:49:39,440 --> 00:49:42,113
+And a lot of times most CFD consultants
+
+1039
+00:49:42,113 --> 00:49:44,786
+are not going to be able. This will
+
+1040
+00:49:44,786 --> 00:49:47,459
+not work for us to be honest, unless
+
+1041
+00:49:47,459 --> 00:49:49,130
+they've requested the TAP access.
+
+1042
+00:49:52,370 --> 00:49:55,319
+Now we have to spread down below.
+
+1043
+00:49:55,319 --> 00:49:58,268
+The spread is just to give you
+
+1044
+00:49:58,268 --> 00:50:01,218
+an idea of of well, you know
+
+1045
+00:50:01,218 --> 00:50:04,167
+in the proof point community how many
+
+1046
+00:50:04,167 --> 00:50:06,695
+are seeing phishing, BEC and malware
+
+1047
+00:50:06,695 --> 00:50:08,380
+that's related to here.
+
+1048
+00:50:10,130 --> 00:50:12,660
+So it's a good way to kind of determine.
+
+1049
+00:50:14,170 --> 00:50:16,917
+Who could? Who are our suppliers
+
+1050
+00:50:16,917 --> 00:50:19,664
+that we care about? If they
+
+1051
+00:50:19,664 --> 00:50:22,410
+are a supplier, you can check
+
+1052
+00:50:22,410 --> 00:50:25,157
+this and click on Add suppliers.
+
+1053
+00:50:25,157 --> 00:50:27,904
+Now instead of showing discovered, they
+
+1054
+00:50:27,904 --> 00:50:30,651
+will show as a supplier. So
+
+1055
+00:50:30,651 --> 00:50:32,940
+I've always recommended you know.
+
+1056
+00:50:34,110 --> 00:50:36,945
+Look for minimally the top ten, identify
+
+1057
+00:50:36,945 --> 00:50:39,780
+top ten and then understand well what
+
+1058
+00:50:39,780 --> 00:50:42,615
+risk are they posing to my users.
+
+1059
+00:50:42,615 --> 00:50:45,450
+And if you are a tap expert
+
+1060
+00:50:45,450 --> 00:50:48,285
+and you see fish or you see
+
+1061
+00:50:48,285 --> 00:50:51,120
+malware, then I would drill into that.
+
+1062
+00:50:51,120 --> 00:50:53,550
+Typically pods going to catch it.
+
+1063
+00:50:54,700 --> 00:50:57,500
+I've yet to see an instance where
+
+1064
+00:50:57,500 --> 00:50:59,500
+Pod didn't catch it, but.
+
+1065
+00:51:01,120 --> 00:51:03,903
+What I would worry about if I was
+
+1066
+00:51:03,903 --> 00:51:05,990
+administrator is, well, great, pod did
+
+1067
+00:51:05,990 --> 00:51:08,774
+his job, I'm glad. But if they're sending
+
+1068
+00:51:08,774 --> 00:51:11,557
+up fishing, I wonder if they know that
+
+1069
+00:51:11,557 --> 00:51:14,340
+they have a problem. So if it's a
+
+1070
+00:51:14,340 --> 00:51:16,775
+partner, you're going to have someone you
+
+1071
+00:51:16,775 --> 00:51:19,558
+might be able to reach out to and
+
+1072
+00:51:19,558 --> 00:51:22,537
+you can give them. Samples to say look,
+
+1073
+00:51:22,537 --> 00:51:25,070
+are you aware that you're sending this?
+
+1074
+00:51:26,260 --> 00:51:29,152
+We would really like you to do
+
+1075
+00:51:29,152 --> 00:51:32,044
+something about it. So if you know
+
+1076
+00:51:32,044 --> 00:51:34,936
+about it, wonderful. You know, if they're
+
+1077
+00:51:34,936 --> 00:51:37,827
+acting on it, wonderful, but they may
+
+1078
+00:51:37,827 --> 00:51:40,719
+not know about it. So, so it's,
+
+1079
+00:51:40,719 --> 00:51:43,611
+it's a, it's a handy tool to
+
+1080
+00:51:43,611 --> 00:51:46,090
+see who is who could be.
+
+1081
+00:51:46,690 --> 00:51:48,960
+Problem for you and your users.
+
+1082
+00:51:51,600 --> 00:51:54,357
+Any questions about supplier risk
+
+1083
+00:51:54,357 --> 00:51:57,115
+explore just just so is
+
+1084
+00:51:57,115 --> 00:51:59,872
+this the only place for
+
+1085
+00:51:59,872 --> 00:52:02,629
+this information is located? It
+
+1086
+00:52:02,629 --> 00:52:05,387
+is. Would this be somewhere
+
+1087
+00:52:05,387 --> 00:52:08,144
+in TAP as well? Well,
+
+1088
+00:52:08,144 --> 00:52:10,829
+that's where supplier threat. Protection
+
+1089
+00:52:10,829 --> 00:52:13,695
+STP comes in. STP is an add-on
+
+1090
+00:52:13,695 --> 00:52:16,561
+for town now. Navindra could talk to
+
+1091
+00:52:16,561 --> 00:52:19,426
+you more about it. He probably knows
+
+1092
+00:52:19,426 --> 00:52:22,292
+more about SDP than I do. So
+
+1093
+00:52:22,292 --> 00:52:25,158
+if if you're interested just to know
+
+1094
+00:52:25,158 --> 00:52:28,024
+what it does you know, I would
+
+1095
+00:52:28,024 --> 00:52:30,480
+work with lavender or and AND.
+
+1096
+00:52:30,600 --> 00:52:33,333
+Set up a time, have someone
+
+1097
+00:52:33,333 --> 00:52:36,067
+just explain it. I'm not the
+
+1098
+00:52:36,067 --> 00:52:38,800
+salesman, OK? I'm not here to
+
+1099
+00:52:38,800 --> 00:52:41,533
+sell you, but this gives you
+
+1100
+00:52:41,533 --> 00:52:44,267
+really good information. STP since it's
+
+1101
+00:52:44,267 --> 00:52:46,1000
+part of is going to give
+
+1102
+00:52:46,1000 --> 00:52:49,733
+you better information. But the thing
+
+1103
+00:52:49,733 --> 00:52:52,667
+about the gateway. Is it has teeth
+
+1104
+00:52:52,667 --> 00:52:55,642
+where you can do something about it? This
+
+1105
+00:52:55,642 --> 00:52:58,245
+does not have any teeth. Yes, can
+
+1106
+00:52:58,245 --> 00:53:00,848
+illustrate it. So yeah, I'm just trying
+
+1107
+00:53:00,848 --> 00:53:03,451
+it for context with the threat defense
+
+1108
+00:53:03,451 --> 00:53:06,426
+team need access to this so that they
+
+1109
+00:53:06,426 --> 00:53:08,657
+could perhaps have visibility of this
+
+1110
+00:53:08,657 --> 00:53:11,260
+information. Yeah, you'd have to go up.
+
+1111
+00:53:11,370 --> 00:53:14,124
+Then go to access management and give
+
+1112
+00:53:14,124 --> 00:53:16,878
+them access to your ID. But yeah,
+
+1113
+00:53:16,878 --> 00:53:19,633
+OK, alright, yeah, thank you. Now I
+
+1114
+00:53:19,633 --> 00:53:22,387
+have a lot of customers that take
+
+1115
+00:53:22,387 --> 00:53:25,141
+this route and it's totally up to
+
+1116
+00:53:25,141 --> 00:53:27,895
+you, but I have a lot of
+
+1117
+00:53:27,895 --> 00:53:30,650
+customers that say, hey Tim, where's the
+
+1118
+00:53:30,650 --> 00:53:33,335
+API's for this?We're going to pull
+
+1119
+00:53:33,335 --> 00:53:36,046
+this into Splunk where we can do what
+
+1120
+00:53:36,046 --> 00:53:38,757
+we want to do and we can set
+
+1121
+00:53:38,757 --> 00:53:41,129
+up maybe some alerts to have someone
+
+1122
+00:53:41,129 --> 00:53:43,839
+check on it. So if if you're interested
+
+1123
+00:53:43,839 --> 00:53:46,550
+in that, then again, it's under the APIs.
+
+1124
+00:53:48,710 --> 00:53:51,618
+Don't know if we have time to really talk
+
+1125
+00:53:51,618 --> 00:53:54,526
+about it today, but what I'm going to do
+
+1126
+00:53:54,526 --> 00:53:57,434
+is I'm going to put in the link to
+
+1127
+00:53:57,434 --> 00:53:59,050
+our API documentation for EFD.
+
+1128
+00:54:00,510 --> 00:54:02,631
+Let me grab this link, I'm going to paste
+
+1129
+00:54:02,631 --> 00:54:04,753
+it in there and then if you guys have
+
+1130
+00:54:04,753 --> 00:54:07,567
+follow up questions. Specific to
+
+1131
+00:54:07,567 --> 00:54:10,386
+the API and what it can give you, I
+
+1132
+00:54:10,386 --> 00:54:13,206
+can help you with that. I cannot help you
+
+1133
+00:54:13,206 --> 00:54:15,712
+if you're using a third party like Swan
+
+1134
+00:54:15,712 --> 00:54:17,905
+to do something with the data. That's
+
+1135
+00:54:17,905 --> 00:54:20,098
+where your people need to be skilled
+
+1136
+00:54:20,098 --> 00:54:22,917
+enough to know. But I'm going to put this
+
+1137
+00:54:22,917 --> 00:54:25,423
+into the chat. You can copy it out,
+
+1138
+00:54:25,423 --> 00:54:26,050
+bookmark it.
+
+1139
+00:54:29,290 --> 00:54:32,108
+OK, so we've got 4 minutes left. I've
+
+1140
+00:54:32,108 --> 00:54:34,925
+demoed everything how to use the tool. If
+
+1141
+00:54:34,925 --> 00:54:37,391
+you have any follow up questions, just
+
+1142
+00:54:37,391 --> 00:54:40,208
+reach out to me either individually or if
+
+1143
+00:54:40,208 --> 00:54:42,674
+you have enough people that have enough
+
+1144
+00:54:42,674 --> 00:54:45,491
+questions maybe we can do an ad hoc
+
+1145
+00:54:45,491 --> 00:54:48,150
+meeting, whatever you want. Um.
+
+1146
+00:54:50,210 --> 00:54:53,134
+So the question becomes, what do we do
+
+1147
+00:54:53,134 --> 00:54:56,031
+next?So we talked about the
+
+1148
+00:54:56,031 --> 00:54:58,449
+Rua needs to be added to give us
+
+1149
+00:54:58,449 --> 00:55:00,564
+visibility. That's going to take a little
+
+1150
+00:55:00,564 --> 00:55:03,284
+bit of time for you. Well, maybe I don't
+
+1151
+00:55:03,284 --> 00:55:05,702
+know, you guys might have a script that
+
+1152
+00:55:05,702 --> 00:55:08,120
+does knocks it out, I don't know, but.
+
+1153
+00:55:09,470 --> 00:55:12,280
+But how can I help you going forward?
+
+1154
+00:55:17,400 --> 00:55:20,195
+I don't think we're going to that in
+
+1155
+00:55:20,195 --> 00:55:22,640
+3 minutes, but we'll develop that. OK.
+
+1156
+00:55:22,640 --> 00:55:25,435
+All right, feel free to send me e-mail.
+
+1157
+00:55:25,435 --> 00:55:28,230
+So if you, if you're saying, hey, Tim,
+
+1158
+00:55:28,230 --> 00:55:31,025
+this is our direction. This is how we
+
+1159
+00:55:31,025 --> 00:55:33,470
+need your help with e-mail fraud defense.
+
+1160
+00:55:34,340 --> 00:55:36,901
+By all means, just reach out. Like I
+
+1161
+00:55:36,901 --> 00:55:39,463
+said, we can do a meeting anytime. So
+
+1162
+00:55:39,463 --> 00:55:42,344
+yeah, in short, I think we just need to
+
+1163
+00:55:42,344 --> 00:55:44,585
+get a domain and testing and understand
+
+1164
+00:55:44,585 --> 00:55:46,826
+what we're seeing or not seeing as
+
+1165
+00:55:46,826 --> 00:55:49,067
+comparison to apples to apples for the
+
+1166
+00:55:49,067 --> 00:55:50,988
+existing product because I don't think
+
+1167
+00:55:50,988 --> 00:55:53,229
+any comparison was ever done or provided
+
+1168
+00:55:53,229 --> 00:55:55,960
+for what was. In use today.
+
+1169
+00:55:55,960 --> 00:55:57,130
+Is that correct?
+
+1170
+00:55:58,510 --> 00:56:01,172
+Thursday. That's
+
+1171
+00:56:01,172 --> 00:56:03,907
+fair to say. Yeah. We never saw it.
+
+1172
+00:56:03,907 --> 00:56:06,642
+It's you guys, you guys. All right. So,
+
+1173
+00:56:06,642 --> 00:56:09,377
+yeah, so that's kind of what needs to
+
+1174
+00:56:09,377 --> 00:56:11,428
+happen. That's why there's some few
+
+1175
+00:56:11,428 --> 00:56:13,479
+questions at the beginning just to
+
+1176
+00:56:13,479 --> 00:56:15,530
+understand where we're at with the
+
+1177
+00:56:15,530 --> 00:56:18,265
+product today with proof point and how it
+
+1178
+00:56:18,265 --> 00:56:20,1000
+compares and where the where the gap or.
+
+1179
+00:56:21,690 --> 00:56:23,882
+For the features overlap, Yeah, and I
+
+1180
+00:56:23,882 --> 00:56:26,387
+think we've already I gotta go look, I
+
+1181
+00:56:26,387 --> 00:56:28,891
+thought we gave you a health check and
+
+1182
+00:56:28,891 --> 00:56:30,770
+you have the health check, right?
+
+1183
+00:56:32,220 --> 00:56:34,953
+Did OK, Never mind. Well, that's all
+
+1184
+00:56:34,953 --> 00:56:37,686
+we have. We got about two minutes
+
+1185
+00:56:37,686 --> 00:56:40,419
+left. I can give you something some
+
+1186
+00:56:40,419 --> 00:56:43,300
+time back. Can end on
+
+1187
+00:56:43,300 --> 00:56:43,970
+that, if that.
+
+1188
+00:56:46,040 --> 00:56:48,770
+So yeah, I'm good then. Thank you. Now
+
+1189
+00:56:48,770 --> 00:56:51,160
+the Andrew, did you have anything you
+
+1190
+00:56:51,160 --> 00:56:53,890
+wanted to add? We got like one minute.
+
+1191
+00:56:55,370 --> 00:56:57,808
+Nothing in the one minute, but yeah, you
+
+1192
+00:56:57,808 --> 00:56:59,942
+guys do have license to surprise their
+
+1193
+00:56:59,942 --> 00:57:02,075
+prevention. Um, we'll cover that in one
+
+1194
+00:57:02,075 --> 00:57:04,791
+of. Uh, the deep
+
+1195
+00:57:04,791 --> 00:57:06,500
+dive sessions on um.
+
+1196
+00:57:08,410 --> 00:57:10,093
+On the threat protection implementation,
+
+1197
+00:57:10,093 --> 00:57:12,787
+any but you want to add preview I
+
+1198
+00:57:12,787 --> 00:57:15,480
+can always give you guys a walk through.
+
+1199
+00:57:18,660 --> 00:57:21,558
+And which product was it in the bedroom?
+
+1200
+00:57:21,558 --> 00:57:23,732
+It's it's supply threat prevention, the
+
+1201
+00:57:23,732 --> 00:57:26,268
+integration. Yeah. Yeah, I got it. Yeah.
+
+1202
+00:57:26,268 --> 00:57:29,166
+With the work bench. And that happened we
+
+1203
+00:57:29,166 --> 00:57:32,064
+have correct. No, it is a product that
+
+1204
+00:57:32,064 --> 00:57:34,963
+you own. OK. So it's part of work
+
+1205
+00:57:34,963 --> 00:57:37,499
+work branch Noventa did I hear? Right.
+
+1206
+00:57:37,499 --> 00:57:40,205
+Well, they owned the license. As part
+
+1207
+00:57:40,205 --> 00:57:42,091
+of the impersonation protection package,
+
+1208
+00:57:42,091 --> 00:57:44,732
+which includes SCR. Yeah, I did not.
+
+1209
+00:57:44,732 --> 00:57:47,373
+I didn't know that. So thank you.
+
+1210
+00:57:47,373 --> 00:57:50,014
+OK, thank you. Was trying to say
+
+1211
+00:57:50,014 --> 00:57:51,900
+something. Go ahead on you.
+
+1212
+00:57:54,650 --> 00:57:57,289
+No, I'm good. I just needed to
+
+1213
+00:57:57,289 --> 00:57:59,551
+mute 2 left. Alright, alright, OK,
+
+1214
+00:57:59,551 --> 00:58:02,190
+alright. I think at some point we'll
+
+1215
+00:58:02,190 --> 00:58:04,829
+do that, but first steps on this,
+
+1216
+00:58:04,829 --> 00:58:07,091
+we'll evaluate the comparison and prepare
+
+1217
+00:58:07,091 --> 00:58:09,730
+a plan for it. The other thing
+
+1218
+00:58:09,730 --> 00:58:12,369
+though, before you drop, I just want
+
+1219
+00:58:12,369 --> 00:58:15,073
+to make sure. You you have
+
+1220
+00:58:15,073 --> 00:58:17,648
+Kitty Kalen, which runs on a separate
+
+1221
+00:58:17,648 --> 00:58:19,855
+tenant. What's your intention? Do you
+
+1222
+00:58:19,855 --> 00:58:22,798
+want to keep these accounts? You have the
+
+1223
+00:58:22,798 --> 00:58:24,637
+console separate. You're looking at
+
+1224
+00:58:24,637 --> 00:58:27,580
+merging it. We're going to merge it, OK.
+
+1225
+00:58:29,940 --> 00:58:32,821
+Um, we have a plan on how we're
+
+1226
+00:58:32,821 --> 00:58:34,983
+going to implement that. That's what,
+
+1227
+00:58:34,983 --> 00:58:37,504
+what was it Noel was asking you
+
+1228
+00:58:37,504 --> 00:58:40,386
+previously on how we're going to do it.
+
+1229
+00:58:40,386 --> 00:58:43,267
+And that is just going to stream into
+
+1230
+00:58:43,267 --> 00:58:46,149
+when we cut over the domains to at
+
+1231
+00:58:46,149 --> 00:58:48,310
+least our proof point instance when
+
+1232
+00:58:48,310 --> 00:58:51,173
+we're. Um. Which McCall
+
+1233
+00:58:51,173 --> 00:58:53,845
+it once we're like once we're OK
+
+1234
+00:58:53,845 --> 00:58:56,135
+with setting up our production instance
+
+1235
+00:58:56,135 --> 00:58:58,807
+basically OK, OK, OK, let me know.
+
+1236
+00:58:58,807 --> 00:59:01,479
+We've got a meeting next Wednesday. If
+
+1237
+00:59:01,479 --> 00:59:04,151
+we if you want to meet, great.
+
+1238
+00:59:04,151 --> 00:59:06,823
+If you don't want to meet and
+
+1239
+00:59:06,823 --> 00:59:09,495
+we don't have much to talk about,
+
+1240
+00:59:09,495 --> 00:59:11,952
+I don't really. I don't really have
+
+1241
+00:59:11,952 --> 00:59:14,109
+anything else to talk about unless you
+
+1242
+00:59:14,109 --> 00:59:16,881
+guys give me some direction. All I can do
+
+1243
+00:59:16,881 --> 00:59:19,654
+is say, hey, these are what needs to be
+
+1244
+00:59:19,654 --> 00:59:21,502
+addressed from a demark perspective. I
+
+1245
+00:59:21,502 --> 00:59:23,967
+think I've already done that. So just let
+
+1246
+00:59:23,967 --> 00:59:26,740
+me know what you want to do. OK? Thank
+
+1247
+00:59:26,740 --> 00:59:28,280
+you. You're welcome. Bye. Bye.
