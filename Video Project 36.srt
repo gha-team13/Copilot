@@ -1,0 +1,5707 @@
+1
+00:00:07,160 --> 00:00:09,050
+And we'll start in the minute or so.
+
+2
+00:00:38,440 --> 00:00:40,650
+All right, forget the start.
+
+3
+00:00:42,110 --> 00:00:44,859
+So let's go from the top
+
+4
+00:00:44,859 --> 00:00:47,607
+here. Um, last week we had
+
+5
+00:00:47,607 --> 00:00:49,440
+a short meeting this.
+
+6
+00:00:50,770 --> 00:00:52,650
+That play appreciation weekend.
+
+7
+00:00:54,320 --> 00:00:57,176
+Most of us were kind of busy,
+
+8
+00:00:57,176 --> 00:01:00,031
+but hoping to get some additional updates
+
+9
+00:01:00,031 --> 00:01:02,887
+this week. We'll start with the App
+
+10
+00:01:02,887 --> 00:01:04,926
+assessments Apple onboarding plan. So
+
+11
+00:01:04,926 --> 00:01:07,782
+let's take the app onboarding plan was
+
+12
+00:01:07,782 --> 00:01:10,696
+approved. And we
+
+13
+00:01:10,696 --> 00:01:13,323
+had one application remaining. I believe
+
+14
+00:01:13,323 --> 00:01:15,950
+that is still the case. So
+
+15
+00:01:15,950 --> 00:01:18,576
+tomorrow I saw an e-mail from
+
+16
+00:01:18,576 --> 00:01:21,203
+legal. Looks like they made their
+
+17
+00:01:21,203 --> 00:01:23,830
+updates. So they're looking for business
+
+18
+00:01:23,830 --> 00:01:26,457
+owner approval. We actually just had
+
+19
+00:01:26,457 --> 00:01:29,084
+a meeting earlier this morning to
+
+20
+00:01:29,084 --> 00:01:32,028
+review it. The business owner,
+
+21
+00:01:32,028 --> 00:01:34,692
+so it's progressing, but
+
+22
+00:01:34,692 --> 00:01:36,690
+yeah, still outstanding.
+
+23
+00:01:41,730 --> 00:01:44,506
+Sounds good. And
+
+24
+00:01:44,506 --> 00:01:47,121
+I guess on a similar topic
+
+25
+00:01:47,121 --> 00:01:49,736
+to this, we also have two
+
+26
+00:01:49,736 --> 00:01:51,480
+applications that are currently.
+
+27
+00:01:54,060 --> 00:01:56,744
+In pilot going to production within the
+
+28
+00:01:56,744 --> 00:01:59,428
+next couple of weeks to enable MFA
+
+29
+00:01:59,428 --> 00:02:02,111
+and enter ID. One of them is
+
+30
+00:02:02,111 --> 00:02:04,795
+completed path and the other one is
+
+31
+00:02:04,795 --> 00:02:07,479
+PAT is ongoing this week and we
+
+32
+00:02:07,479 --> 00:02:10,163
+have tentative dates for June 25th or
+
+33
+00:02:10,163 --> 00:02:12,924
+one of the applications and. The
+
+34
+00:02:12,924 --> 00:02:15,750
+second one is TBD, so we will
+
+35
+00:02:15,750 --> 00:02:18,173
+have a couple of applications onboarded
+
+36
+00:02:18,173 --> 00:02:20,1000
+with MFA enabled in the coming weeks.
+
+37
+00:02:24,490 --> 00:02:26,997
+Only one OK Next up
+
+38
+00:02:26,997 --> 00:02:29,503
+is the entry ID application
+
+39
+00:02:29,503 --> 00:02:32,010
+onboarding process. So we have
+
+40
+00:02:32,010 --> 00:02:34,517
+here 2 parts. So the
+
+41
+00:02:34,517 --> 00:02:36,021
+SSO, application registration,
+
+42
+00:02:36,021 --> 00:02:38,527
+self-service capabilities we can start
+
+43
+00:02:38,527 --> 00:02:39,530
+with that.
+
+44
+00:02:41,510 --> 00:02:44,475
+Trust from ID wants to
+
+45
+00:02:44,475 --> 00:02:47,440
+chime in here. Yep, I.
+
+46
+00:02:49,220 --> 00:02:51,380
+We were able to.
+
+47
+00:02:53,600 --> 00:02:56,469
+Ship so some of our contractors over from
+
+48
+00:02:56,469 --> 00:02:58,621
+another program that isn't starting until
+
+49
+00:02:58,621 --> 00:03:01,490
+the end of July to work on this.
+
+50
+00:03:01,490 --> 00:03:04,360
+I think you might have gotten an update
+
+51
+00:03:04,360 --> 00:03:06,870
+prior, Andrew. So I actually level set
+
+52
+00:03:06,870 --> 00:03:09,739
+with them yesterday and also an hour this
+
+53
+00:03:09,739 --> 00:03:12,250
+morning and I've gotten them going, Paul.
+
+54
+00:03:13,080 --> 00:03:15,227
+Umm, they're, they're going to reach back
+
+55
+00:03:15,227 --> 00:03:17,987
+out to you as well, I think, based on
+
+56
+00:03:17,987 --> 00:03:20,133
+some of the conversation we had this
+
+57
+00:03:20,133 --> 00:03:23,016
+morning. Primary on that
+
+58
+00:03:23,016 --> 00:03:25,778
+is Michael Daddy, but three of them are
+
+59
+00:03:25,778 --> 00:03:28,539
+kind of tag teaming on this for knowledge
+
+60
+00:03:28,539 --> 00:03:29,230
+transfer, so.
+
+61
+00:03:31,450 --> 00:03:33,784
+I gave them a bunch of technical
+
+62
+00:03:33,784 --> 00:03:35,451
+background on the pipeline development
+
+63
+00:03:35,451 --> 00:03:38,118
+pieces and then directed them to you for
+
+64
+00:03:38,118 --> 00:03:40,118
+some of the specific app registration
+
+65
+00:03:40,118 --> 00:03:42,452
+questions that they had related to some
+
+66
+00:03:42,452 --> 00:03:44,786
+of the functionality. And I've asked them
+
+67
+00:03:44,786 --> 00:03:47,453
+to focus on the core uplifts that were
+
+68
+00:03:47,453 --> 00:03:49,453
+remaining first before getting into the
+
+69
+00:03:49,453 --> 00:03:52,408
+MLB stuff. Yeah, I think
+
+70
+00:03:52,408 --> 00:03:54,434
+those were, I think those were pretty
+
+71
+00:03:54,434 --> 00:03:56,749
+much done and I was actually able to
+
+72
+00:03:56,749 --> 00:03:59,065
+figure out, yeah, that's why I wanted to
+
+73
+00:03:59,065 --> 00:04:01,670
+talk to you from voting for sure. Yeah. I
+
+74
+00:04:01,670 --> 00:04:03,406
+wasn't sure what brand had completed
+
+75
+00:04:03,406 --> 00:04:05,432
+versus not completed. So, yeah, I think
+
+76
+00:04:05,432 --> 00:04:07,747
+the the ones for the delivery team to
+
+77
+00:04:07,747 --> 00:04:09,773
+deliver stuff are are I think they're
+
+78
+00:04:09,773 --> 00:04:11,510
+done. I think Keisha's been done.
+
+79
+00:04:12,550 --> 00:04:14,879
+But I think there's like button that up
+
+80
+00:04:14,879 --> 00:04:17,208
+and then there's like 4 tickets that were
+
+81
+00:04:17,208 --> 00:04:19,246
+not started that were clearly for the
+
+82
+00:04:19,246 --> 00:04:20,702
+core module, right? Like skin
+
+83
+00:04:20,702 --> 00:04:22,740
+provisioning and a few others. Ohh well.
+
+84
+00:04:24,490 --> 00:04:27,459
+OK. I guess I view those as
+
+85
+00:04:27,459 --> 00:04:30,428
+kind of bonus goals because it is
+
+86
+00:04:30,428 --> 00:04:33,398
+pretty rare. So it's like, but yeah,
+
+87
+00:04:33,398 --> 00:04:36,367
+fair if we wanted to do those
+
+88
+00:04:36,367 --> 00:04:39,336
+first, but I wasn't clear, right? Like
+
+89
+00:04:39,336 --> 00:04:41,033
+customize identifier, Uri, custom
+
+90
+00:04:41,033 --> 00:04:42,730
+security attribute, default behaviors.
+
+91
+00:04:44,150 --> 00:04:46,455
+I should have clarified which ones were
+
+92
+00:04:46,455 --> 00:04:48,761
+everyday needs and which ones are niche
+
+93
+00:04:48,761 --> 00:04:51,066
+edge cases. They're the ones that remain
+
+94
+00:04:51,066 --> 00:04:53,701
+are edge cases so it doesn't make sense
+
+95
+00:04:53,701 --> 00:04:56,335
+to have them. But they're not like ohh
+
+96
+00:04:56,335 --> 00:04:59,299
+yeah some of them might be not worth the
+
+97
+00:04:59,299 --> 00:05:01,934
+squeeze in some cases if if it's if
+
+98
+00:05:01,934 --> 00:05:03,910
+Terraform doesn't like it or something.
+
+99
+00:05:04,900 --> 00:05:07,465
+Believe me for you, but I'll also be in
+
+100
+00:05:07,465 --> 00:05:09,745
+around the salon. So like we need to
+
+101
+00:05:09,745 --> 00:05:12,025
+connect and Paul with these guys and just
+
+102
+00:05:12,025 --> 00:05:14,305
+make sure that we understand what it is.
+
+103
+00:05:14,305 --> 00:05:16,585
+So if if they're clear to start working
+
+104
+00:05:16,585 --> 00:05:18,865
+on the MLB stuff versus and the other
+
+105
+00:05:18,865 --> 00:05:20,575
+stuff is just going by undertaking
+
+106
+00:05:20,575 --> 00:05:22,285
+validation from Keyshawn, then we should
+
+107
+00:05:22,285 --> 00:05:23,995
+track that and understand if there's
+
+108
+00:05:23,995 --> 00:05:25,933
+updates. That we need to make to the
+
+109
+00:05:25,933 --> 00:05:27,050
+against the validation that's happening.
+
+110
+00:05:28,440 --> 00:05:30,531
+Or anything else, right. Or if we can
+
+111
+00:05:30,531 --> 00:05:32,100
+just get right into the self-service
+
+112
+00:05:32,100 --> 00:05:33,930
+stuff, which would be like the other
+
+113
+00:05:33,930 --> 00:05:36,283
+thing with the to the to the Michael and
+
+114
+00:05:36,283 --> 00:05:38,375
+team. Do they know how to promote things
+
+115
+00:05:38,375 --> 00:05:40,466
+out of anger? Because that's where it is
+
+116
+00:05:40,466 --> 00:05:42,297
+right now. Not yet, but they're working
+
+117
+00:05:42,297 --> 00:05:43,865
+with Dave Lloyd, who absolutely does.
+
+118
+00:05:43,865 --> 00:05:45,957
+Yeah, I know Dave does. I didn't know
+
+119
+00:05:45,957 --> 00:05:47,787
+whether I'd go to David Warren or
+
+120
+00:05:47,787 --> 00:05:49,963
+somebody to. That to to start elevating
+
+121
+00:05:49,963 --> 00:05:52,096
+out of death. Yeah, we're elevating out
+
+122
+00:05:52,096 --> 00:05:54,533
+of engine, which is so it's pretty well
+
+123
+00:05:54,533 --> 00:05:56,361
+documented too. And they've they've been
+
+124
+00:05:56,361 --> 00:05:58,798
+they've gone to KD from Dave Lloyd and
+
+125
+00:05:58,798 --> 00:06:01,539
+and they can they're going to come to me
+
+126
+00:06:01,539 --> 00:06:03,977
+if they have questions as well. But yeah,
+
+127
+00:06:03,977 --> 00:06:05,500
+OK, cool. Alright, sounds good.
+
+128
+00:06:08,550 --> 00:06:11,416
+I have two more questions on this.
+
+129
+00:06:11,416 --> 00:06:14,283
+So Paul, are you guys able to
+
+130
+00:06:14,283 --> 00:06:17,149
+meet with Brad to figure out what
+
+131
+00:06:17,149 --> 00:06:20,015
+clean up of this this epic and
+
+132
+00:06:20,015 --> 00:06:22,472
+moving the stories into their correct
+
+133
+00:06:22,472 --> 00:06:24,520
+statuses and assigning dates here?
+
+134
+00:06:27,240 --> 00:06:29,392
+I think it required some stuff with me
+
+135
+00:06:29,392 --> 00:06:31,274
+first and those guys to like understand
+
+136
+00:06:31,274 --> 00:06:33,695
+what that was going to be. So I think
+
+137
+00:06:33,695 --> 00:06:35,040
+we're we're just about there.
+
+138
+00:06:37,230 --> 00:06:39,293
+Um, so yeah, we can connect with the
+
+139
+00:06:39,293 --> 00:06:41,613
+mirror has been out for a couple of days
+
+140
+00:06:41,613 --> 00:06:43,676
+as well during this, so he didn't join
+
+141
+00:06:43,676 --> 00:06:45,481
+those conversations we just had. So there
+
+142
+00:06:45,481 --> 00:06:47,544
+he hasn't made any updates yet, but in
+
+143
+00:06:47,544 --> 00:06:48,060
+our next.
+
+144
+00:06:50,510 --> 00:06:53,366
+Um. I think
+
+145
+00:06:53,366 --> 00:06:56,096
+about the scrum name is for this, but in
+
+146
+00:06:56,096 --> 00:06:58,219
+our next session with Murad, we'll we'll
+
+147
+00:06:58,219 --> 00:07:00,645
+fix that. OK so Maracas off the last
+
+148
+00:07:00,645 --> 00:07:03,071
+couple of days. Yeah, he was he's been
+
+149
+00:07:03,071 --> 00:07:05,801
+sick for a few days. Ohk OK yeah, he
+
+150
+00:07:05,801 --> 00:07:07,317
+had said Wednesday, Thursday there
+
+151
+00:07:07,317 --> 00:07:09,743
+there's going to be like some sort of
+
+152
+00:07:09,743 --> 00:07:12,404
+realignment or. Refinement
+
+153
+00:07:12,404 --> 00:07:15,066
+review of yeah, he's been out
+
+154
+00:07:15,066 --> 00:07:17,729
+for both of those days. So
+
+155
+00:07:17,729 --> 00:07:20,391
+OK, but Michael is working, is
+
+156
+00:07:20,391 --> 00:07:23,054
+working on these modules now. So
+
+157
+00:07:23,054 --> 00:07:25,716
+keep in mind Andrew, that sort
+
+158
+00:07:25,716 --> 00:07:26,160
+of.
+
+159
+00:07:28,640 --> 00:07:30,473
+Mike and his counterparts who are
+
+160
+00:07:30,473 --> 00:07:32,306
+supporting Mike had just joined the
+
+161
+00:07:32,306 --> 00:07:34,445
+organization and they are coming up to
+
+162
+00:07:34,445 --> 00:07:37,195
+speed on how to do this stuff and they
+
+163
+00:07:37,195 --> 00:07:38,723
+needed some background information from
+
+164
+00:07:38,723 --> 00:07:41,168
+me on what exactly they were doing. So
+
+165
+00:07:41,168 --> 00:07:43,918
+they had taken a look at the work, came
+
+166
+00:07:43,918 --> 00:07:46,362
+back with a whole ton of questions about
+
+167
+00:07:46,362 --> 00:07:48,922
+how the pipeline works and. Than how they
+
+168
+00:07:48,922 --> 00:07:51,008
+need to do their code development and I
+
+169
+00:07:51,008 --> 00:07:52,833
+spent an hour with them this morning
+
+170
+00:07:52,833 --> 00:07:54,920
+actually, I spent half an hour with them
+
+171
+00:07:54,920 --> 00:07:56,484
+yesterday and then another hour this
+
+172
+00:07:56,484 --> 00:07:58,570
+morning going through all of that. So now
+
+173
+00:07:58,570 --> 00:08:00,135
+they're starting to progress forward. OK,
+
+174
+00:08:00,135 --> 00:08:02,482
+but we had to bring them up to speed,
+
+175
+00:08:02,482 --> 00:08:04,568
+right? And and honestly, I expect more of
+
+176
+00:08:04,568 --> 00:08:06,132
+that because their their new resources,
+
+177
+00:08:06,132 --> 00:08:07,958
+right? Like it's we airdropped people out
+
+178
+00:08:07,958 --> 00:08:10,811
+of the sky. Yeah, that's fair.
+
+179
+00:08:10,811 --> 00:08:13,159
+I thought the Katie had happened 2 weeks
+
+180
+00:08:13,159 --> 00:08:15,802
+ago, but now there was a general KT with
+
+181
+00:08:15,802 --> 00:08:17,857
+with another resource that we have, Dave
+
+182
+00:08:17,857 --> 00:08:20,206
+Lloyd. But once they started to dig into
+
+183
+00:08:20,206 --> 00:08:22,554
+the actual work, they came back with a
+
+184
+00:08:22,554 --> 00:08:24,316
+whole bunch more questions, which we
+
+185
+00:08:24,316 --> 00:08:26,665
+expect them and usually takes us like 3
+
+186
+00:08:26,665 --> 00:08:28,720
+months to bring someone up to speed.
+
+187
+00:08:28,850 --> 00:08:30,693
+Right. And these guys, you know, we,
+
+188
+00:08:30,693 --> 00:08:32,800
+we're crash coursing them in a couple of
+
+189
+00:08:32,800 --> 00:08:33,590
+weeks, right so.
+
+190
+00:08:38,130 --> 00:08:40,360
+But I there at the point now where
+
+191
+00:08:40,360 --> 00:08:42,312
+they're looking at the actual changes, So
+
+192
+00:08:42,312 --> 00:08:44,821
+and Paul, I, I gave them, I thought that
+
+193
+00:08:44,821 --> 00:08:47,052
+we had to finish the other core changes
+
+194
+00:08:47,052 --> 00:08:49,282
+before we went over to the lab module.
+
+195
+00:08:49,282 --> 00:08:51,792
+And if that's not the case, then then we
+
+196
+00:08:51,792 --> 00:08:53,743
+can redirect that and start focusing on
+
+197
+00:08:53,743 --> 00:08:54,580
+the lab stuff.
+
+198
+00:09:01,360 --> 00:09:04,066
+That sounds good. Can we have a ticket
+
+199
+00:09:04,066 --> 00:09:06,772
+for the QA that is happening of the
+
+200
+00:09:06,772 --> 00:09:09,141
+actual changes? Because I didn't see that
+
+201
+00:09:09,141 --> 00:09:11,847
+in the epic fall. No, the delivery, Well,
+
+202
+00:09:11,847 --> 00:09:13,877
+no, because the delivery team doesn't
+
+203
+00:09:13,877 --> 00:09:16,507
+work with this project. Yeah, alright,
+
+204
+00:09:16,507 --> 00:09:18,842
+fair enough. Yeah, right, right. So I
+
+205
+00:09:18,842 --> 00:09:20,844
+actually added the ticket because I
+
+206
+00:09:20,844 --> 00:09:23,513
+didn't think that we had made the PLT
+
+207
+00:09:23,513 --> 00:09:25,848
+module changes yet either. And so I
+
+208
+00:09:25,848 --> 00:09:28,517
+actually added a ticket to to to add
+
+209
+00:09:28,517 --> 00:09:30,519
+the core of the additional core
+
+210
+00:09:30,519 --> 00:09:32,854
+capabilities to the PLT module because I
+
+211
+00:09:32,854 --> 00:09:35,190
+hadn't seen the changes there, right, so.
+
+212
+00:09:35,710 --> 00:09:37,479
+We can dump that ticket if Brandon
+
+213
+00:09:37,479 --> 00:09:39,249
+already made those changes, but I didn't
+
+214
+00:09:39,249 --> 00:09:41,271
+think that we had gotten them into the
+
+215
+00:09:41,271 --> 00:09:44,172
+PLT module either. But they're exposed
+
+216
+00:09:44,172 --> 00:09:46,576
+to the, you know, the SD team model,
+
+217
+00:09:46,576 --> 00:09:48,380
+which means they're through the PLP
+
+218
+00:09:48,380 --> 00:09:50,184
+module, right? Yeah, yeah. Well, that
+
+219
+00:09:50,184 --> 00:09:52,889
+that is the PLP module. Yes, sorry. So if
+
+220
+00:09:52,889 --> 00:09:54,993
+that works already done and the PLC
+
+221
+00:09:54,993 --> 00:09:57,098
+module has feature parity with the core
+
+222
+00:09:57,098 --> 00:09:59,202
+module, then we can disregard that ticket
+
+223
+00:09:59,202 --> 00:10:01,607
+then. And and what we should be tracking
+
+224
+00:10:01,607 --> 00:10:03,110
+is the QA testing, right?
+
+225
+00:10:07,930 --> 00:10:10,351
+We can talk about that with Mira and
+
+226
+00:10:10,351 --> 00:10:12,771
+Paul. We just because this is The thing
+
+227
+00:10:12,771 --> 00:10:14,890
+is, is right, like Andrew needs to
+
+228
+00:10:14,890 --> 00:10:17,008
+understand where the status is and if
+
+229
+00:10:17,008 --> 00:10:19,429
+there's a bunch of two tickets and what
+
+230
+00:10:19,429 --> 00:10:21,244
+you're saying isn't being reflected in
+
+231
+00:10:21,244 --> 00:10:23,060
+Tierra, then how does he know?
+
+232
+00:10:24,420 --> 00:10:26,780
+So yeah, that was my concern or our
+
+233
+00:10:26,780 --> 00:10:29,140
+concern that was brought up last week and
+
+234
+00:10:29,140 --> 00:10:31,500
+we're out. Said that he would take care
+
+235
+00:10:31,500 --> 00:10:32,090
+of it.
+
+236
+00:10:34,280 --> 00:10:36,264
+So I think we'll probably just delayed
+
+237
+00:10:36,264 --> 00:10:38,249
+another week until we're back. Yeah, I
+
+238
+00:10:38,249 --> 00:10:40,800
+think he's I think he's, he was out the
+
+239
+00:10:40,800 --> 00:10:43,351
+last two days. I think he might be backed
+
+240
+00:10:43,351 --> 00:10:46,186
+today. I don't know if you saw him in the
+
+241
+00:10:46,186 --> 00:10:48,454
+scrum this morning, Paul, but I think he
+
+242
+00:10:48,454 --> 00:10:50,722
+might be back today. So we should have
+
+243
+00:10:50,722 --> 00:10:52,990
+this fixed in the next couple of days.
+
+244
+00:10:53,520 --> 00:10:56,362
+As far as like getting the
+
+245
+00:10:56,362 --> 00:10:59,205
+stories updated and stuff. OK, he's
+
+246
+00:10:59,205 --> 00:11:01,100
+back today is working.
+
+247
+00:11:03,100 --> 00:11:05,503
+OK, so maybe if we can follow up, I mean,
+
+248
+00:11:05,503 --> 00:11:07,426
+perhaps he doesn't do that. I don't know
+
+249
+00:11:07,426 --> 00:11:09,109
+when the meeting was scheduled for, but
+
+250
+00:11:09,109 --> 00:11:11,930
+he said. Wednesday, Thursday,
+
+251
+00:11:11,930 --> 00:11:14,105
+probably referring to backlog refinement,
+
+252
+00:11:14,105 --> 00:11:16,280
+which was yesterday. Ohh, OK.
+
+253
+00:11:19,470 --> 00:11:22,152
+OK. Yeah, If you guys can set up an ad
+
+254
+00:11:22,152 --> 00:11:24,298
+hoc meeting to do that would be great.
+
+255
+00:11:24,298 --> 00:11:25,640
+Otherwise, just let me know.
+
+256
+00:11:27,930 --> 00:11:30,311
+OK. And then Paul, there is just a
+
+257
+00:11:30,311 --> 00:11:32,395
+lingering action item now for the token
+
+258
+00:11:32,395 --> 00:11:34,776
+by times. You're going to take a little
+
+259
+00:11:34,776 --> 00:11:36,859
+bit to see what the parameters were.
+
+260
+00:11:36,859 --> 00:11:38,943
+Yeah, a little more competitive than I
+
+261
+00:11:38,943 --> 00:11:41,324
+thought. So I should just spin out myself
+
+262
+00:11:41,324 --> 00:11:43,705
+a story for it and actually track it
+
+263
+00:11:43,705 --> 00:11:45,789
+instead of forgetting about it four days
+
+264
+00:11:45,789 --> 00:11:48,374
+out of five? Sorry. I'll I'll
+
+265
+00:11:48,374 --> 00:11:49,910
+start the story.
+
+266
+00:11:52,940 --> 00:11:53,430
+OK.
+
+267
+00:12:01,020 --> 00:12:02,890
+OK, so few actions there.
+
+268
+00:12:04,360 --> 00:12:06,791
+Great. So let's move on to release
+
+269
+00:12:06,791 --> 00:12:08,875
+management. So Jeremy, the last update
+
+270
+00:12:08,875 --> 00:12:11,654
+was we have that call with Alex Cooper
+
+271
+00:12:11,654 --> 00:12:14,433
+Nov and he was supposed to reach out
+
+272
+00:12:14,433 --> 00:12:17,212
+to the gym, but did we ever hear
+
+273
+00:12:17,212 --> 00:12:19,991
+back? I think you yourself and like Rainy
+
+274
+00:12:19,991 --> 00:12:22,423
+were supposed to kind of continue to
+
+275
+00:12:22,423 --> 00:12:24,848
+please. I didn't hear back. Specifically
+
+276
+00:12:24,848 --> 00:12:27,599
+about that item, but I have
+
+277
+00:12:27,599 --> 00:12:30,350
+a larger update related to that.
+
+278
+00:12:32,150 --> 00:12:34,170
+So the one of the reasons why Alex was
+
+279
+00:12:34,170 --> 00:12:35,965
+hedging is because we're in the middle of
+
+280
+00:12:35,965 --> 00:12:37,761
+making a bunch of changes related to this
+
+281
+00:12:37,761 --> 00:12:40,587
+right now. Jim's
+
+282
+00:12:40,587 --> 00:12:43,089
+been heavily involved in that and we've
+
+283
+00:12:43,089 --> 00:12:45,948
+been, I've been working with Alex on some
+
+284
+00:12:45,948 --> 00:12:48,093
+up proposal for some pipeline changes
+
+285
+00:12:48,093 --> 00:12:49,880
+that are going to Megan.
+
+286
+00:12:51,410 --> 00:12:53,957
+So I we presented that
+
+287
+00:12:53,957 --> 00:12:56,504
+to Jim. He's on board.
+
+288
+00:12:56,504 --> 00:12:59,051
+I have a session with
+
+289
+00:12:59,051 --> 00:13:00,580
+where is it?
+
+290
+00:13:01,880 --> 00:13:04,799
+Umm. So the first step of that
+
+291
+00:13:04,799 --> 00:13:07,719
+is to rework our SOV rules. So
+
+292
+00:13:07,719 --> 00:13:10,638
+we have a meeting with Subodh and
+
+293
+00:13:10,638 --> 00:13:11,890
+some other folks.
+
+294
+00:13:14,800 --> 00:13:17,661
+Is it?I thought
+
+295
+00:13:17,661 --> 00:13:19,874
+it was tomorrow, but I think it might be
+
+296
+00:13:19,874 --> 00:13:20,120
+Monday.
+
+297
+00:13:23,350 --> 00:13:23,990
+Skype.
+
+298
+00:13:31,500 --> 00:13:34,408
+I don't know why I'm not seeing it, but
+
+299
+00:13:34,408 --> 00:13:37,316
+let me find it. Let me find the meeting
+
+300
+00:13:37,316 --> 00:13:39,577
+from Scott. Basically we're going to. We
+
+301
+00:13:39,577 --> 00:13:40,870
+are working through the.
+
+302
+00:13:42,430 --> 00:13:44,693
+Oh, there it is. It's actually next
+
+303
+00:13:44,693 --> 00:13:46,633
+Wednesday. Um, we are, we're working
+
+304
+00:13:46,633 --> 00:13:49,220
+through an uplift to the sod rules that
+
+305
+00:13:49,220 --> 00:13:51,160
+are going to allow us to.
+
+306
+00:13:52,140 --> 00:13:53,898
+Addressed this well, addressed the larger
+
+307
+00:13:53,898 --> 00:13:56,537
+issue behind this. Um, I, I don't know if
+
+308
+00:13:56,537 --> 00:13:58,882
+that also then allows us to make some
+
+309
+00:13:58,882 --> 00:14:00,641
+exceptions in the interim. That's the
+
+310
+00:14:00,641 --> 00:14:02,986
+open question, right? So I do need to
+
+311
+00:14:02,986 --> 00:14:05,331
+ping Alex on that. It's likely that he's
+
+312
+00:14:05,331 --> 00:14:07,969
+not going to allow that until we have an
+
+313
+00:14:07,969 --> 00:14:10,021
+answer on what target state is, which
+
+314
+00:14:10,021 --> 00:14:11,780
+we're hoping to get next week.
+
+315
+00:14:12,700 --> 00:14:15,234
+Um, so, um, unfortunately like
+
+316
+00:14:15,234 --> 00:14:17,769
+we can push, but I
+
+317
+00:14:17,769 --> 00:14:19,290
+don't know that.
+
+318
+00:14:21,190 --> 00:14:24,099
+I don't know that he's going to agree to
+
+319
+00:14:24,099 --> 00:14:26,039
+that until we understand where we're
+
+320
+00:14:26,039 --> 00:14:28,625
+going and get likes about and other folks
+
+321
+00:14:28,625 --> 00:14:31,534
+to buy into that. What what team is that?
+
+322
+00:14:31,534 --> 00:14:33,797
+Jeremy's that they could have team. It's
+
+323
+00:14:33,797 --> 00:14:36,060
+the pie is the the pipeline team.
+
+324
+00:14:38,140 --> 00:14:40,834
+I think they're, I don't know if they're
+
+325
+00:14:40,834 --> 00:14:43,528
+still called DSO. I don't even know what
+
+326
+00:14:43,528 --> 00:14:46,222
+DSO stands for, but I think that that's
+
+327
+00:14:46,222 --> 00:14:48,243
+their current acronym, Dev Secops, Dev
+
+328
+00:14:48,243 --> 00:14:49,590
+SEC OPS. OK, yeah.
+
+329
+00:14:51,290 --> 00:14:52,270
+Never made that correlation.
+
+330
+00:14:54,860 --> 00:14:57,404
+I think they're still Tiësto
+
+331
+00:14:57,404 --> 00:14:59,949
+Rajesh, but yeah, so, so,
+
+332
+00:14:59,949 --> 00:15:02,493
+so I'd probably just put
+
+333
+00:15:02,493 --> 00:15:04,020
+DSO. Yeah, so.
+
+334
+00:15:06,280 --> 00:15:06,900
+Yep.
+
+335
+00:15:09,700 --> 00:15:12,447
+The DSO pipeline is Trevor on this
+
+336
+00:15:12,447 --> 00:15:15,356
+call. See, there was none
+
+337
+00:15:15,356 --> 00:15:17,310
+on this call, James on this call.
+
+338
+00:15:18,690 --> 00:15:20,594
+And we obviously talked to prior about SD
+
+339
+00:15:20,594 --> 00:15:22,736
+rules and stuff and we had gone over that
+
+340
+00:15:22,736 --> 00:15:23,450
+with your team.
+
+341
+00:15:25,530 --> 00:15:27,846
+I don't know if you want any
+
+342
+00:15:27,846 --> 00:15:29,832
+participation in our in our working
+
+343
+00:15:29,832 --> 00:15:31,817
+sessions, unlike revising that SOD rule,
+
+344
+00:15:31,817 --> 00:15:34,465
+those SD rules based on our SDLC standard
+
+345
+00:15:34,465 --> 00:15:36,781
+and Wim standard. Either way, we're going
+
+346
+00:15:36,781 --> 00:15:39,429
+to end up coming back and presenting to
+
+347
+00:15:39,429 --> 00:15:42,076
+you, but if you want to participate, I'm
+
+348
+00:15:42,076 --> 00:15:43,400
+happy to invite someone.
+
+349
+00:15:46,630 --> 00:15:49,285
+I can decide whether I can get there or
+
+350
+00:15:49,285 --> 00:15:52,165
+not. And it's Donaldson,
+
+351
+00:15:52,165 --> 00:15:54,558
+Trevor or something else? Yeah. I mean,
+
+352
+00:15:54,558 --> 00:15:56,610
+Trevor's pretty. She's probably the most
+
+353
+00:15:56,610 --> 00:15:59,003
+familiar person from your team in this
+
+354
+00:15:59,003 --> 00:16:01,396
+cloud operating model. So yeah, Yeah, for
+
+355
+00:16:01,396 --> 00:16:02,080
+sure. Yeah.
+
+356
+00:16:04,140 --> 00:16:06,978
+Um, so yeah, unfortunately Jane and and
+
+357
+00:16:06,978 --> 00:16:08,600
+and you like it.
+
+358
+00:16:11,170 --> 00:16:14,080
+I, I've been trying to convince Alex just
+
+359
+00:16:14,080 --> 00:16:16,990
+give us an exception, but he's very leery
+
+360
+00:16:16,990 --> 00:16:19,537
+of that because he's got pressure from
+
+361
+00:16:19,537 --> 00:16:22,084
+Chris Tomlin and Subodh and stuff that
+
+362
+00:16:22,084 --> 00:16:24,994
+have gone to Jim and Megan saying, you
+
+363
+00:16:24,994 --> 00:16:27,177
+know, because there's been violations to
+
+364
+00:16:27,177 --> 00:16:28,996
+those existing SSD rules. They're
+
+365
+00:16:28,996 --> 00:16:31,573
+basically. Enforcing and validating the
+
+366
+00:16:31,573 --> 00:16:34,298
+BSOD rules that we have in place. And
+
+367
+00:16:34,298 --> 00:16:37,024
+the only way around that really is to
+
+368
+00:16:37,024 --> 00:16:39,410
+is to revise the SFD rules, right?
+
+369
+00:16:40,920 --> 00:16:43,133
+So he's very leery right now of, of
+
+370
+00:16:43,133 --> 00:16:44,793
+providing exceptions to that because of
+
+371
+00:16:44,793 --> 00:16:46,730
+the visibility this has at the moment.
+
+372
+00:16:48,330 --> 00:16:51,278
+OK. Uh, by the
+
+373
+00:16:51,278 --> 00:16:54,019
+way, I did open up that risk Jeremy
+
+374
+00:16:54,019 --> 00:16:56,760
+wants you to review, so I'm going to
+
+375
+00:16:56,760 --> 00:16:59,501
+e-mail you taking that to me and I'll
+
+376
+00:16:59,501 --> 00:17:01,900
+I'll make an update on it. OK.
+
+377
+00:17:03,590 --> 00:17:04,640
+And.
+
+378
+00:17:06,460 --> 00:17:09,251
+Yeah. Just sending that to you right now,
+
+379
+00:17:09,251 --> 00:17:09,600
+OK.
+
+380
+00:17:14,510 --> 00:17:17,454
+Tell you a lot of people out there
+
+381
+00:17:17,454 --> 00:17:18,190
+comment, OK?
+
+382
+00:17:22,370 --> 00:17:24,895
+Anything else around the pipeline
+
+383
+00:17:24,895 --> 00:17:25,400
+access?
+
+384
+00:17:29,140 --> 00:17:31,955
+Jeremy, should should we be going to down
+
+385
+00:17:31,955 --> 00:17:34,771
+that path of updating the roles or should
+
+386
+00:17:34,771 --> 00:17:37,586
+we just assume now that we need multiple
+
+387
+00:17:37,586 --> 00:17:40,402
+roles and we're we're going to use that
+
+388
+00:17:40,402 --> 00:17:41,810
+as an interim solution?
+
+389
+00:17:44,570 --> 00:17:47,220
+Should we be making the
+
+390
+00:17:47,220 --> 00:17:49,340
+overall capacity rule changes?
+
+391
+00:17:50,960 --> 00:17:53,759
+We are going to be making any of those
+
+392
+00:17:53,759 --> 00:17:56,559
+changes. It's not up to us to make those,
+
+393
+00:17:56,559 --> 00:17:59,410
+um. By we, I mean like this
+
+394
+00:17:59,410 --> 00:18:01,010
+particular audience, right, um.
+
+395
+00:18:02,210 --> 00:18:05,000
+My hope is that if we
+
+396
+00:18:05,000 --> 00:18:07,791
+get some initial agreement on an
+
+397
+00:18:07,791 --> 00:18:10,582
+allowed target state for the SD
+
+398
+00:18:10,582 --> 00:18:13,372
+rules, then we can implement some
+
+399
+00:18:13,372 --> 00:18:16,163
+quick changes that align to that
+
+400
+00:18:16,163 --> 00:18:18,954
+for this repository without getting into,
+
+401
+00:18:18,954 --> 00:18:21,280
+you know on in trouble.
+
+402
+00:18:22,570 --> 00:18:25,408
+Or we can get a latte that says, hey,
+
+403
+00:18:25,408 --> 00:18:27,616
+we're in flight to change these BSOD
+
+404
+00:18:27,616 --> 00:18:29,508
+rules and they're getting recertified. In
+
+405
+00:18:29,508 --> 00:18:31,716
+the interim, let's just make the update
+
+406
+00:18:31,716 --> 00:18:34,239
+to this repo because we know where this
+
+407
+00:18:34,239 --> 00:18:36,131
+path is and we've gotten nominal
+
+408
+00:18:36,131 --> 00:18:38,023
+agreement from Enterprise Protect and so
+
+409
+00:18:38,023 --> 00:18:40,862
+we can proceed, right? OK, I see. So it's
+
+410
+00:18:40,862 --> 00:18:43,070
+kind of like agreeing on a target.
+
+411
+00:18:43,850 --> 00:18:45,797
+Not necessarily implementing the target
+
+412
+00:18:45,797 --> 00:18:48,524
+state, but using that as a basis
+
+413
+00:18:48,524 --> 00:18:51,250
+to get the exception. Yes, OK, I
+
+414
+00:18:51,250 --> 00:18:51,640
+see.
+
+415
+00:18:54,100 --> 00:18:55,380
+OK, makes sense.
+
+416
+00:18:58,710 --> 00:19:01,603
+Umm. Alright, alright.
+
+417
+00:19:01,603 --> 00:19:04,380
+And I guess in terms of release
+
+418
+00:19:04,380 --> 00:19:06,761
+management and the question around how
+
+419
+00:19:06,761 --> 00:19:09,538
+will deployments be done, we do have
+
+420
+00:19:09,538 --> 00:19:12,316
+a a weekly series and there's just
+
+421
+00:19:12,316 --> 00:19:14,300
+a couple of action items.
+
+422
+00:19:15,840 --> 00:19:18,751
+For Wayne and Paul, Wayne
+
+423
+00:19:18,751 --> 00:19:21,080
+was going to provide.
+
+424
+00:19:22,610 --> 00:19:25,237
+Kind of the requirements around
+
+425
+00:19:25,237 --> 00:19:27,864
+documentation artifacts, etcetera to move
+
+426
+00:19:27,864 --> 00:19:30,492
+between environments as we promote
+
+427
+00:19:30,492 --> 00:19:33,119
+the configuration. And then I
+
+428
+00:19:33,119 --> 00:19:35,747
+think Paul you were you
+
+429
+00:19:35,747 --> 00:19:38,374
+had an action as well
+
+430
+00:19:38,374 --> 00:19:38,900
+to.
+
+431
+00:19:41,100 --> 00:19:43,160
+Figure out what is what improvements are
+
+432
+00:19:43,160 --> 00:19:45,515
+required based on what we have to. Yeah,
+
+433
+00:19:45,515 --> 00:19:48,165
+I think I, I just wanted to identify the
+
+434
+00:19:48,165 --> 00:19:49,342
+granular between identifying good
+
+435
+00:19:49,342 --> 00:19:51,697
+agreement kind of between Jane and the YM
+
+436
+00:19:51,697 --> 00:19:54,346
+team and they has team on like, hey, this
+
+437
+00:19:54,346 --> 00:19:56,701
+is how the things are going to work
+
+438
+00:19:56,701 --> 00:19:58,173
+operationally going forward. It's going
+
+439
+00:19:58,173 --> 00:19:59,645
+to be Tuesday, Thursday night
+
+440
+00:19:59,645 --> 00:20:01,404
+deployments. Or we're going to, who's
+
+441
+00:20:01,404 --> 00:20:03,342
+going to be submitting changes? Are we
+
+442
+00:20:03,342 --> 00:20:05,557
+going to get a bunch of standard changes
+
+443
+00:20:05,557 --> 00:20:07,771
+created? Are we going to? We did, we
+
+444
+00:20:07,771 --> 00:20:09,432
+talked about the secret generation, which
+
+445
+00:20:09,432 --> 00:20:11,647
+is identify all those things to make sure
+
+446
+00:20:11,647 --> 00:20:13,308
+that everybody agrees that the shared
+
+447
+00:20:13,308 --> 00:20:15,523
+process going forward is going to be XYZ,
+
+448
+00:20:15,523 --> 00:20:17,461
+as well as documenting that process. But
+
+449
+00:20:17,461 --> 00:20:19,399
+that's kind of separate. I'm going to
+
+450
+00:20:19,399 --> 00:20:21,533
+kind of help. Work through with the
+
+451
+00:20:21,533 --> 00:20:23,640
+delivery team on on some documentation of
+
+452
+00:20:23,640 --> 00:20:26,048
+the new process as opposed to to like
+
+453
+00:20:26,048 --> 00:20:27,854
+documentation of the process that we're
+
+454
+00:20:27,854 --> 00:20:30,262
+not going to use, but the process that
+
+455
+00:20:30,262 --> 00:20:32,670
+existed as it was in the past, so.
+
+456
+00:20:35,070 --> 00:20:37,648
+That's kind of where we
+
+457
+00:20:37,648 --> 00:20:40,226
+are, OK, And we have
+
+458
+00:20:40,226 --> 00:20:42,804
+some actions basically due by
+
+459
+00:20:42,804 --> 00:20:44,680
+our. On Monday.
+
+460
+00:20:55,339 --> 00:20:55,879
+OK.
+
+461
+00:20:59,949 --> 00:21:02,644
+Yeah. I mean, I don't think I have
+
+462
+00:21:02,644 --> 00:21:05,003
+anything else to to mention here other
+
+463
+00:21:05,003 --> 00:21:07,024
+than there's a conference where we're
+
+464
+00:21:07,024 --> 00:21:08,708
+documenting our discussion and actions
+
+465
+00:21:08,708 --> 00:21:10,729
+and just rotated discussion on Monday.
+
+466
+00:21:16,559 --> 00:21:18,649
+Anything else for release management?
+
+467
+00:21:20,249 --> 00:21:22,229
+Umm.
+
+468
+00:21:25,989 --> 00:21:28,830
+Thank you. Real quick, I just got
+
+469
+00:21:28,830 --> 00:21:31,671
+a e-mail earlier this week on it.
+
+470
+00:21:31,671 --> 00:21:34,512
+They're tracking the the, the sort of
+
+471
+00:21:34,512 --> 00:21:37,352
+new intake form and process. I've been
+
+472
+00:21:37,352 --> 00:21:40,193
+corrected as part of this effort. Yeah,
+
+473
+00:21:40,193 --> 00:21:42,628
+somewhere. Yeah, it's this, this one
+
+474
+00:21:42,628 --> 00:21:45,358
+here. Sorry. That's when you remember
+
+475
+00:21:45,358 --> 00:21:47,649
+the word that Karina is leading, right?
+
+476
+00:21:47,649 --> 00:21:50,267
+Yep. Yeah. So that that is pretty much
+
+477
+00:21:50,267 --> 00:21:52,558
+done. We're just on hold for now.
+
+478
+00:21:52,558 --> 00:21:54,848
+Although I think Karina was meeting with
+
+479
+00:21:54,848 --> 00:21:57,466
+you, Paul, too. Yeah, I saw a meeting
+
+480
+00:21:57,466 --> 00:21:59,757
+about it. I just didn't remember. It's
+
+481
+00:21:59,757 --> 00:22:02,702
+sort of like I didn't realize it was on
+
+482
+00:22:02,702 --> 00:22:05,564
+hold. It it's done
+
+483
+00:22:05,564 --> 00:22:06,889
+like it's it's not.
+
+484
+00:22:09,839 --> 00:22:12,168
+But we, we, we can't really deploy that
+
+485
+00:22:12,168 --> 00:22:14,788
+to prod until YM is ready, you know about
+
+486
+00:22:14,788 --> 00:22:17,116
+the transfer is completed and the team is
+
+487
+00:22:17,116 --> 00:22:19,921
+ready to start. So I
+
+488
+00:22:19,921 --> 00:22:21,399
+thought this was something just.
+
+489
+00:22:23,369 --> 00:22:25,721
+Anyway, that's the discussion. Yeah, I
+
+490
+00:22:25,721 --> 00:22:28,464
+didn't, I thought it was, I thought
+
+491
+00:22:28,464 --> 00:22:31,207
+it was kind of waiting on the
+
+492
+00:22:31,207 --> 00:22:33,950
+service now that do stuff. So yeah,
+
+493
+00:22:33,950 --> 00:22:36,693
+no, ServiceNow is is done. So OK,
+
+494
+00:22:36,693 --> 00:22:39,044
+let's see this conversation. Are we
+
+495
+00:22:39,044 --> 00:22:40,219
+duplicating work here?
+
+496
+00:22:43,999 --> 00:22:46,547
+Well, because you asked me to look at
+
+497
+00:22:46,547 --> 00:22:47,820
+requirements for future operation,
+
+498
+00:22:47,820 --> 00:22:49,731
+deployment process. Well, the service now
+
+499
+00:22:49,731 --> 00:22:52,278
+intakes done and the service now is kind
+
+500
+00:22:52,278 --> 00:22:54,825
+of ready and it's been put on hold
+
+501
+00:22:54,825 --> 00:22:57,691
+because we don't have the tool set to do
+
+502
+00:22:57,691 --> 00:23:00,506
+that. You've got, you've got
+
+503
+00:23:00,506 --> 00:23:02,652
+all the work that we've talked about
+
+504
+00:23:02,652 --> 00:23:04,491
+earlier in the discussion, right? You've
+
+505
+00:23:04,491 --> 00:23:06,637
+got all the work, that Terraform work
+
+506
+00:23:06,637 --> 00:23:09,396
+that has to be done, all that sod stuff
+
+507
+00:23:09,396 --> 00:23:11,542
+has to be straightened out, all the
+
+508
+00:23:11,542 --> 00:23:13,382
+that's like the technical deployment. So
+
+509
+00:23:13,382 --> 00:23:15,527
+we can't, we can't deploy anything until
+
+510
+00:23:15,527 --> 00:23:18,287
+that's in place as well. We have to get
+
+511
+00:23:18,287 --> 00:23:21,055
+a, get consensus on how. The two sets of
+
+512
+00:23:21,055 --> 00:23:22,684
+deployment processes are going to be
+
+513
+00:23:22,684 --> 00:23:24,313
+combined, right, Just like Paul was
+
+514
+00:23:24,313 --> 00:23:26,485
+saying, like we got to talk to Nahas
+
+515
+00:23:26,485 --> 00:23:28,928
+group to say, OK, we're going to do stuff
+
+516
+00:23:28,928 --> 00:23:31,100
+up to this point, then we're going to
+
+517
+00:23:31,100 --> 00:23:33,543
+hand this stuff over to you. And then we
+
+518
+00:23:33,543 --> 00:23:35,443
+have to figure out exactly how we're
+
+519
+00:23:35,443 --> 00:23:37,343
+going to move forward with, you know,
+
+520
+00:23:37,343 --> 00:23:39,515
+looking at which of the which of the
+
+521
+00:23:39,515 --> 00:23:41,851
+processes that are. Place at the moment
+
+522
+00:23:41,851 --> 00:23:43,998
+are actually, you know, which components
+
+523
+00:23:43,998 --> 00:23:46,861
+are we going to keep, which are being
+
+524
+00:23:46,861 --> 00:23:49,366
+removed, which are going to expand upon
+
+525
+00:23:49,366 --> 00:23:51,871
+like the entry ID. Team does deployments
+
+526
+00:23:51,871 --> 00:23:54,018
+during the day very directly in
+
+527
+00:23:54,018 --> 00:23:55,807
+production, Pink said. Team does
+
+528
+00:23:55,807 --> 00:23:57,597
+deployments Tuesdays and Thursday nights
+
+529
+00:23:57,597 --> 00:24:00,102
+be a change order with standard change
+
+530
+00:24:00,102 --> 00:24:02,803
+order. May all those types of things kind
+
+531
+00:24:02,803 --> 00:24:05,355
+of have to be rationalized. And that's to
+
+532
+00:24:05,355 --> 00:24:06,950
+me that's completely separate and
+
+533
+00:24:06,950 --> 00:24:09,183
+distinct for the most part from the
+
+534
+00:24:09,183 --> 00:24:11,417
+service now intake because that's we get
+
+535
+00:24:11,417 --> 00:24:13,650
+the service now intake and that that's
+
+536
+00:24:13,650 --> 00:24:15,564
+what kicks off those subsequent processes
+
+537
+00:24:15,564 --> 00:24:18,116
+that are in behind the scenes drug. So
+
+538
+00:24:18,116 --> 00:24:20,349
+those things have to be all that.
+
+539
+00:24:20,879 --> 00:24:22,813
+Work those discussions about how those
+
+540
+00:24:22,813 --> 00:24:25,069
+processes are going to play out that's
+
+541
+00:24:25,069 --> 00:24:27,969
+what we have to look at now and I
+
+542
+00:24:27,969 --> 00:24:30,869
+think we so we can talk and so the
+
+543
+00:24:30,869 --> 00:24:33,447
+the item you have from the previous story
+
+544
+00:24:33,447 --> 00:24:36,348
+right is is that I think last time we
+
+545
+00:24:36,348 --> 00:24:38,604
+were discussing some of this I don't
+
+546
+00:24:38,604 --> 00:24:40,537
+think the sort of governance and
+
+547
+00:24:40,537 --> 00:24:42,117
+tracking. Requirements are super clear.
+
+548
+00:24:42,117 --> 00:24:44,492
+So there may be some decisions that we're
+
+549
+00:24:44,492 --> 00:24:47,165
+making about OHH, can we send a secret to
+
+550
+00:24:47,165 --> 00:24:49,243
+only the person who's authorized on the,
+
+551
+00:24:49,243 --> 00:24:51,024
+you know, ServiceNow intake to receive
+
+552
+00:24:51,024 --> 00:24:52,806
+that secret or something? There's some
+
+553
+00:24:52,806 --> 00:24:54,884
+some things around that, which is like
+
+554
+00:24:54,884 --> 00:24:57,556
+what are the standards on how to do that?
+
+555
+00:24:57,556 --> 00:24:59,932
+What are the relevant behaviors so we can
+
+556
+00:24:59,932 --> 00:25:01,766
+make sure the procedure. Here's the
+
+557
+00:25:01,766 --> 00:25:03,873
+standards and I think that nobody sort of
+
+558
+00:25:03,873 --> 00:25:05,979
+had a clear beat on what are the
+
+559
+00:25:05,979 --> 00:25:07,559
+operative standards that we're trying to
+
+560
+00:25:07,559 --> 00:25:09,666
+align to. That is an open question. That
+
+561
+00:25:09,666 --> 00:25:11,773
+specific item is an open question that we
+
+562
+00:25:11,773 --> 00:25:13,353
+have because the development effort that
+
+563
+00:25:13,353 --> 00:25:15,986
+I was going to come back to you with Jane
+
+564
+00:25:15,986 --> 00:25:18,093
+as well. We can obviously target the TA
+
+565
+00:25:18,093 --> 00:25:20,848
+or delegate. Through the if
+
+566
+00:25:20,848 --> 00:25:22,379
+we're doing self-service automation and
+
+567
+00:25:22,379 --> 00:25:25,134
+we're sending a a starter secret to to a
+
+568
+00:25:25,134 --> 00:25:26,665
+person, especially since these are
+
+569
+00:25:26,665 --> 00:25:28,502
+technically non privileged, do we just
+
+570
+00:25:28,502 --> 00:25:30,951
+let them specify anybody to send it to?
+
+571
+00:25:30,951 --> 00:25:33,706
+Do we only send it to the DO and
+
+572
+00:25:33,706 --> 00:25:35,849
+delegate if we're doing that? What if
+
+573
+00:25:35,849 --> 00:25:37,686
+they're not there? Right? What if
+
+574
+00:25:37,686 --> 00:25:39,829
+they're, you know, usually the TA is.
+
+575
+00:25:39,939 --> 00:25:42,370
+Really disconnected, right? So how do we
+
+576
+00:25:42,370 --> 00:25:45,147
+know? Do we only send it to the
+
+577
+00:25:45,147 --> 00:25:47,230
+requester like the actual person who
+
+578
+00:25:47,230 --> 00:25:49,314
+submitted the change the the the
+
+579
+00:25:49,314 --> 00:25:51,397
+registration? Maybe we locked down to
+
+580
+00:25:51,397 --> 00:25:53,480
+that, right? We normally get the
+
+581
+00:25:53,480 --> 00:25:55,910
+requester or the TO to identify the
+
+582
+00:25:55,910 --> 00:25:58,688
+single person that we send it to. OK,
+
+583
+00:25:58,688 --> 00:26:01,589
+so in self-service. Be OK for a requester
+
+584
+00:26:01,589 --> 00:26:03,229
+to say send it here.
+
+585
+00:26:04,629 --> 00:26:06,519
+To this person, well.
+
+586
+00:26:08,799 --> 00:26:11,409
+We would have to look at that because we
+
+587
+00:26:11,409 --> 00:26:13,729
+don't want it to be somebody random. We
+
+588
+00:26:13,729 --> 00:26:15,759
+need it to be formal or formal
+
+589
+00:26:15,759 --> 00:26:17,499
+assignment, right? We need, you know,
+
+590
+00:26:17,499 --> 00:26:20,109
+you. I wouldn't want you to say all that,
+
+591
+00:26:20,109 --> 00:26:22,429
+you know, send whatever you need to to
+
+592
+00:26:22,429 --> 00:26:24,749
+Jane, right, Because you may not on the
+
+593
+00:26:24,749 --> 00:26:27,649
+app. I may not own the app. We need to
+
+594
+00:26:27,649 --> 00:26:29,407
+get. Kind of formalization in there.
+
+595
+00:26:29,407 --> 00:26:31,562
+Well, person, this is the thing with this
+
+596
+00:26:31,562 --> 00:26:33,449
+self-service, right is the trade off is
+
+597
+00:26:33,449 --> 00:26:35,604
+as we have to think about like these
+
+598
+00:26:35,604 --> 00:26:37,490
+types of wonky things, you know, if
+
+599
+00:26:37,490 --> 00:26:39,107
+they're putting in a ServiceNow request,
+
+600
+00:26:39,107 --> 00:26:41,532
+you can just specify it as a field right?
+
+601
+00:26:41,532 --> 00:26:43,688
+In the fact that the TA is approving
+
+602
+00:26:43,688 --> 00:26:45,305
+means it's OK. But in self-service
+
+603
+00:26:45,305 --> 00:26:46,922
+automation, obviously we don't we have
+
+604
+00:26:46,922 --> 00:26:49,823
+the TA O that. Approved for the opcode to
+
+605
+00:26:49,823 --> 00:26:51,927
+be leveraged but they're not approving
+
+606
+00:26:51,927 --> 00:26:54,382
+the individual flow right so that means
+
+607
+00:26:54,382 --> 00:26:57,188
+that we're locked down to either one of
+
+608
+00:26:57,188 --> 00:26:59,994
+three people that we know right we know
+
+609
+00:26:59,994 --> 00:27:02,799
+the requester so we know the person who's
+
+610
+00:27:02,799 --> 00:27:05,254
+doing the work who's who's who's actually
+
+611
+00:27:05,254 --> 00:27:07,359
+promoting the the the app registration
+
+612
+00:27:07,359 --> 00:27:09,484
+we. Executing, right, it's typically
+
+613
+00:27:09,484 --> 00:27:12,133
+going to be like one of the limb
+
+614
+00:27:12,133 --> 00:27:13,789
+developers that's authorized against that
+
+615
+00:27:13,789 --> 00:27:16,770
+app code, right? Or we know that a or
+
+616
+00:27:16,770 --> 00:27:19,088
+the delegate like those are the three
+
+617
+00:27:19,088 --> 00:27:21,406
+people that we know, right, but for
+
+618
+00:27:21,406 --> 00:27:24,055
+certain, right great. So then then do we
+
+619
+00:27:24,055 --> 00:27:26,042
+have to put something or stipulate
+
+620
+00:27:26,042 --> 00:27:28,029
+something in the approval that the.
+
+621
+00:27:28,139 --> 00:27:30,982
+They'll have to provide to say that he's
+
+622
+00:27:30,982 --> 00:27:33,825
+that person is OK with whoever is named
+
+623
+00:27:33,825 --> 00:27:36,668
+as a recipient of the secret so that
+
+624
+00:27:36,668 --> 00:27:39,510
+she knows that that's one of the pieces,
+
+625
+00:27:39,510 --> 00:27:42,353
+you know, but so it's kind of who
+
+626
+00:27:42,353 --> 00:27:45,128
+does approve that. What
+
+627
+00:27:45,128 --> 00:27:47,846
+the requester is actually asking for in
+
+628
+00:27:47,846 --> 00:27:50,564
+that, so, so who approves right, is
+
+629
+00:27:50,564 --> 00:27:53,282
+someone who's authorized by the WTO to
+
+630
+00:27:53,282 --> 00:27:56,000
+be an approver, right. So it would
+
+631
+00:27:56,000 --> 00:27:58,718
+be a developer lead that would that
+
+632
+00:27:58,718 --> 00:28:01,436
+would approve the PR and for the
+
+633
+00:28:01,436 --> 00:28:03,766
+release it would be someone who's
+
+634
+00:28:03,766 --> 00:28:06,029
+identified as a release. Specialist and
+
+635
+00:28:06,029 --> 00:28:08,269
+those that those roles have to be
+
+636
+00:28:08,269 --> 00:28:11,149
+approved by A to and the growth and the
+
+637
+00:28:11,149 --> 00:28:13,709
+releases are patent. Do you have to be
+
+638
+00:28:13,709 --> 00:28:16,269
+tied to a change which is well, obviously
+
+639
+00:28:16,269 --> 00:28:18,189
+that's absolutely true, but the change
+
+640
+00:28:18,189 --> 00:28:20,429
+would require the Tao to proof that
+
+641
+00:28:20,429 --> 00:28:21,389
+that's being done.
+
+642
+00:28:28,369 --> 00:28:31,331
+There may be a way for us to check to
+
+643
+00:28:31,331 --> 00:28:33,969
+see that um. You know if they
+
+644
+00:28:33,969 --> 00:28:36,593
+specify someone that they are in that
+
+645
+00:28:36,593 --> 00:28:38,842
+group of people who are authorized
+
+646
+00:28:38,842 --> 00:28:41,841
+against the app code, like they're in a
+
+647
+00:28:41,841 --> 00:28:44,090
+dev lead or a release specialist
+
+648
+00:28:44,090 --> 00:28:47,080
+position, right?That's a little
+
+649
+00:28:47,080 --> 00:28:49,871
+bit more advanced, but it may we may have
+
+650
+00:28:49,871 --> 00:28:52,042
+that capability to say, hey, if you've
+
+651
+00:28:52,042 --> 00:28:54,213
+been approved for a role against this
+
+652
+00:28:54,213 --> 00:28:57,005
+deployment from the TA O, then it's OK to
+
+653
+00:28:57,005 --> 00:28:59,176
+send the secret to you. Exactly. That's
+
+654
+00:28:59,176 --> 00:29:01,657
+definitely what we can we can state that
+
+655
+00:29:01,657 --> 00:29:04,448
+somewhere in some kind of like on a, you
+
+656
+00:29:04,448 --> 00:29:06,309
+know, a confluence site and agreement.
+
+657
+00:29:06,539 --> 00:29:08,881
+Something so that we cover our collective
+
+658
+00:29:08,881 --> 00:29:11,222
+when that, you know, for those cases,
+
+659
+00:29:11,222 --> 00:29:13,898
+yeah, it's going to be some funky coding
+
+660
+00:29:13,898 --> 00:29:16,574
+on our Paul that we'll have to look
+
+661
+00:29:16,574 --> 00:29:19,250
+at, but it's yeah. And it's amazing. How
+
+662
+00:29:19,250 --> 00:29:21,592
+stringent does that need to be? Where's
+
+663
+00:29:21,592 --> 00:29:24,268
+the kind of requirement or process on how
+
+664
+00:29:24,268 --> 00:29:27,221
+to handle that right? Can we be?More LAX
+
+665
+00:29:27,221 --> 00:29:29,657
+about it. Can we be more than other than
+
+666
+00:29:29,657 --> 00:29:31,822
+dev, right. Can we are there are there
+
+667
+00:29:31,822 --> 00:29:33,446
+whether this whether what's the standards
+
+668
+00:29:33,446 --> 00:29:35,612
+around that and how should we how should
+
+669
+00:29:35,612 --> 00:29:37,507
+we design that? Because there's lots of
+
+670
+00:29:37,507 --> 00:29:39,672
+options for that. But that's not the only
+
+671
+00:29:39,672 --> 00:29:41,296
+situation where there's a decision around
+
+672
+00:29:41,296 --> 00:29:43,191
+that. No, I don't. That's just one
+
+673
+00:29:43,191 --> 00:29:45,086
+example, right. One one of many examples.
+
+674
+00:29:45,086 --> 00:29:46,439
+Yeah, just like anything else.
+
+675
+00:29:47,959 --> 00:29:49,799
+Just like anything else for self-service,
+
+676
+00:29:49,799 --> 00:29:51,946
+if they can't meet the requirements for
+
+677
+00:29:51,946 --> 00:29:54,706
+self, we're trying to hit a 9010 or an
+
+678
+00:29:54,706 --> 00:29:57,159
+8020 rule here, right? If they can't meet
+
+679
+00:29:57,159 --> 00:29:59,613
+the 80% right, then they go through the
+
+680
+00:29:59,613 --> 00:30:01,453
+intake process, right, and they're not
+
+681
+00:30:01,453 --> 00:30:03,599
+eligible. Yeah, yeah. This thing that we
+
+682
+00:30:03,599 --> 00:30:06,053
+have to understand too is what we've run
+
+683
+00:30:06,053 --> 00:30:08,043
+into in the past. That self-service
+
+684
+00:30:08,043 --> 00:30:10,778
+usually ends up in a lot of crap
+
+685
+00:30:10,778 --> 00:30:12,829
+somewhere that somebody's going have to
+
+686
+00:30:12,829 --> 00:30:14,538
+weed through eventually they get
+
+687
+00:30:14,538 --> 00:30:16,589
+self-service means try, try, try again.
+
+688
+00:30:18,669 --> 00:30:20,692
+Yeah. Seeing the benefit, one of the
+
+689
+00:30:20,692 --> 00:30:22,426
+reasons why we wanted the benefit
+
+690
+00:30:22,426 --> 00:30:24,159
+pipeline, Jane, is that it's it's.
+
+691
+00:30:25,849 --> 00:30:28,791
+When they try, try, try again, it
+
+692
+00:30:28,791 --> 00:30:31,312
+destroys and redeploys, right? Yeah, it
+
+693
+00:30:31,312 --> 00:30:34,254
+puts the ownership on them to to
+
+694
+00:30:34,254 --> 00:30:37,195
+do that destroy and redeploy, right? And
+
+695
+00:30:37,195 --> 00:30:40,137
+so, yeah, we, we can talk about
+
+696
+00:30:40,137 --> 00:30:42,658
+that more, but there's, there's, there's
+
+697
+00:30:42,658 --> 00:30:45,179
+better options than, for example, us.
+
+698
+00:30:46,369 --> 00:30:49,172
+Having to go out and start
+
+699
+00:30:49,172 --> 00:30:51,974
+to clean up ourselves, right, Yeah.
+
+700
+00:30:51,974 --> 00:30:54,309
+Good. That's comforting, though, OK.
+
+701
+00:30:59,039 --> 00:31:01,873
+Good discussion. To
+
+702
+00:31:01,873 --> 00:31:03,996
+assign this to you like who's developed
+
+703
+00:31:03,996 --> 00:31:05,513
+developing those rules or those
+
+704
+00:31:05,513 --> 00:31:07,637
+standards. Well, that was, but that was
+
+705
+00:31:07,637 --> 00:31:10,064
+part of, and I guess we didn't, we
+
+706
+00:31:10,064 --> 00:31:12,188
+weren't super explicit about it, but that
+
+707
+00:31:12,188 --> 00:31:14,918
+was part of what the I think that what
+
+708
+00:31:14,918 --> 00:31:17,345
+we were talking about with Wayne is like
+
+709
+00:31:17,345 --> 00:31:19,166
+what are the operative standards around
+
+710
+00:31:19,166 --> 00:31:21,289
+many of the operations in this process.
+
+711
+00:31:21,579 --> 00:31:23,176
+Around the average deployment process
+
+712
+00:31:23,176 --> 00:31:25,412
+which includes both stuff that might be
+
+713
+00:31:25,412 --> 00:31:27,328
+applicable to self-serve and it's just
+
+714
+00:31:27,328 --> 00:31:29,563
+applicable to hey, we're doing this in
+
+715
+00:31:29,563 --> 00:31:31,799
+EDP, right. We're doing this even the
+
+716
+00:31:31,799 --> 00:31:33,715
+delivery teams are doing this deployment
+
+717
+00:31:33,715 --> 00:31:35,951
+at ADP, which is a different tool,
+
+718
+00:31:35,951 --> 00:31:37,867
+completely different tool set than what
+
+719
+00:31:37,867 --> 00:31:40,102
+they currently use. And are there any
+
+720
+00:31:40,102 --> 00:31:42,479
+processes that are kind of. Reactive to
+
+721
+00:31:42,479 --> 00:31:44,929
+helping fed does things or picked the
+
+722
+00:31:44,929 --> 00:31:47,029
+deployment process that we need to
+
+723
+00:31:47,029 --> 00:31:49,129
+confirm whether we're going to persist
+
+724
+00:31:49,129 --> 00:31:51,579
+like kind of that that release schedule
+
+725
+00:31:51,579 --> 00:31:53,679
+being done with distinct release people
+
+726
+00:31:53,679 --> 00:31:56,129
+versus our team. Like is that distinction
+
+727
+00:31:56,129 --> 00:31:58,579
+actually is there a standard that drove
+
+728
+00:31:58,579 --> 00:32:01,379
+that distinction or or and if there is
+
+729
+00:32:01,379 --> 00:32:04,081
+a standard?That distinction is that kind
+
+730
+00:32:04,081 --> 00:32:06,787
+of handled by the way the EDP structures
+
+731
+00:32:06,787 --> 00:32:09,493
+things that we don't need to do the
+
+732
+00:32:09,493 --> 00:32:12,199
+same kind of thing where the where the
+
+733
+00:32:12,199 --> 00:32:14,905
+where the we follow the same kind of
+
+734
+00:32:14,905 --> 00:32:17,273
+release pattern that thinks it does. I
+
+735
+00:32:17,273 --> 00:32:19,641
+think those are the standard. Those are
+
+736
+00:32:19,641 --> 00:32:21,671
+the questions that are governed by
+
+737
+00:32:21,671 --> 00:32:23,347
+should. Hopefully have links to
+
+738
+00:32:23,347 --> 00:32:25,070
+underlying reasons that they were done
+
+739
+00:32:25,070 --> 00:32:27,079
+and that we can use to reevaluate.
+
+740
+00:32:28,549 --> 00:32:30,348
+Whether the how the new process is
+
+741
+00:32:30,348 --> 00:32:31,119
+aligned to them?
+
+742
+00:32:34,259 --> 00:32:36,045
+Hopefully that makes sense. And that's a
+
+743
+00:32:36,045 --> 00:32:38,341
+very big bucket of work. And they give me
+
+744
+00:32:38,341 --> 00:32:40,382
+all the standards that make you do what
+
+745
+00:32:40,382 --> 00:32:42,678
+you do today because we don't know if we
+
+746
+00:32:42,678 --> 00:32:44,974
+have to do that. That would be heard on
+
+747
+00:32:44,974 --> 00:32:46,249
+our part too, but just.
+
+748
+00:32:48,139 --> 00:32:50,886
+We can just look at it as far as our
+
+749
+00:32:50,886 --> 00:32:52,809
+deployment process is great and we can
+
+750
+00:32:52,809 --> 00:32:55,006
+start there and say, OK, here's how the
+
+751
+00:32:55,006 --> 00:32:56,655
+deployment process works, Here's why we
+
+752
+00:32:56,655 --> 00:32:59,127
+have to do it this way. And then that
+
+753
+00:32:59,127 --> 00:33:00,500
+should hopefully inform the target
+
+754
+00:33:00,500 --> 00:33:02,972
+process as to what, how, what we have to
+
+755
+00:33:02,972 --> 00:33:05,719
+handle on it. And we can do that for me.
+
+756
+00:33:07,719 --> 00:33:10,597
+KFJC wait on my call anymore? Is
+
+757
+00:33:10,597 --> 00:33:13,474
+this going to be assigned to await?
+
+758
+00:33:13,474 --> 00:33:15,529
+Yeah, since he left, absolutely.
+
+759
+00:33:18,329 --> 00:33:19,879
+OK, that's good for leaving.
+
+760
+00:33:21,859 --> 00:33:24,730
+Just going to learn well I I would say it
+
+761
+00:33:24,730 --> 00:33:26,739
+already was assigned to wait it just.
+
+762
+00:33:28,779 --> 00:33:30,764
+Yeah, you missed a lot of that
+
+763
+00:33:30,764 --> 00:33:33,033
+discussion. At least he has the answer to
+
+764
+00:33:33,033 --> 00:33:35,586
+the first part, which is that who we have
+
+765
+00:33:35,586 --> 00:33:35,869
+this?
+
+766
+00:33:38,389 --> 00:33:40,390
+So thought that was speculation, right?
+
+767
+00:33:40,390 --> 00:33:42,724
+No. Was that not speculation? That seemed
+
+768
+00:33:42,724 --> 00:33:45,059
+like we were speculating that that might
+
+769
+00:33:45,059 --> 00:33:47,739
+be the requirements. Yes,
+
+770
+00:33:47,739 --> 00:33:48,419
+there's actually.
+
+771
+00:33:54,389 --> 00:33:55,589
+OK, sounds good.
+
+772
+00:33:57,239 --> 00:33:59,719
+Alright, get discussion. This
+
+773
+00:33:59,719 --> 00:34:01,579
+one's on hold.
+
+774
+00:34:03,269 --> 00:34:06,142
+OK. So let's move on
+
+775
+00:34:06,142 --> 00:34:09,014
+to the enterprise rollout, um,
+
+776
+00:34:09,014 --> 00:34:11,887
+token exchange tomorrow. I think
+
+777
+00:34:11,887 --> 00:34:14,759
+we're still waiting on VOD.
+
+778
+00:34:16,299 --> 00:34:18,856
+Yeah, it's the same. It's the same still
+
+779
+00:34:18,856 --> 00:34:20,774
+applies. They're looking at July, August
+
+780
+00:34:20,774 --> 00:34:23,011
+time frame. The meeting that was supposed
+
+781
+00:34:23,011 --> 00:34:24,929
+to happen hasn't been scheduled yet.
+
+782
+00:34:26,669 --> 00:34:28,864
+But I suspect there's, there's not a
+
+783
+00:34:28,864 --> 00:34:31,059
+whole lot to discuss, right. I mean,
+
+784
+00:34:31,059 --> 00:34:33,567
+there are already a customer of Pink that
+
+785
+00:34:33,567 --> 00:34:36,389
+so it's just need to be shifted over to
+
+786
+00:34:36,389 --> 00:34:38,583
+ENTRA and most of that token exchanges
+
+787
+00:34:38,583 --> 00:34:40,778
+needs to be done from the application
+
+788
+00:34:40,778 --> 00:34:42,659
+team side. So I don't know.
+
+789
+00:34:43,969 --> 00:34:46,353
+What needs to be discussed with the
+
+790
+00:34:46,353 --> 00:34:49,078
+vendor? But can we, can we nudge them
+
+791
+00:34:49,078 --> 00:34:52,019
+again tomorrow?Yeah, I'll,
+
+792
+00:34:52,019 --> 00:34:54,169
+I'll ping the tail, OK.
+
+793
+00:34:57,669 --> 00:35:00,660
+And then in terms of APIM, you
+
+794
+00:35:00,660 --> 00:35:03,223
+guys met and basically still no
+
+795
+00:35:03,223 --> 00:35:05,359
+candidates on that side, right?
+
+796
+00:35:07,909 --> 00:35:10,197
+Yeah, yeah. Socially, they weren't too
+
+797
+00:35:10,197 --> 00:35:12,865
+sure of what the requirements were for
+
+798
+00:35:12,865 --> 00:35:15,534
+token exchange. They introduced us to one
+
+799
+00:35:15,534 --> 00:35:17,059
+of the tales of.
+
+800
+00:35:18,669 --> 00:35:21,583
+I guess one of the Isengard apps that are
+
+801
+00:35:21,583 --> 00:35:23,525
+now using Entra for authentication. Ohh
+
+802
+00:35:23,525 --> 00:35:25,791
+alright, that's it. They they told us
+
+803
+00:35:25,791 --> 00:35:28,380
+that they have a fully fledged test API
+
+804
+00:35:28,380 --> 00:35:30,646
+and a client application in all three
+
+805
+00:35:30,646 --> 00:35:32,912
+environments and they would be able to
+
+806
+00:35:32,912 --> 00:35:35,502
+test this. Why are they redirecting us to
+
+807
+00:35:35,502 --> 00:35:38,092
+line of business people? That is not what
+
+808
+00:35:38,092 --> 00:35:40,877
+we discussed. And and it
+
+809
+00:35:40,877 --> 00:35:43,451
+isn't guard stuff isn't isn't guard
+
+810
+00:35:43,451 --> 00:35:46,026
+doesn't do I don't understand why
+
+811
+00:35:46,026 --> 00:35:48,172
+that's even applicable. Would be
+
+812
+00:35:48,172 --> 00:35:50,747
+appreciated like across we crossed some
+
+813
+00:35:50,747 --> 00:35:53,322
+wires here that we need to
+
+814
+00:35:53,322 --> 00:35:55,897
+unwind. Yeah, because I remember talking
+
+815
+00:35:55,897 --> 00:35:58,472
+to Marie about this MAHRI that
+
+816
+00:35:58,472 --> 00:36:01,360
+individual from AIM. Yeah, yeah, yeah.
+
+817
+00:36:01,360 --> 00:36:03,023
+She originally stated that or thought
+
+818
+00:36:03,023 --> 00:36:05,240
+that it might, there might be a candidate
+
+819
+00:36:05,240 --> 00:36:08,011
+on their side. But when we dug into it a
+
+820
+00:36:08,011 --> 00:36:10,228
+little bit more, she kind of has more
+
+821
+00:36:10,228 --> 00:36:12,168
+said, kind of backpedaled on that. I
+
+822
+00:36:12,168 --> 00:36:14,108
+don't think she's the right person to
+
+823
+00:36:14,108 --> 00:36:16,602
+talk to. We should be talking to Paul and
+
+824
+00:36:16,602 --> 00:36:19,336
+Christian. Photoshoot and find out
+
+825
+00:36:19,336 --> 00:36:21,630
+if he's got any energy, knows of any
+
+826
+00:36:21,630 --> 00:36:23,638
+candidates for this. We have another call
+
+827
+00:36:23,638 --> 00:36:25,645
+with them. Actually, I think I have
+
+828
+00:36:25,645 --> 00:36:27,652
+another call with them later today. I
+
+829
+00:36:27,652 --> 00:36:29,946
+think we we do Jade and actually, yeah,
+
+830
+00:36:29,946 --> 00:36:32,527
+at 3:00. I'm going to hammer them on this
+
+831
+00:36:32,527 --> 00:36:34,821
+at 3:00. Yeah, I didn't let them know
+
+832
+00:36:34,821 --> 00:36:36,542
+they have a separate request there.
+
+833
+00:36:36,542 --> 00:36:38,262
+They're obviously standing up their API
+
+834
+00:36:38,262 --> 00:36:40,359
+validation. Functionality for NYPD, so
+
+835
+00:36:40,359 --> 00:36:42,953
+we're kind of giving them a
+
+836
+00:36:42,953 --> 00:36:45,547
+POC around that, but that actually,
+
+837
+00:36:45,547 --> 00:36:47,709
+Jeremy, this is another thing.
+
+838
+00:36:49,019 --> 00:36:51,738
+Well, no, if we ever expose it,
+
+839
+00:36:51,738 --> 00:36:54,069
+I guess exposing API's through a
+
+840
+00:36:54,069 --> 00:36:55,623
+self-service functionality and then
+
+841
+00:36:55,623 --> 00:36:58,342
+adding, making sure that there's a way
+
+842
+00:36:58,342 --> 00:37:01,061
+for them to opt in to APIM,
+
+843
+00:37:01,061 --> 00:37:03,255
+APIM. Automatic validation tool
+
+844
+00:37:03,255 --> 00:37:05,440
+connectivity into that it's kind of its
+
+845
+00:37:05,440 --> 00:37:07,625
+own separate thing. So maybe we're we're
+
+846
+00:37:07,625 --> 00:37:09,497
+not we're not allowing API onboarding
+
+847
+00:37:09,497 --> 00:37:11,370
+through self-service at the moment We
+
+848
+00:37:11,370 --> 00:37:13,555
+that's maybe maybe some future thing down
+
+849
+00:37:13,555 --> 00:37:16,051
+the road and I haven't wrapped my head
+
+850
+00:37:16,051 --> 00:37:18,548
+around how we do that yet, but we're
+
+851
+00:37:18,548 --> 00:37:21,045
+we're we're light years from that at this
+
+852
+00:37:21,045 --> 00:37:23,951
+point but. Actually, even if we do it the
+
+853
+00:37:23,951 --> 00:37:25,829
+the separate conversation with 18, sorry,
+
+854
+00:37:25,829 --> 00:37:28,334
+it's not really related. And I, yeah, but
+
+855
+00:37:28,334 --> 00:37:30,839
+I want to be careful. While I understand
+
+856
+00:37:30,839 --> 00:37:32,405
+that there are some interdependencies
+
+857
+00:37:32,405 --> 00:37:34,909
+between what Adam is doing and what we're
+
+858
+00:37:34,909 --> 00:37:37,727
+doing, I want to be very careful not to
+
+859
+00:37:37,727 --> 00:37:39,919
+derail what we're doing because of Adam.
+
+860
+00:37:41,309 --> 00:37:43,949
+But I did, I did. They didn't seem to be
+
+861
+00:37:43,949 --> 00:37:45,268
+interested in validating token exchange
+
+862
+00:37:45,268 --> 00:37:47,116
+themselves. So I did provision them for
+
+863
+00:37:47,116 --> 00:37:49,491
+access to one of the APIs or they you
+
+864
+00:37:49,491 --> 00:37:51,867
+seem to be able to encourage them to be
+
+865
+00:37:51,867 --> 00:37:53,979
+interested in. But I haven't set them up
+
+866
+00:37:53,979 --> 00:37:55,826
+with anything because I just needed, I
+
+867
+00:37:55,826 --> 00:37:57,674
+wanted to confirm on the call today
+
+868
+00:37:57,674 --> 00:37:58,994
+whether that's something that they're
+
+869
+00:37:58,994 --> 00:38:01,105
+that they themselves will test them and I
+
+870
+00:38:01,105 --> 00:38:02,897
+could. I'd like to something easily
+
+871
+00:38:02,897 --> 00:38:04,854
+that'll let them leverage it if they
+
+872
+00:38:04,854 --> 00:38:06,811
+fully understand the flow and are going
+
+873
+00:38:06,811 --> 00:38:08,209
+to actually run through it.
+
+874
+00:38:11,179 --> 00:38:12,929
+But but that's obviously not a client
+
+875
+00:38:12,929 --> 00:38:14,679
+application. But it might be better than
+
+876
+00:38:14,679 --> 00:38:16,959
+nothing. Ignore.
+
+877
+00:38:19,999 --> 00:38:21,469
+I totally agree.
+
+878
+00:38:22,819 --> 00:38:24,049
+Hear from Shishu too.
+
+879
+00:38:27,559 --> 00:38:30,208
+Jerry, could you drop that name in the
+
+880
+00:38:30,208 --> 00:38:30,539
+chat?
+
+881
+00:38:32,429 --> 00:38:34,808
+SHISHU space PAL.
+
+882
+00:38:34,808 --> 00:38:37,186
+That's the first
+
+883
+00:38:37,186 --> 00:38:39,939
+name. Last
+
+884
+00:38:39,939 --> 00:38:42,529
+name. They have a different last name.
+
+885
+00:38:42,529 --> 00:38:44,379
+That's what I yeah, Kumar.
+
+886
+00:38:45,549 --> 00:38:46,619
+She can go to the market.
+
+887
+00:38:49,379 --> 00:38:50,149
+OK.
+
+888
+00:38:53,649 --> 00:38:56,002
+Yeah, I don't think that's huge. I'm
+
+889
+00:38:56,002 --> 00:38:57,682
+always worried about misspelling people's
+
+890
+00:38:57,682 --> 00:38:59,699
+names, like that's why I ask.
+
+891
+00:39:03,659 --> 00:39:04,049
+Right.
+
+892
+00:39:06,159 --> 00:39:08,579
+Got it. She should
+
+893
+00:39:08,579 --> 00:39:09,789
+help Kumar.
+
+894
+00:39:13,419 --> 00:39:14,229
+Perfect.
+
+895
+00:39:21,729 --> 00:39:24,446
+OK, OK. Sounds good. Anything
+
+896
+00:39:24,446 --> 00:39:26,619
+else for token exchange?
+
+897
+00:39:29,389 --> 00:39:31,517
+We're working with that now. So it might
+
+898
+00:39:31,517 --> 00:39:33,379
+take 100% to you. The other question
+
+899
+00:39:33,379 --> 00:39:34,975
+you're being asked that would be
+
+900
+00:39:34,975 --> 00:39:36,039
+calculated. We're good, OK.
+
+901
+00:39:38,829 --> 00:39:41,272
+Jeremy, that was custom, custom claims
+
+902
+00:39:41,272 --> 00:39:43,714
+provider. You introduced us to your
+
+903
+00:39:43,714 --> 00:39:46,564
+developer a couple weeks ago, I think.
+
+904
+00:39:46,564 --> 00:39:49,414
+Yeah. How's that going? It's going well,
+
+905
+00:39:49,414 --> 00:39:52,264
+actually I just was on with them
+
+906
+00:39:52,264 --> 00:39:55,113
+for an hour at 11. We're just
+
+907
+00:39:55,113 --> 00:39:57,990
+finishing up. There was some. Houses with
+
+908
+00:39:57,990 --> 00:39:59,917
+deploying the infrastructure, but we're
+
+909
+00:39:59,917 --> 00:40:02,614
+just finishing up that now. Ash is
+
+910
+00:40:02,614 --> 00:40:05,312
+already working on some of the early
+
+911
+00:40:05,312 --> 00:40:08,010
+development for this as well. So far
+
+912
+00:40:08,010 --> 00:40:10,322
+we've got most of the components
+
+913
+00:40:10,322 --> 00:40:12,634
+deployed. I think the actual function
+
+914
+00:40:12,634 --> 00:40:14,947
+itself like the the infrastructure for
+
+915
+00:40:14,947 --> 00:40:17,259
+the function will be deployed either.
+
+916
+00:40:17,349 --> 00:40:19,206
+Later today or tomorrow and then we have
+
+917
+00:40:19,206 --> 00:40:20,831
+another working session on Monday to get
+
+918
+00:40:20,831 --> 00:40:22,688
+into some of the details and also pretty
+
+919
+00:40:22,688 --> 00:40:25,662
+staged some of the data. I
+
+920
+00:40:25,662 --> 00:40:28,137
+actually think some of that will be
+
+921
+00:40:28,137 --> 00:40:30,964
+based, some of that data staging will be
+
+922
+00:40:30,964 --> 00:40:33,792
+based on the session we have tomorrow at
+
+923
+00:40:33,792 --> 00:40:36,620
+10:30 where we decide on what some of
+
+924
+00:40:36,620 --> 00:40:39,094
+those attributes are, which is going to
+
+925
+00:40:39,094 --> 00:40:41,921
+help me define what data needs to be
+
+926
+00:40:41,921 --> 00:40:43,689
+staged. That's the meeting tomorrow,
+
+927
+00:40:43,689 --> 00:40:46,566
+right? Yep. OK. So I, I
+
+928
+00:40:46,566 --> 00:40:49,334
+think we're, we're on track, Um. The
+
+929
+00:40:49,334 --> 00:40:52,029
+the the work is progressing. I've got
+
+930
+00:40:52,029 --> 00:40:54,724
+2 folks actively working on this right
+
+931
+00:40:54,724 --> 00:40:57,485
+now. And umm, yeah,
+
+932
+00:40:57,485 --> 00:41:00,016
+Archie, technically a little bit. The
+
+933
+00:41:00,016 --> 00:41:02,969
+lady said this would be done like
+
+934
+00:41:02,969 --> 00:41:05,922
+not last Monday, but the Monday before.
+
+935
+00:41:05,922 --> 00:41:08,875
+What would be done? The deployment, the
+
+936
+00:41:08,875 --> 00:41:10,563
+SQL DB staging, infrastructure
+
+937
+00:41:10,563 --> 00:41:12,672
+deployments. Yeah, the inventory is
+
+938
+00:41:12,672 --> 00:41:15,625
+deployed for the SQL database. I don't
+
+939
+00:41:15,625 --> 00:41:18,137
+have the. At this stage, because we
+
+940
+00:41:18,137 --> 00:41:20,695
+haven't decided on the data yet, which is
+
+941
+00:41:20,695 --> 00:41:22,933
+one of the conversations for tomorrow, I
+
+942
+00:41:22,933 --> 00:41:24,851
+thought that we'd have the function
+
+943
+00:41:24,851 --> 00:41:27,088
+deployed before now, but there are some
+
+944
+00:41:27,088 --> 00:41:28,687
+challenges with deploying the function
+
+945
+00:41:28,687 --> 00:41:30,924
+and needed some other things that weren't
+
+946
+00:41:30,924 --> 00:41:33,162
+super clear. And we had some some
+
+947
+00:41:33,162 --> 00:41:34,441
+struggles with deploying the
+
+948
+00:41:34,441 --> 00:41:36,359
+infrastructure, but it's it's it'll be.
+
+949
+00:41:36,549 --> 00:41:38,414
+Will be done tomorrow. Yes, that is a
+
+950
+00:41:38,414 --> 00:41:40,279
+little bit delayed, but do I think that
+
+951
+00:41:40,279 --> 00:41:42,144
+it impacts the overall timeline as far as
+
+952
+00:41:42,144 --> 00:41:44,009
+the work that we're doing in Q3 now?
+
+953
+00:41:45,629 --> 00:41:47,987
+Still expecting completion
+
+954
+00:41:47,987 --> 00:41:49,559
+by tomorrow.
+
+955
+00:41:51,319 --> 00:41:53,176
+For infrastructure deployment yet, not
+
+956
+00:41:53,176 --> 00:41:55,776
+for like full development of the app
+
+957
+00:41:55,776 --> 00:41:56,519
+itself, yeah.
+
+958
+00:41:59,869 --> 00:42:02,486
+OK, um, and this hasn't
+
+959
+00:42:02,486 --> 00:42:05,102
+started yet, right? Local testing
+
+960
+00:42:05,102 --> 00:42:06,149
+with API?
+
+961
+00:42:08,059 --> 00:42:11,016
+Um, no, it has not. Well, Ash has been
+
+962
+00:42:11,016 --> 00:42:12,988
+working on pulling some stuff together,
+
+963
+00:42:12,988 --> 00:42:15,288
+but obviously needs some data for me,
+
+964
+00:42:15,288 --> 00:42:17,588
+like what attributes are we hooking into
+
+965
+00:42:17,588 --> 00:42:19,888
+and stuff? So they have some stuff
+
+966
+00:42:19,888 --> 00:42:22,517
+shelled out. So I guess I shouldn't say
+
+967
+00:42:22,517 --> 00:42:25,146
+that it hasn't started at all, but it's,
+
+968
+00:42:25,146 --> 00:42:28,029
+it hasn't proceeded very far. OK.
+
+969
+00:42:30,519 --> 00:42:33,482
+Just say it has begun, that's
+
+970
+00:42:33,482 --> 00:42:36,445
+fine. And then the network integration
+
+971
+00:42:36,445 --> 00:42:39,408
+approvals, I haven't gone back down
+
+972
+00:42:39,408 --> 00:42:40,889
+that road yet.
+
+973
+00:42:45,849 --> 00:42:47,739
+Sorry to ask, any ETA?
+
+974
+00:42:49,299 --> 00:42:49,999
+Um.
+
+975
+00:42:58,899 --> 00:43:01,061
+Not necessarily. There's too many things
+
+976
+00:43:01,061 --> 00:43:03,945
+that are on my plate nature. I understand
+
+977
+00:43:03,945 --> 00:43:06,828
+a lot of other moving parts on this
+
+978
+00:43:06,828 --> 00:43:07,549
+program, so.
+
+979
+00:43:09,919 --> 00:43:12,787
+I'd like to remember is 1 punted that
+
+980
+00:43:12,787 --> 00:43:15,655
+Jeremy and wanted to discuss with. It was
+
+981
+00:43:15,655 --> 00:43:17,089
+a Tony wasn't it?
+
+982
+00:43:18,529 --> 00:43:20,385
+Uh, yeah. And I've talked to Tony about
+
+983
+00:43:20,385 --> 00:43:22,704
+this. Uh, I have to get back with Tony. I
+
+984
+00:43:22,704 --> 00:43:24,560
+just, I just have it in cycles and
+
+985
+00:43:24,560 --> 00:43:25,951
+there's other stuff that's more pressing
+
+986
+00:43:25,951 --> 00:43:28,895
+at the moment, so. Um, so I
+
+987
+00:43:28,895 --> 00:43:31,179
+haven't got back to this yet. I was
+
+988
+00:43:31,179 --> 00:43:33,462
+waiting until I was giving it a couple
+
+989
+00:43:33,462 --> 00:43:34,889
+more weeks until we get.
+
+990
+00:43:36,329 --> 00:43:39,030
+Something out there in the Ng lab so
+
+991
+00:43:39,030 --> 00:43:41,731
+I can show him. Usually that helps the
+
+992
+00:43:41,731 --> 00:43:42,069
+conversation.
+
+993
+00:43:44,799 --> 00:43:47,304
+OK. Yeah, nothing to show on that kind of
+
+994
+00:43:47,304 --> 00:43:49,252
+makes it a moot point since the
+
+995
+00:43:49,252 --> 00:43:51,955
+discussion that. And
+
+996
+00:43:51,955 --> 00:43:54,519
+then the glossary is that been started?
+
+997
+00:43:55,849 --> 00:43:58,733
+Yeah, I've been clicking the data points
+
+998
+00:43:58,733 --> 00:44:01,249
+that glossary is. Um.
+
+999
+00:44:03,579 --> 00:44:06,431
+I have that in a subtask in my story,
+
+1000
+00:44:06,431 --> 00:44:08,965
+Andrew and I, I think I started to
+
+1001
+00:44:08,965 --> 00:44:10,867
+actually feed some, some information into
+
+1002
+00:44:10,867 --> 00:44:13,401
+there. But I if I haven't updated the
+
+1003
+00:44:13,401 --> 00:44:15,936
+story, I'll go and update it. But but
+
+1004
+00:44:15,936 --> 00:44:18,471
+yes, I've been pulling in some of the
+
+1005
+00:44:18,471 --> 00:44:20,689
+data. I haven't talked to Paul yet.
+
+1006
+00:44:22,189 --> 00:44:24,648
+And I Paul, we do need to chat about
+
+1007
+00:44:24,648 --> 00:44:26,833
+this. I just obviously last week was a
+
+1008
+00:44:26,833 --> 00:44:29,565
+bit of a wash because of the on sites in
+
+1009
+00:44:29,565 --> 00:44:32,023
+Toronto and then I was sick for a couple
+
+1010
+00:44:32,023 --> 00:44:34,209
+of days the beginning of this week, but.
+
+1011
+00:44:36,219 --> 00:44:38,525
+I've got a bunch of the data together.
+
+1012
+00:44:38,525 --> 00:44:40,832
+Some of that will come out in the
+
+1013
+00:44:40,832 --> 00:44:42,273
+conversation tomorrow, Andrew, that we
+
+1014
+00:44:42,273 --> 00:44:44,580
+have. Actually that's kind of the crux of
+
+1015
+00:44:44,580 --> 00:44:46,309
+the conversation tomorrow. But I've been
+
+1016
+00:44:46,309 --> 00:44:48,039
+collecting some information so we can
+
+1017
+00:44:48,039 --> 00:44:49,769
+talk in the conversation tomorrow, OK?
+
+1018
+00:44:53,349 --> 00:44:56,161
+OK, sounds good uh OK to
+
+1019
+00:44:56,161 --> 00:44:58,974
+move on to VI and the
+
+1020
+00:44:58,974 --> 00:45:01,786
+found VI Yep OK, so last
+
+1021
+00:45:01,786 --> 00:45:04,598
+update Jeremy, you guys are finished
+
+1022
+00:45:04,598 --> 00:45:07,410
+the use cases now you're basically
+
+1023
+00:45:07,410 --> 00:45:10,223
+filled up building out the test
+
+1024
+00:45:10,223 --> 00:45:11,629
+cases Yep so.
+
+1025
+00:45:12,949 --> 00:45:15,219
+I've made some progress with that. Um,
+
+1026
+00:45:15,219 --> 00:45:18,137
+I've done like 9 or so test cases and
+
+1027
+00:45:18,137 --> 00:45:20,082
+identified a few questions and stuff
+
+1028
+00:45:20,082 --> 00:45:22,352
+already. There's a bunch more that need
+
+1029
+00:45:22,352 --> 00:45:24,946
+to be created. I have a meeting scheduled
+
+1030
+00:45:24,946 --> 00:45:27,540
+with Manish on Monday and we'll work to
+
+1031
+00:45:27,540 --> 00:45:30,133
+get those finished and also try to answer
+
+1032
+00:45:30,133 --> 00:45:32,403
+some of the questions I see. Mike
+
+1033
+00:45:32,403 --> 00:45:34,038
+Flemings on the call. I've already given
+
+1034
+00:45:34,038 --> 00:45:36,140
+Mike a heads up that we're going to be
+
+1035
+00:45:36,140 --> 00:45:38,009
+coming with a couple of requests in Dev.
+
+1036
+00:45:39,919 --> 00:45:42,481
+Uh, one of the things that we'll have to
+
+1037
+00:45:42,481 --> 00:45:44,474
+sort out with Manish is what test
+
+1038
+00:45:44,474 --> 00:45:46,752
+accounts we want to use. And then we'll
+
+1039
+00:45:46,752 --> 00:45:49,029
+have to request some BDI's for those test
+
+1040
+00:45:49,029 --> 00:45:51,022
+accounts and make sure that they have
+
+1041
+00:45:51,022 --> 00:45:52,445
+Citrix storefront access against the
+
+1042
+00:45:52,445 --> 00:45:53,869
+various endpoints that we need.
+
+1043
+00:45:55,269 --> 00:45:57,790
+Once we finalize the test cases, Mike, I
+
+1044
+00:45:57,790 --> 00:46:00,627
+plan to meet back with you and just talk
+
+1045
+00:46:00,627 --> 00:46:02,518
+about what's actually possible in dev.
+
+1046
+00:46:02,518 --> 00:46:05,040
+I'm guessing that not all of the testing
+
+1047
+00:46:05,040 --> 00:46:07,562
+is possible in dev because we have like
+
+1048
+00:46:07,562 --> 00:46:10,083
+public facing stuff that I assume is not
+
+1049
+00:46:10,083 --> 00:46:12,918
+available in depth. So I
+
+1050
+00:46:12,918 --> 00:46:15,356
+have to talk about if the test is
+
+1051
+00:46:15,356 --> 00:46:17,489
+applicable, whether or not we could even
+
+1052
+00:46:17,489 --> 00:46:20,195
+do that. And whether
+
+1053
+00:46:20,195 --> 00:46:23,139
+or not we can even test in dev
+
+1054
+00:46:23,139 --> 00:46:26,084
+if we do need to do that, right?
+
+1055
+00:46:26,084 --> 00:46:29,028
+Yep. And then we'll have at least one,
+
+1056
+00:46:29,028 --> 00:46:31,604
+I think we'll there'll be a conversation,
+
+1057
+00:46:31,604 --> 00:46:34,548
+Mike, where we want to look at like
+
+1058
+00:46:34,548 --> 00:46:36,757
+what you have published against like
+
+1059
+00:46:36,757 --> 00:46:38,229
+you're deaf Citrix storefronts.
+
+1060
+00:46:39,469 --> 00:46:42,458
+And we might be able to select an
+
+1061
+00:46:42,458 --> 00:46:45,448
+app out of that that we could enforce
+
+1062
+00:46:45,448 --> 00:46:48,134
+for multifactor, um. And if not,
+
+1063
+00:46:48,134 --> 00:46:50,968
+we might ask you to publish like a web
+
+1064
+00:46:50,968 --> 00:46:53,802
+URL for an app that we have, even if
+
+1065
+00:46:53,802 --> 00:46:56,007
+it's something dumb like the Azure portal
+
+1066
+00:46:56,007 --> 00:46:58,526
+or something like that. So that way we
+
+1067
+00:46:58,526 --> 00:47:00,101
+can validate multifactor through that,
+
+1068
+00:47:00,101 --> 00:47:01,990
+right? Yeah. I mean, basically anything
+
+1069
+00:47:01,990 --> 00:47:03,880
+that's published in production, we can
+
+1070
+00:47:03,880 --> 00:47:06,399
+just get the packaging team to deploy to
+
+1071
+00:47:06,399 --> 00:47:09,204
+a dev. Server for you, so let's
+
+1072
+00:47:09,204 --> 00:47:10,849
+go back home, OK?
+
+1073
+00:47:13,969 --> 00:47:16,335
+All right. So we'll work through that and
+
+1074
+00:47:16,335 --> 00:47:18,109
+then we'll set something up with
+
+1075
+00:47:18,109 --> 00:47:19,883
+yourself, Mike or whoever you delegate
+
+1076
+00:47:19,883 --> 00:47:22,840
+and we can just get make sure we have the
+
+1077
+00:47:22,840 --> 00:47:24,910
+right infrastructure set up so that way
+
+1078
+00:47:24,910 --> 00:47:26,980
+we can execute some of those tests
+
+1079
+00:47:26,980 --> 00:47:28,755
+separately from that. I think that
+
+1080
+00:47:28,755 --> 00:47:30,233
+there's a more fundamental conversation.
+
+1081
+00:47:30,233 --> 00:47:32,303
+So Jonathan, if you're on, hopefully you
+
+1082
+00:47:32,303 --> 00:47:32,599
+are.
+
+1083
+00:47:36,529 --> 00:47:38,488
+This is Jonathan. OK, Jonathan here.
+
+1084
+00:47:38,488 --> 00:47:41,427
+Sweet. OK, so my thoughts for this as I
+
+1085
+00:47:41,427 --> 00:47:44,039
+started to get into the test cases where
+
+1086
+00:47:44,039 --> 00:47:46,652
+let's just test what happens if we change
+
+1087
+00:47:46,652 --> 00:47:48,611
+nothing in the existing VDI environment
+
+1088
+00:47:48,611 --> 00:47:50,897
+and just start the MFA applications, what
+
+1089
+00:47:50,897 --> 00:47:53,509
+happens, right. And so I start to scope
+
+1090
+00:47:53,509 --> 00:47:56,148
+the test cases. From that and pretty
+
+1091
+00:47:56,148 --> 00:47:58,929
+quickly ran into some questions about um.
+
+1092
+00:47:59,299 --> 00:48:01,835
+For example, like what happens if someone
+
+1093
+00:48:01,835 --> 00:48:04,681
+has Windows Hello for business, um. Only
+
+1094
+00:48:04,681 --> 00:48:07,670
+and but does go to VDI and then needs
+
+1095
+00:48:07,670 --> 00:48:10,326
+a prompt. Will that work? Will it prompt
+
+1096
+00:48:10,326 --> 00:48:12,318
+them for Windows Phone for business
+
+1097
+00:48:12,318 --> 00:48:13,979
+through the BDI somehow, right?
+
+1098
+00:48:15,309 --> 00:48:17,527
+I assume no, right. And what happens if
+
+1099
+00:48:17,527 --> 00:48:19,468
+they have authenticator and which is low
+
+1100
+00:48:19,468 --> 00:48:21,686
+for business, which is just fall back to
+
+1101
+00:48:21,686 --> 00:48:23,072
+authenticator just when there's low
+
+1102
+00:48:23,072 --> 00:48:25,013
+actually isn't available on the DVD I
+
+1103
+00:48:25,013 --> 00:48:27,231
+would assume yes, right. And so those are
+
+1104
+00:48:27,231 --> 00:48:29,726
+kind of the things that we want to test.
+
+1105
+00:48:29,726 --> 00:48:32,222
+And what I also ran into very quickly was
+
+1106
+00:48:32,222 --> 00:48:34,163
+a lot of people are using secondary
+
+1107
+00:48:34,163 --> 00:48:36,934
+accounts to get into VI. That are not set
+
+1108
+00:48:36,934 --> 00:48:39,423
+up for multi factor, right. So can you
+
+1109
+00:48:39,423 --> 00:48:41,913
+actually set up multi factor from the BDI
+
+1110
+00:48:41,913 --> 00:48:43,780
+when prompted right or from Citrix
+
+1111
+00:48:43,780 --> 00:48:45,648
+Storefront more specifically is what I
+
+1112
+00:48:45,648 --> 00:48:47,826
+was thinking, right. Yeah. So I think
+
+1113
+00:48:47,826 --> 00:48:50,005
+that there are some different use cases
+
+1114
+00:48:50,005 --> 00:48:52,183
+for storefront versus like actual BD. I
+
+1115
+00:48:52,183 --> 00:48:54,362
+think VDI is a little bit more
+
+1116
+00:48:54,362 --> 00:48:56,229
+straightforward because you're on a VM.
+
+1117
+00:48:56,329 --> 00:48:59,032
+And the VM should be able to get to,
+
+1118
+00:48:59,032 --> 00:49:01,134
+um, Azure to register, except for the
+
+1119
+00:49:01,134 --> 00:49:03,536
+vendor VDI, which will not have access to
+
+1120
+00:49:03,536 --> 00:49:05,638
+the Internet, right? So we'll have to
+
+1121
+00:49:05,638 --> 00:49:07,740
+talk about that. And that actually these
+
+1122
+00:49:07,740 --> 00:49:09,842
+test cases are really good to iterate
+
+1123
+00:49:09,842 --> 00:49:11,944
+through because it reminds me of things
+
+1124
+00:49:11,944 --> 00:49:14,046
+like, hey, we're going to have to
+
+1125
+00:49:14,046 --> 00:49:16,149
+actually make sure that all of our
+
+1126
+00:49:16,149 --> 00:49:18,728
+vendor. The eyes are open to our security
+
+1127
+00:49:18,728 --> 00:49:19,984
+registration portal because otherwise
+
+1128
+00:49:19,984 --> 00:49:21,869
+they can't even register for multifactor.
+
+1129
+00:49:24,569 --> 00:49:27,222
+Yeah. I mean, we're, we're gonna
+
+1130
+00:49:27,222 --> 00:49:29,875
+quickly get into the you need
+
+1131
+00:49:29,875 --> 00:49:32,529
+MFA to register for MFA. Yeah.
+
+1132
+00:49:34,169 --> 00:49:36,920
+Yeah. So we need to look at that. So I, I
+
+1133
+00:49:36,920 --> 00:49:38,921
+kind of wanted to go through the test
+
+1134
+00:49:38,921 --> 00:49:41,422
+cases that I came up with with you. I can
+
+1135
+00:49:41,422 --> 00:49:42,923
+invite you to that Monday afternoon
+
+1136
+00:49:42,923 --> 00:49:45,174
+meeting if you want, with me. So we can
+
+1137
+00:49:45,174 --> 00:49:47,175
+kind of dive into that a little bit.
+
+1138
+00:49:47,175 --> 00:49:48,926
+Yeah, I'm doing a graduation on Monday,
+
+1139
+00:49:48,926 --> 00:49:51,177
+so I'm off. I'm off. Never mind. OK, so
+
+1140
+00:49:51,177 --> 00:49:52,678
+Monday won't work, but we'll, we'll,
+
+1141
+00:49:52,678 --> 00:49:54,790
+we'll reconnect up to that. Because we're
+
+1142
+00:49:54,790 --> 00:49:57,555
+going to talk about like how this impacts
+
+1143
+00:49:57,555 --> 00:49:59,629
+from a design perspective, right? Like
+
+1144
+00:49:59,629 --> 00:50:02,049
+there's things that we're going to have
+
+1145
+00:50:02,049 --> 00:50:04,814
+to account for on this. But but what
+
+1146
+00:50:04,814 --> 00:50:07,234
+I wanted to do, there's another, there
+
+1147
+00:50:07,234 --> 00:50:09,999
+are other options that we can start to
+
+1148
+00:50:09,999 --> 00:50:12,419
+dig into, right? Like Citrix does support
+
+1149
+00:50:12,419 --> 00:50:14,493
+entry integration from a Citrix Workspace
+
+1150
+00:50:14,493 --> 00:50:16,794
+perspective. And so one of the, the
+
+1151
+00:50:16,794 --> 00:50:18,784
+conversations will be like if there's a
+
+1152
+00:50:18,784 --> 00:50:21,058
+bunch of failures in these test cases, do
+
+1153
+00:50:21,058 --> 00:50:23,331
+we test the entry integration in dev and
+
+1154
+00:50:23,331 --> 00:50:25,321
+then look at what passes through there,
+
+1155
+00:50:25,321 --> 00:50:27,595
+right? Like can we pass MFA through that
+
+1156
+00:50:27,595 --> 00:50:29,016
+because of the interactive integration?
+
+1157
+00:50:29,016 --> 00:50:31,005
+Does that help our test cases, etcetera?
+
+1158
+00:50:31,005 --> 00:50:33,279
+And do we need to make a VDI
+
+1159
+00:50:33,279 --> 00:50:34,985
+infrastructure change in order to support
+
+1160
+00:50:34,985 --> 00:50:36,579
+MFA?With the underlying applications,
+
+1161
+00:50:36,579 --> 00:50:39,369
+yeah, I think it's going to be it's going
+
+1162
+00:50:39,369 --> 00:50:42,159
+to be all of the boundaries that give us
+
+1163
+00:50:42,159 --> 00:50:44,019
+the trouble, right. So integrating with
+
+1164
+00:50:44,019 --> 00:50:45,879
+intro will absolutely smooth these out,
+
+1165
+00:50:45,879 --> 00:50:48,359
+right. The boundary goes away yeah. So my
+
+1166
+00:50:48,359 --> 00:50:50,839
+my thought on this is that we test
+
+1167
+00:50:50,839 --> 00:50:52,389
+against the existing environment first
+
+1168
+00:50:52,389 --> 00:50:54,869
+with our use cases agree on what what
+
+1169
+00:50:54,869 --> 00:50:57,801
+we're. What what we're going to see
+
+1170
+00:50:57,801 --> 00:51:00,253
+from a test case perspective and prove
+
+1171
+00:51:00,253 --> 00:51:03,056
+that those things are going to break and
+
+1172
+00:51:03,056 --> 00:51:05,859
+then look to do the entry integration and
+
+1173
+00:51:05,859 --> 00:51:08,312
+and see what that fixes. Yeah, that's
+
+1174
+00:51:08,312 --> 00:51:10,764
+that's the I thought that's what we
+
+1175
+00:51:10,764 --> 00:51:13,567
+discussed. I mean, we do the test cases,
+
+1176
+00:51:13,567 --> 00:51:16,283
+we see what fails or. However, we
+
+1177
+00:51:16,283 --> 00:51:18,518
+describe it expected behavior and see
+
+1178
+00:51:18,518 --> 00:51:21,124
+where the gaps are and what solutions
+
+1179
+00:51:21,124 --> 00:51:21,869
+could be.
+
+1180
+00:51:23,869 --> 00:51:26,006
+Yep. OK, so we're, we're detailing those
+
+1181
+00:51:26,006 --> 00:51:28,448
+out now. I'll, I'll, it's on the same
+
+1182
+00:51:28,448 --> 00:51:30,586
+page, but I'll, I'll, I'll look to
+
+1183
+00:51:30,586 --> 00:51:33,333
+connect with you early in the week and we
+
+1184
+00:51:33,333 --> 00:51:36,175
+can. See if you
+
+1185
+00:51:36,175 --> 00:51:38,289
+have any additional input to that. OK.
+
+1186
+00:51:45,339 --> 00:51:47,957
+The Minish hopeful still plan to meet on
+
+1187
+00:51:47,957 --> 00:51:50,249
+Monday. And we'll drag it out further.
+
+1188
+00:52:01,979 --> 00:52:02,749
+Thanks, Sherry.
+
+1189
+00:52:07,419 --> 00:52:10,188
+OK. All right. We have 7 more
+
+1190
+00:52:10,188 --> 00:52:12,957
+minutes, so let's quickly go through if
+
+1191
+00:52:12,957 --> 00:52:14,539
+I do 2 rollouts.
+
+1192
+00:52:16,359 --> 00:52:19,220
+I think this one is interesting. I'm
+
+1193
+00:52:19,220 --> 00:52:22,082
+starting to get a lot of questions
+
+1194
+00:52:22,082 --> 00:52:24,944
+from all the retail people that we
+
+1195
+00:52:24,944 --> 00:52:27,805
+engaged through that CPP 1 intake and
+
+1196
+00:52:27,805 --> 00:52:30,667
+all of them are kind of asking
+
+1197
+00:52:30,667 --> 00:52:33,528
+the same thing, like they they're looking
+
+1198
+00:52:33,528 --> 00:52:36,390
+for exact, so scope, exact timelines, the
+
+1199
+00:52:36,390 --> 00:52:38,872
+drivers. I, I've been mitigating those
+
+1200
+00:52:38,872 --> 00:52:40,696
+conversations and the difference between
+
+1201
+00:52:40,696 --> 00:52:43,614
+what they need to do versus what we're
+
+1202
+00:52:43,614 --> 00:52:46,167
+doing and they're kind of two separate
+
+1203
+00:52:46,167 --> 00:52:48,356
+things. They have a different mandate
+
+1204
+00:52:48,356 --> 00:52:50,909
+that they need. If their application came
+
+1205
+00:52:50,909 --> 00:52:53,462
+on board the MFA, they have funding
+
+1206
+00:52:53,462 --> 00:52:56,380
+Andrew and it's on them to make those
+
+1207
+00:52:56,380 --> 00:52:58,682
+corrections or enhancements or. Whatever
+
+1208
+00:52:58,682 --> 00:53:01,321
+they have to do to get it ready to
+
+1209
+00:53:01,321 --> 00:53:03,666
+bombard MFA, that's on them. I am going
+
+1210
+00:53:03,666 --> 00:53:06,305
+to work with them. Once we have our road
+
+1211
+00:53:06,305 --> 00:53:08,064
+map that we're talking tomorrow, we're
+
+1212
+00:53:08,064 --> 00:53:09,823
+starting to have that conversation and
+
+1213
+00:53:09,823 --> 00:53:11,875
+dates and we'll align there and we're
+
+1214
+00:53:11,875 --> 00:53:13,927
+going to communicate those dates out to
+
+1215
+00:53:13,927 --> 00:53:16,566
+them so they can know when they need to
+
+1216
+00:53:16,566 --> 00:53:17,739
+have their work done.
+
+1217
+00:53:19,829 --> 00:53:22,484
+Yeah. I see a note in here that like
+
+1218
+00:53:22,484 --> 00:53:24,549
+you've reviewed the retail use cases that
+
+1219
+00:53:24,549 --> 00:53:26,319
+Anthony Decosta has put together. I
+
+1220
+00:53:26,319 --> 00:53:28,384
+haven't yet. It's still work in progress.
+
+1221
+00:53:28,384 --> 00:53:30,449
+Yeah, you're going to say that that's
+
+1222
+00:53:30,449 --> 00:53:33,104
+exactly my point, right? Like we have a 2
+
+1223
+00:53:33,104 --> 00:53:34,874
+hour workshop with Anthony, I think
+
+1224
+00:53:34,874 --> 00:53:36,349
+tomorrow morning, I know actually
+
+1225
+00:53:36,349 --> 00:53:38,414
+tomorrow afternoon we're going to be kind
+
+1226
+00:53:38,414 --> 00:53:40,149
+of detailing that. Further.
+
+1227
+00:53:41,609 --> 00:53:43,490
+I can make a morning session and play,
+
+1228
+00:53:43,490 --> 00:53:45,607
+make a surprise can I was in the morning,
+
+1229
+00:53:45,607 --> 00:53:47,489
+didn't move it, I was in the afternoon.
+
+1230
+00:53:49,059 --> 00:53:50,709
+It's 1:00 to 3:00 tomorrow.
+
+1231
+00:53:51,919 --> 00:53:54,761
+Umm, I'm working with Anthony to kind of
+
+1232
+00:53:54,761 --> 00:53:57,249
+to to document out those use cases.
+
+1233
+00:53:59,019 --> 00:54:01,173
+Based on what we discussed in our
+
+1234
+00:54:01,173 --> 00:54:03,327
+workshop last week, right, So it's not
+
+1235
+00:54:03,327 --> 00:54:05,481
+just retail, it's the other photo use
+
+1236
+00:54:05,481 --> 00:54:07,943
+cases as well. But obviously retail is a
+
+1237
+00:54:07,943 --> 00:54:10,746
+heavy focus. That is
+
+1238
+00:54:10,746 --> 00:54:12,477
+going to generate some questions for
+
+1239
+00:54:12,477 --> 00:54:14,497
+retail based on some open things that
+
+1240
+00:54:14,497 --> 00:54:16,805
+we'll find from there. And the point of
+
+1241
+00:54:16,805 --> 00:54:18,825
+getting the retail engagement is that we
+
+1242
+00:54:18,825 --> 00:54:21,133
+know who to talk to, to get those
+
+1243
+00:54:21,133 --> 00:54:22,864
+questions answered, right? Yeah, I got
+
+1244
+00:54:22,864 --> 00:54:25,172
+some names I'm going to talk to. Jan
+
+1245
+00:54:25,172 --> 00:54:26,903
+Wilkinson is another person, Jeremy from
+
+1246
+00:54:26,903 --> 00:54:28,923
+the retail case that potentially I could
+
+1247
+00:54:28,923 --> 00:54:31,554
+take the floor. Have already and say hey
+
+1248
+00:54:31,554 --> 00:54:34,265
+this is what I was getting from your
+
+1249
+00:54:34,265 --> 00:54:36,299
+app teams what about the teller
+
+1250
+00:54:36,299 --> 00:54:37,994
+onboarding experiences or something else
+
+1251
+00:54:37,994 --> 00:54:40,028
+we're missing here yeah Jen Wilkinson
+
+1252
+00:54:40,028 --> 00:54:42,401
+from WM where is there another Jan
+
+1253
+00:54:42,401 --> 00:54:44,774
+Wilkinson No yeah, that's why I wasn't
+
+1254
+00:54:44,774 --> 00:54:47,486
+sure why you were saying Jan because Jan
+
+1255
+00:54:47,486 --> 00:54:50,422
+is from Wim yeah this is a. Different
+
+1256
+00:54:50,422 --> 00:54:53,387
+Wilkinson then I guess this has to
+
+1257
+00:54:53,387 --> 00:54:55,927
+do with teller onboarding she's business
+
+1258
+00:54:55,927 --> 00:54:58,892
+not Liam no well so Jen does
+
+1259
+00:54:58,892 --> 00:55:01,856
+work with Canadian retail when it comes
+
+1260
+00:55:01,856 --> 00:55:03,973
+to centralized onboarding ohh yeah
+
+1261
+00:55:03,973 --> 00:55:06,938
+because she has that matrix she also
+
+1262
+00:55:06,938 --> 00:55:09,479
+handles it for the US that.
+
+1263
+00:55:13,229 --> 00:55:16,029
+Sorry, Brian, you're breaking up.
+
+1264
+00:55:16,029 --> 00:55:17,709
+Or Bruce Wayne.
+
+1265
+00:55:19,289 --> 00:55:21,945
+I think there's two. I see there's two
+
+1266
+00:55:21,945 --> 00:55:24,725
+looking teams. Interesting,
+
+1267
+00:55:24,725 --> 00:55:27,292
+because you know you're all talking about
+
+1268
+00:55:27,292 --> 00:55:30,271
+the. Breaking
+
+1269
+00:55:30,271 --> 00:55:33,016
+up behind you Keep cutting out my
+
+1270
+00:55:33,016 --> 00:55:33,409
+friend.
+
+1271
+00:55:39,289 --> 00:55:41,942
+Um, either way, like I know they've been
+
+1272
+00:55:41,942 --> 00:55:44,596
+really focused on US retail, but keep in
+
+1273
+00:55:44,596 --> 00:55:47,581
+mind that we have to get some stuff from
+
+1274
+00:55:47,581 --> 00:55:49,571
+Canadian retail too and they're pretty
+
+1275
+00:55:49,571 --> 00:55:52,225
+different. OK, well, I want to because I,
+
+1276
+00:55:52,225 --> 00:55:54,547
+Jonathan and I had a biweekly meeting
+
+1277
+00:55:54,547 --> 00:55:56,907
+with. You know, we had a good discussion
+
+1278
+00:55:56,907 --> 00:55:59,144
+on this. I had a good discussion with
+
+1279
+00:55:59,144 --> 00:56:00,823
+them yesterday. They're they're ready to
+
+1280
+00:56:00,823 --> 00:56:03,061
+go and they have volunteered a couple of
+
+1281
+00:56:03,061 --> 00:56:05,578
+names as well. So I'm going to be setting
+
+1282
+00:56:05,578 --> 00:56:07,816
+up a weekly just kind of status with
+
+1283
+00:56:07,816 --> 00:56:09,494
+them. And then they also suggested
+
+1284
+00:56:09,494 --> 00:56:11,173
+workshop as well. And they, they're
+
+1285
+00:56:11,173 --> 00:56:13,410
+really keen and eager to talk about the
+
+1286
+00:56:13,410 --> 00:56:15,504
+whole NFC reader part as well. Because
+
+1287
+00:56:15,504 --> 00:56:17,574
+they've mentioned that their USB ports
+
+1288
+00:56:17,574 --> 00:56:20,335
+are not accessible and then they have a,
+
+1289
+00:56:20,335 --> 00:56:23,096
+you know, USDA I believe on the monitor.
+
+1290
+00:56:23,096 --> 00:56:25,856
+But it's also not not very feasible to
+
+1291
+00:56:25,856 --> 00:56:28,617
+use and plug it into the to the
+
+1292
+00:56:28,617 --> 00:56:30,687
+monitor. So they probably require some
+
+1293
+00:56:30,687 --> 00:56:33,448
+sort of NFC reader type device just for
+
+1294
+00:56:33,448 --> 00:56:35,873
+clarity for yourself and for the. The
+
+1295
+00:56:35,873 --> 00:56:38,431
+focus on this card just so that we're all
+
+1296
+00:56:38,431 --> 00:56:40,989
+on the same page right at this point in
+
+1297
+00:56:40,989 --> 00:56:42,695
+time, we understand enough about the
+
+1298
+00:56:42,695 --> 00:56:44,685
+retail footprint that no matter which bio
+
+1299
+00:56:44,685 --> 00:56:47,243
+use case we go with, we are either going
+
+1300
+00:56:47,243 --> 00:56:49,517
+to have to deliver and install a dongle
+
+1301
+00:56:49,517 --> 00:56:52,075
+or an NFC reader. There is no we're not
+
+1302
+00:56:52,075 --> 00:56:54,349
+going to be asking retail to crawl under
+
+1303
+00:56:54,349 --> 00:56:56,772
+their desk to plug in their keys. There
+
+1304
+00:56:56,772 --> 00:56:59,679
+will be a a readily accessible dongle or
+
+1305
+00:56:59,679 --> 00:57:00,769
+an NFC reader.
+
+1306
+00:57:03,069 --> 00:57:05,404
+And so no matter what we're doing, there
+
+1307
+00:57:05,404 --> 00:57:08,031
+is going to be a touch in the locations
+
+1308
+00:57:08,031 --> 00:57:10,658
+to set this up. So when we're talking to
+
+1309
+00:57:10,658 --> 00:57:12,410
+retail, when we're getting questions on
+
+1310
+00:57:12,410 --> 00:57:14,161
+this, well we're understanding whether or
+
+1311
+00:57:14,161 --> 00:57:16,497
+not we need on site support. The answer
+
+1312
+00:57:16,497 --> 00:57:18,248
+is yes, absolutely. There's either going
+
+1313
+00:57:18,248 --> 00:57:21,167
+to be a dongle to plug it into or they
+
+1314
+00:57:21,167 --> 00:57:22,919
+will be a an NFC reader.
+
+1315
+00:57:23,939 --> 00:57:26,830
+OK. So there's not
+
+1316
+00:57:26,830 --> 00:57:29,368
+a lot of questions about that Andrew. And
+
+1317
+00:57:29,368 --> 00:57:31,907
+I know that people have been going in
+
+1318
+00:57:31,907 --> 00:57:34,127
+different directions on that. I I assure
+
+1319
+00:57:34,127 --> 00:57:36,983
+you that it will be one of those two
+
+1320
+00:57:36,983 --> 00:57:39,521
+things. OK, Yeah. So there there is a
+
+1321
+00:57:39,521 --> 00:57:41,424
+good discussion overall. They're going to
+
+1322
+00:57:41,424 --> 00:57:43,962
+assign a change lead from from the US,
+
+1323
+00:57:43,962 --> 00:57:46,857
+sorry for Canadian retail side. Umm, they
+
+1324
+00:57:46,857 --> 00:57:49,461
+do want to discuss their specific
+
+1325
+00:57:49,461 --> 00:57:52,065
+use cases. They said that they
+
+1326
+00:57:52,065 --> 00:57:54,669
+still have generic ideas there that
+
+1327
+00:57:54,669 --> 00:57:57,274
+they're kind of concerned about and
+
+1328
+00:57:57,274 --> 00:57:59,878
+they had questions around the shared
+
+1329
+00:57:59,878 --> 00:58:02,482
+laptops spare pool scenario. They also
+
+1330
+00:58:02,482 --> 00:58:05,086
+had questions around who's funding and
+
+1331
+00:58:05,086 --> 00:58:07,979
+paying for the. Devices.
+
+1332
+00:58:09,759 --> 00:58:12,329
+So it took various notes. I think we,
+
+1333
+00:58:12,329 --> 00:58:14,257
+yeah, require workshops with them. And
+
+1334
+00:58:14,257 --> 00:58:16,506
+but yeah, they, they know it's coming.
+
+1335
+00:58:16,506 --> 00:58:18,755
+They're eager and ready to start working.
+
+1336
+00:58:18,755 --> 00:58:21,326
+Yeah. And Mike, just keep in mind that
+
+1337
+00:58:21,326 --> 00:58:23,896
+before you start going back to like Steve
+
+1338
+00:58:23,896 --> 00:58:26,467
+Sparks and Jim on pricing for the Yubico
+
+1339
+00:58:26,467 --> 00:58:28,716
+engagement, we also have to consider the
+
+1340
+00:58:28,716 --> 00:58:30,739
+dongle, Leon. Like cost for field
+
+1341
+00:58:30,739 --> 00:58:32,996
+services or the NFC reader, depending on
+
+1342
+00:58:32,996 --> 00:58:34,609
+where we go. Yeah, perhaps.
+
+1343
+00:58:36,129 --> 00:58:38,712
+For budget, but I can discuss that. We'll
+
+1344
+00:58:38,712 --> 00:58:40,973
+bring that up and discuss with them
+
+1345
+00:58:40,973 --> 00:58:42,910
+tomorrow because yeah, they're going to
+
+1346
+00:58:42,910 --> 00:58:45,817
+be about 150 K for the on site services.
+
+1347
+00:58:45,817 --> 00:58:48,696
+I got that estimate. We
+
+1348
+00:58:48,696 --> 00:58:50,599
+don't know if we're going with dongles or
+
+1349
+00:58:50,599 --> 00:58:52,501
+or NFC readers yet and the price will
+
+1350
+00:58:52,501 --> 00:58:54,403
+vary depending on what we do with the
+
+1351
+00:58:54,403 --> 00:58:56,067
+technicality depends on I said TBD, I'm
+
+1352
+00:58:56,067 --> 00:58:57,970
+gonna need alright, you guys need to go
+
+1353
+00:58:57,970 --> 00:58:59,872
+in the bank and attach something and they
+
+1354
+00:58:59,872 --> 00:59:02,012
+gave me well for right now just give you
+
+1355
+00:59:02,012 --> 00:59:03,914
+an estimate. You know it goes here and
+
+1356
+00:59:03,914 --> 00:59:05,579
+they gave me 150 K for it.
+
+1357
+00:59:07,139 --> 00:59:08,769
+As US and Canadian.
+
+1358
+00:59:10,299 --> 00:59:12,470
+We're at time, but also Jeremy, just a
+
+1359
+00:59:12,470 --> 00:59:14,641
+quick heads up, there is a decision also
+
+1360
+00:59:14,641 --> 00:59:16,812
+made this week that we're going with the
+
+1361
+00:59:16,812 --> 00:59:18,169
+OTP keys that's been documented.
+
+1362
+00:59:20,549 --> 00:59:23,459
+Just as an FYI, who made that decision?
+
+1363
+00:59:24,739 --> 00:59:26,517
+Mr. Generally, that's what we've been
+
+1364
+00:59:26,517 --> 00:59:28,888
+saying is what we've been saying for a
+
+1365
+00:59:28,888 --> 00:59:30,666
+while now, right until proven otherwise,
+
+1366
+00:59:30,666 --> 00:59:33,592
+it's OTP. OK. So
+
+1367
+00:59:33,592 --> 00:59:36,245
+that we can fully answer that, but we're
+
+1368
+00:59:36,245 --> 00:59:38,235
+assuming that that's the case. Sure,
+
+1369
+00:59:38,235 --> 00:59:40,225
+we're assuming, we're assuming that's the
+
+1370
+00:59:40,225 --> 00:59:42,878
+case, right. You know, until we get many
+
+1371
+00:59:42,878 --> 00:59:45,531
+months down the road and retail has done
+
+1372
+00:59:45,531 --> 00:59:47,852
+testing and like that just doesn't work,
+
+1373
+00:59:47,852 --> 00:59:50,837
+right. But we have we have to proceed on
+
+1374
+00:59:50,837 --> 00:59:53,159
+that on that path until proven otherwise.
+
+1375
+00:59:55,079 --> 00:59:56,884
+Right, because other otherwise, like, you
+
+1376
+00:59:56,884 --> 00:59:58,991
+know, they were saying, OK, should we
+
+1377
+00:59:58,991 --> 01:00:01,398
+stop? Should we pause? Like, no, we got
+
+1378
+01:00:01,398 --> 01:00:04,106
+to, we got to move ahead. Yeah, I, I
+
+1379
+01:00:04,106 --> 01:00:05,912
+think that there's a difference between
+
+1380
+01:00:05,912 --> 01:00:07,717
+mainframe moving ahead with an assumption
+
+1381
+01:00:07,717 --> 01:00:09,824
+and us making a program decision that
+
+1382
+01:00:09,824 --> 01:00:11,329
+this is the only path.
+
+1383
+01:00:12,619 --> 01:00:14,821
+Yeah, this, this is specific to
+
+1384
+01:00:14,821 --> 01:00:17,391
+mainframe. Yes. I thought it was a
+
+1385
+01:00:17,391 --> 01:00:20,391
+decision. No
+
+1386
+01:00:20,391 --> 01:00:22,029
+decision is based on the design.
+
+1387
+01:00:23,979 --> 01:00:26,179
+Right. And the design is based on the
+
+1388
+01:00:26,179 --> 01:00:28,104
+requirements and the other things that we
+
+1389
+01:00:28,104 --> 01:00:28,929
+pulled together, right?
+
+1390
+01:00:31,119 --> 01:00:33,001
+Which we're certainly not out of job yet.
+
+1391
+01:00:33,001 --> 01:00:35,118
+Now it will likely be OTP keys, don't get
+
+1392
+01:00:35,118 --> 01:00:37,269
+me wrong. Right.
+
+1393
+01:00:39,139 --> 01:00:42,019
+Again, we need to figure that out, right?
+
+1394
+01:00:42,019 --> 01:00:44,899
+Like when we go to perfect concept this,
+
+1395
+01:00:44,899 --> 01:00:47,419
+if we find that it's untenable, then
+
+1396
+01:00:47,419 --> 01:00:49,219
+we'll be changing course, right?
+
+1397
+01:00:51,009 --> 01:00:53,913
+But I think that's what that's what you
+
+1398
+01:00:53,913 --> 01:00:55,729
+intended, right, Jonathan? Well, George,
+
+1399
+01:00:55,729 --> 01:00:58,633
+yeah, absolutely. And what we know at the
+
+1400
+01:00:58,633 --> 01:01:00,812
+moment, OP should, should address the
+
+1401
+01:01:00,812 --> 01:01:03,354
+requirements. If we find if we find
+
+1402
+01:01:03,354 --> 01:01:06,258
+outliers to that, then we move on those
+
+1403
+01:01:06,258 --> 01:01:08,800
+outliers. But for the most part 80209010,
+
+1404
+01:01:08,800 --> 01:01:11,535
+whatever we want to call it. Should
+
+1405
+01:01:11,535 --> 01:01:14,475
+be able TP yeah yeah. And if we're not
+
+1406
+01:01:14,475 --> 01:01:17,415
+we're not going to do the other it's just
+
+1407
+01:01:17,415 --> 01:01:20,355
+this is this is how we can proceed at
+
+1408
+01:01:20,355 --> 01:01:23,295
+the moment yeah like if the choice was OK
+
+1409
+01:01:23,295 --> 01:01:25,582
+well let's let's pause mainframe for you
+
+1410
+01:01:25,582 --> 01:01:27,869
+know six months until we're 100% sure
+
+1411
+01:01:27,869 --> 01:01:30,155
+that doesn't make any sense right so
+
+1412
+01:01:30,155 --> 01:01:32,780
+let's let's. Proceed in the assumption
+
+1413
+01:01:32,780 --> 01:01:35,407
+that it is OTP, right? That's the
+
+1414
+01:01:35,407 --> 01:01:37,659
+solution that does meet both mainframe
+
+1415
+01:01:37,659 --> 01:01:40,286
+and retail and then we'll you know,
+
+1416
+01:01:40,286 --> 01:01:42,913
+ultimately we'll see how it plays out,
+
+1417
+01:01:42,913 --> 01:01:45,864
+OK. And changes very quickly. The
+
+1418
+01:01:45,864 --> 01:01:47,779
+Epico MSA is going well.
+
+1419
+01:01:49,149 --> 01:01:51,749
+Want to say it's going OK?
+
+1420
+01:01:54,679 --> 01:01:56,924
+OK, sounds good. Alright, we're overtime.
+
+1421
+01:01:56,924 --> 01:01:59,543
+Thank you, team. Appreciate it. And yeah,
+
+1422
+01:01:59,543 --> 01:02:02,162
+we'll, we'll connect next week. Thank you
+
+1423
+01:02:02,162 --> 01:02:03,659
+so much. Bye now.
+
+1424
+01:02:06,149 --> 01:02:08,090
+And all that stuff down, it's down that
+
+1425
+01:02:08,090 --> 01:02:08,819
+far, right, but.
+
+1426
+01:02:11,459 --> 01:02:12,319
+Basically.
+
+1427
+01:02:16,959 --> 01:02:17,389
+OK.
