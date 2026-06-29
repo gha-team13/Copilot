@@ -1,0 +1,2071 @@
+1
+00:00:01,200 --> 00:00:04,064
+Do the cutover or all of
+
+2
+00:00:04,064 --> 00:00:06,450
+our patch needs to point?
+
+3
+00:00:07,900 --> 00:00:10,668
+And there were no
+
+4
+00:00:10,668 --> 00:00:13,465
+surprises. Anywhere
+
+5
+00:00:13,465 --> 00:00:14,010
+here?
+
+6
+00:00:16,420 --> 00:00:19,296
+I continue reviewing the logs to see
+
+7
+00:00:19,296 --> 00:00:21,762
+what messages they're being stopped and
+
+8
+00:00:21,762 --> 00:00:24,638
+so on and so forth, but you
+
+9
+00:00:24,638 --> 00:00:27,514
+know, there's not very high volume of
+
+10
+00:00:27,514 --> 00:00:30,390
+traffic and stuff like that. Yeah, so,
+
+11
+00:00:30,390 --> 00:00:33,266
+but everything is working as it should
+
+12
+00:00:33,266 --> 00:00:34,910
+as of right now.
+
+13
+00:00:35,990 --> 00:00:38,663
+The message is being copied like the
+
+14
+00:00:38,663 --> 00:00:41,336
+spam. That message is copied, you know,
+
+15
+00:00:41,336 --> 00:00:44,009
+for all kinds of reasons, which they
+
+16
+00:00:44,009 --> 00:00:46,682
+do make sense. They still have to
+
+17
+00:00:46,682 --> 00:00:49,354
+review that, but nothing spectacular or I
+
+18
+00:00:49,354 --> 00:00:50,500
+shouldn't say anything.
+
+19
+00:00:52,080 --> 00:00:53,640
+That we're not expecting.
+
+20
+00:00:56,030 --> 00:00:58,662
+Um, but we're still waiting
+
+21
+00:00:58,662 --> 00:01:01,294
+for Anya to do the
+
+22
+00:01:01,294 --> 00:01:03,400
+ISO and the ADP.
+
+23
+00:01:04,750 --> 00:01:07,449
+So, so we can so we can
+
+24
+00:01:07,449 --> 00:01:10,148
+test the quarantine and you know the
+
+25
+00:01:10,148 --> 00:01:12,847
+user experience and all of that stuff.
+
+26
+00:01:12,847 --> 00:01:15,546
+Probably going to have to create some
+
+27
+00:01:15,546 --> 00:01:17,860
+documents and stuff like that. You
+
+28
+00:01:17,860 --> 00:01:20,173
+mentioned in the previous meeting that
+
+29
+00:01:20,173 --> 00:01:22,487
+you have something already that inserted
+
+30
+00:01:22,487 --> 00:01:24,800
+that you guys have created already.
+
+31
+00:01:25,530 --> 00:01:27,510
+And you gonna send it our way? Did you
+
+32
+00:01:27,510 --> 00:01:28,390
+manage to do that?
+
+33
+00:01:32,800 --> 00:01:35,161
+Yeah, Daniel, that that may have been on
+
+34
+00:01:35,161 --> 00:01:37,523
+me. Let me sync with again behind scenes.
+
+35
+00:01:37,523 --> 00:01:40,180
+I I did not, I might have missed that.
+
+36
+00:01:40,180 --> 00:01:42,541
+That's OK. That's OK. We don't need it
+
+37
+00:01:42,541 --> 00:01:44,903
+right now. But I mean, you know, instead
+
+38
+00:01:44,903 --> 00:01:46,969
+of us reinventing the wheel, if there's
+
+39
+00:01:46,969 --> 00:01:48,740
+something that you guys already have.
+
+40
+00:01:49,630 --> 00:01:51,730
+That will definitely help us.
+
+41
+00:01:53,810 --> 00:01:56,482
+Right. Umm, and I
+
+42
+00:01:56,482 --> 00:01:59,155
+think that that said
+
+43
+00:01:59,155 --> 00:02:01,827
+Jet, you're here, right?
+
+44
+00:02:01,827 --> 00:02:04,500
+Yeah, I tested the.
+
+45
+00:02:06,590 --> 00:02:09,234
+The the e-mail flow from my account and
+
+46
+00:02:09,234 --> 00:02:12,209
+it seems to be working. So what was the
+
+47
+00:02:12,209 --> 00:02:12,540
+problem?
+
+48
+00:02:16,440 --> 00:02:19,110
+From the group based routing issue.
+
+49
+00:02:20,940 --> 00:02:23,305
+It got escalated to a a different back
+
+50
+00:02:23,305 --> 00:02:25,965
+end group that is still looking at it. I
+
+51
+00:02:25,965 --> 00:02:28,034
+think they fixed it that's why I'm
+
+52
+00:02:28,034 --> 00:02:30,103
+wondering is there any notes in the
+
+53
+00:02:30,103 --> 00:02:32,467
+ticket or something because I I sent a
+
+54
+00:02:32,467 --> 00:02:35,128
+e-mail about half an hour to an hour ago
+
+55
+00:02:35,128 --> 00:02:37,492
+and that seemed to have taken the the
+
+56
+00:02:37,492 --> 00:02:38,970
+flow that I was expecting.
+
+57
+00:02:41,670 --> 00:02:43,788
+If that's the case, we're still waiting
+
+58
+00:02:43,788 --> 00:02:46,512
+on notes from that Level 2 or Level 3
+
+59
+00:02:46,512 --> 00:02:47,420
+engineer. OK, alright.
+
+60
+00:03:00,1000 --> 00:03:03,490
+But I think that was it for me. Other
+
+61
+00:03:03,490 --> 00:03:05,703
+than that, I still would love to know
+
+62
+00:03:05,703 --> 00:03:07,917
+some of the timings on some of the
+
+63
+00:03:07,917 --> 00:03:10,888
+changes that. That you do on the
+
+64
+00:03:10,888 --> 00:03:13,696
+interface. Yes, we did
+
+65
+00:03:13,696 --> 00:03:16,534
+our back end team on that and that is
+
+66
+00:03:16,534 --> 00:03:17,480
+being actively investigated.
+
+67
+00:03:21,260 --> 00:03:23,050
+And I noticed that the.
+
+68
+00:03:24,010 --> 00:03:26,970
+The SMTP profiling only takes a
+
+69
+00:03:26,970 --> 00:03:29,930
+records, right? Yes, yeah, I learned
+
+70
+00:03:29,930 --> 00:03:31,410
+the hard way.
+
+71
+00:03:32,790 --> 00:03:35,742
+You know everybody and expect you don't
+
+72
+00:03:35,742 --> 00:03:38,693
+need a new profile anyway. Well, no,
+
+73
+00:03:38,693 --> 00:03:41,223
+because I remember we're doing the
+
+74
+00:03:41,223 --> 00:03:44,175
+testing about connectivity and it kept on
+
+75
+00:03:44,175 --> 00:03:47,040
+throwing errors about. You
+
+76
+00:03:47,040 --> 00:03:49,655
+know, not accepted or I I forgot what the
+
+77
+00:03:49,655 --> 00:03:51,688
+exact error was. That was because I
+
+78
+00:03:51,688 --> 00:03:53,140
+plugged in an MX record.
+
+79
+00:03:54,570 --> 00:03:57,545
+There is no host record for that so
+
+80
+00:03:57,545 --> 00:04:00,520
+it resolves to something else. So once I
+
+81
+00:04:00,520 --> 00:04:03,123
+switched it to new record things started
+
+82
+00:04:03,123 --> 00:04:05,354
+working for that part. Gotcha. Anytime
+
+83
+00:04:05,354 --> 00:04:07,957
+you have a delivery to something outside
+
+84
+00:04:07,957 --> 00:04:10,931
+of the MX record, you have to choose
+
+85
+00:04:10,931 --> 00:04:13,534
+some sort of a record. Basically MX
+
+86
+00:04:13,534 --> 00:04:16,531
+records are for. And we don't know the
+
+87
+00:04:16,531 --> 00:04:19,221
+exact cost and we want to look it
+
+88
+00:04:19,221 --> 00:04:21,910
+up. But if you if you do know
+
+89
+00:04:21,910 --> 00:04:23,928
+the exact host, always, always, usually
+
+90
+00:04:23,928 --> 00:04:26,281
+record. Yeah, let's just hoping you guys
+
+91
+00:04:26,281 --> 00:04:28,971
+would do both because I think the inbound
+
+92
+00:04:28,971 --> 00:04:31,660
+has an option for a record. Well, MX
+
+93
+00:04:31,660 --> 00:04:34,350
+and a record or just a record, right?
+
+94
+00:04:35,210 --> 00:04:38,045
+It does, but why would you need to do
+
+95
+00:04:38,045 --> 00:04:40,880
+that? If for point is the MX record, then
+
+96
+00:04:40,880 --> 00:04:43,085
+the next destination should just be an
+
+97
+00:04:43,085 --> 00:04:46,078
+FQDN. If you listed
+
+98
+00:04:46,078 --> 00:04:48,232
+the A record the MX record for the same
+
+99
+00:04:48,232 --> 00:04:50,386
+domain, it would cause a male no no no,
+
+100
+00:04:50,386 --> 00:04:52,300
+but I was enlisting the MX record for.
+
+101
+00:04:53,780 --> 00:04:56,430
+Office 365, right? That's the
+
+102
+00:04:56,430 --> 00:04:59,373
+difference, yeah. But it's
+
+103
+00:04:59,373 --> 00:05:01,762
+good to know from first review together.
+
+104
+00:05:01,762 --> 00:05:04,493
+Well what you were listening wasn't an MX
+
+105
+00:05:04,493 --> 00:05:07,224
+record. It was still an FQDN, it just
+
+106
+00:05:07,224 --> 00:05:08,590
+wasn't listed in DNS.
+
+107
+00:05:09,940 --> 00:05:12,912
+Was it was an erect? It was
+
+108
+00:05:12,912 --> 00:05:15,460
+sorry, it was an MX record.
+
+109
+00:05:17,440 --> 00:05:20,005
+But not an A record,
+
+110
+00:05:20,005 --> 00:05:22,570
+because that's like I said.
+
+111
+00:05:26,670 --> 00:05:29,461
+Amex was also. It might be that
+
+112
+00:05:29,461 --> 00:05:32,252
+CNN name to an A record. So
+
+113
+00:05:32,252 --> 00:05:35,043
+in that sense I don't quite know,
+
+114
+00:05:35,043 --> 00:05:37,834
+but when I looked it up, it
+
+115
+00:05:37,834 --> 00:05:39,030
+definitely didn't have.
+
+116
+00:05:40,720 --> 00:05:43,681
+A resolution to an A rec Well,
+
+117
+00:05:43,681 --> 00:05:46,643
+it had hosts underneath with an A
+
+118
+00:05:46,643 --> 00:05:49,604
+record, right? So it's so it is
+
+119
+00:05:49,604 --> 00:05:52,566
+an Amex, but it's an A record
+
+120
+00:05:52,566 --> 00:05:55,527
+which have a records underneath which has
+
+121
+00:05:55,527 --> 00:05:55,950
+different.
+
+122
+00:05:58,040 --> 00:05:58,790
+Name.
+
+123
+00:06:04,190 --> 00:06:06,425
+Let me look it up again, I've got the
+
+124
+00:06:06,425 --> 00:06:07,170
+exact thing was.
+
+125
+00:06:30,200 --> 00:06:30,870
+So.
+
+126
+00:06:35,630 --> 00:06:37,440
+OK, you know what? That's what.
+
+127
+00:06:39,060 --> 00:06:42,044
+So there's no Amex for this, It's in
+
+128
+00:06:42,044 --> 00:06:42,790
+a record.
+
+129
+00:06:45,310 --> 00:06:46,960
+It was the first goodbye.
+
+130
+00:06:48,500 --> 00:06:49,280
+Just take me there.
+
+131
+00:07:03,330 --> 00:07:06,109
+Yeah, it it was an MX
+
+132
+00:07:06,109 --> 00:07:08,887
+record I originally plugged in that
+
+133
+00:07:08,887 --> 00:07:11,718
+Amex has two preferences. Which
+
+134
+00:07:11,718 --> 00:07:14,714
+have closed names to the IP. When
+
+135
+00:07:14,714 --> 00:07:17,710
+I plugged into annex it didn't work.
+
+136
+00:07:17,710 --> 00:07:20,706
+I had to change it to one
+
+137
+00:07:20,706 --> 00:07:21,990
+of the hostages.
+
+138
+00:07:24,950 --> 00:07:27,930
+OK, Which host needs specifically, um?
+
+139
+00:07:28,480 --> 00:07:31,386
+It looks like it's
+
+140
+00:07:31,386 --> 00:07:34,291
+slightly different uh UAT
+
+141
+00:07:34,291 --> 00:07:37,197
+dot dash mail dash
+
+142
+00:07:37,197 --> 00:07:37,924
+on
+
+143
+00:07:37,924 --> 00:07:38,650
+microsoft.com.mail.protection.outlook.com.
+
+144
+00:07:38,650 --> 00:07:41,556
+Microsoft standards FQDN delivery
+
+145
+00:07:41,556 --> 00:07:44,461
+point should be domain
+
+146
+00:07:44,461 --> 00:07:47,367
+dash TLD dot mail
+
+147
+00:07:47,367 --> 00:07:50,110
+dot protection. Outlook.com.
+
+148
+00:07:54,830 --> 00:07:56,844
+Yeah. And that's the whole spectrum,
+
+149
+00:07:56,844 --> 00:07:59,623
+right?Not necessarily
+
+150
+00:07:59,623 --> 00:08:02,555
+Amex that. That is where your MX record
+
+151
+00:08:02,555 --> 00:08:05,487
+should point to. It will never be an
+
+152
+00:08:05,487 --> 00:08:07,320
+MX record on its own.
+
+153
+00:08:12,160 --> 00:08:12,970
+Yeah.
+
+154
+00:08:20,790 --> 00:08:23,200
+So that's the MX?
+
+155
+00:08:40,410 --> 00:08:43,284
+Is it still an issue? No, no, no. Like
+
+156
+00:08:43,284 --> 00:08:46,280
+I said, I pointed to. The police record,
+
+157
+00:08:46,280 --> 00:08:49,155
+right?Gotcha. Yeah. And and
+
+158
+00:08:49,155 --> 00:08:51,140
+and that's that's what it should be.
+
+159
+00:09:26,520 --> 00:09:28,720
+So is there other issues? Yeah. I was
+
+160
+00:09:28,720 --> 00:09:30,645
+wondering if there's anything else on the
+
+161
+00:09:30,645 --> 00:09:30,920
+agenda.
+
+162
+00:09:33,520 --> 00:09:36,058
+I'm good for now. I'm still trying to do
+
+163
+00:09:36,058 --> 00:09:37,750
+some testing with the mail flow.
+
+164
+00:09:42,910 --> 00:09:45,140
+Do we have any kind of?
+
+165
+00:09:46,150 --> 00:09:49,033
+Status updates for when your on Prem MTA
+
+166
+00:09:49,033 --> 00:09:51,917
+hardware is going to be rack mounted and
+
+167
+00:09:51,917 --> 00:09:54,440
+available for us to start setting up.
+
+168
+00:09:56,280 --> 00:09:59,169
+They were given IP's. I think they still
+
+169
+00:09:59,169 --> 00:10:02,059
+need their eye lows. So I am assuming
+
+170
+00:10:02,059 --> 00:10:04,948
+another week maybe. OK, if if you could
+
+171
+00:10:04,948 --> 00:10:07,837
+just keep us updated, anybody on the G
+
+172
+00:10:07,837 --> 00:10:10,365
+team, that would be fantastic. We would
+
+173
+00:10:10,365 --> 00:10:11,810
+very much appreciate that.
+
+174
+00:10:22,500 --> 00:10:25,071
+So on that note, yes, I'll follow up with
+
+175
+00:10:25,071 --> 00:10:27,356
+Dave Reese. He had an action item to
+
+176
+00:10:27,356 --> 00:10:29,928
+update me by the end of this week. I'll,
+
+177
+00:10:29,928 --> 00:10:31,927
+uh, tomorrow we have a project status
+
+178
+00:10:31,927 --> 00:10:34,735
+thing, he and I. I'll find out on
+
+179
+00:10:34,735 --> 00:10:36,220
+the rack mount MTA.
+
+180
+00:10:37,620 --> 00:10:40,612
+Where that is the other item we had I
+
+181
+00:10:40,612 --> 00:10:43,605
+think Anya was working on the SSO and the
+
+182
+00:10:43,605 --> 00:10:46,265
+let the user testing we were looking at
+
+183
+00:10:46,265 --> 00:10:48,925
+mid-july for that. The only other items I
+
+184
+00:10:48,925 --> 00:10:51,917
+guess we would bring up here if if, if
+
+185
+00:10:51,917 --> 00:10:54,910
+I'm remiss let me know Dan was where we
+
+186
+00:10:54,910 --> 00:10:57,237
+are on inbound rules testing. I guess
+
+187
+00:10:57,237 --> 00:11:00,014
+that's. Kind of what we were
+
+188
+00:11:00,014 --> 00:11:02,851
+talking about the other day, right?
+
+189
+00:11:02,851 --> 00:11:05,216
+Yeah, Daniel had mentioned something
+
+190
+00:11:05,216 --> 00:11:08,053
+earlier this week that rule testing
+
+191
+00:11:08,053 --> 00:11:10,890
+had gone pretty good or at
+
+192
+00:11:10,890 --> 00:11:13,727
+least rule migration. So I'm, I'm
+
+193
+00:11:13,727 --> 00:11:16,564
+curious if, if TD Bank team
+
+194
+00:11:16,564 --> 00:11:19,368
+is maintaining. The spreadsheet of the
+
+195
+00:11:19,368 --> 00:11:22,268
+rules that have been migrated, IE the
+
+196
+00:11:22,268 --> 00:11:25,169
+ones that are not standard in proof
+
+197
+00:11:25,169 --> 00:11:28,070
+point and what they're testing status is.
+
+198
+00:11:35,320 --> 00:11:38,258
+I'm sorry, I missed that. What was
+
+199
+00:11:38,258 --> 00:11:41,196
+the question? Yes. So we had a
+
+200
+00:11:41,196 --> 00:11:44,134
+large number of roles that were being
+
+201
+00:11:44,134 --> 00:11:46,652
+migrated over from Broadcom and I'm
+
+202
+00:11:46,652 --> 00:11:49,590
+curious if we have any sort of.
+
+203
+00:11:49,700 --> 00:11:52,527
+Structure or paradigm for how those are
+
+204
+00:11:52,527 --> 00:11:55,353
+being tested, IE do you have a
+
+205
+00:11:55,353 --> 00:11:58,180
+spreadsheet for each of those rules along
+
+206
+00:11:58,180 --> 00:12:01,006
+with testing requirements? And if it has
+
+207
+00:12:01,006 --> 00:12:03,833
+been tested and if successfully we had
+
+208
+00:12:03,833 --> 00:12:06,660
+a general test like that's what we
+
+209
+00:12:06,660 --> 00:12:09,486
+were asking you the general questions on
+
+210
+00:12:09,486 --> 00:12:12,422
+the. Um, the auto replies
+
+211
+00:12:12,422 --> 00:12:15,191
+for 1:00, we, we just test one
+
+212
+00:12:15,191 --> 00:12:17,960
+for now until we get to production,
+
+213
+00:12:17,960 --> 00:12:20,729
+right? But for instance, the, like I
+
+214
+00:12:20,729 --> 00:12:23,498
+said, the auto reply, we tested how
+
+215
+00:12:23,498 --> 00:12:26,267
+it's recommended by you guys and that
+
+216
+00:12:26,267 --> 00:12:28,640
+seems to work at this point.
+
+217
+00:12:30,560 --> 00:12:33,016
+The disclaimers and all that, yeah, we
+
+218
+00:12:33,016 --> 00:12:35,822
+have a list of them and we just
+
+219
+00:12:35,822 --> 00:12:38,278
+grouped them up based on similarity at
+
+220
+00:12:38,278 --> 00:12:41,205
+that point. And just touched
+
+221
+00:12:41,205 --> 00:12:44,042
+it down 1. Yeah. My
+
+222
+00:12:44,042 --> 00:12:45,466
+recommendation though would would
+
+223
+00:12:45,466 --> 00:12:47,957
+definitely be at some point in time
+
+224
+00:12:47,957 --> 00:12:50,805
+either as a crew or or your team
+
+225
+00:12:50,805 --> 00:12:53,297
+taking initiative, just get a list in
+
+226
+00:12:53,297 --> 00:12:56,144
+place and make sure all of them have
+
+227
+00:12:56,144 --> 00:12:58,280
+been tested because it is a.
+
+228
+00:12:59,320 --> 00:13:02,243
+Not the exact migration. Having a a
+
+229
+00:13:02,243 --> 00:13:05,166
+positive test for each of those rules
+
+230
+00:13:05,166 --> 00:13:08,089
+I think will go a long way
+
+231
+00:13:08,089 --> 00:13:11,012
+towards a smooth cut over. Yeah, we
+
+232
+00:13:11,012 --> 00:13:13,935
+did go through them. Like I said,
+
+233
+00:13:13,935 --> 00:13:16,440
+we didn't do every single one.
+
+234
+00:13:17,970 --> 00:13:20,486
+But this from early ones and some more
+
+235
+00:13:20,486 --> 00:13:23,003
+ones were just booked up for the testing
+
+236
+00:13:23,003 --> 00:13:24,890
+because we went through the actual.
+
+237
+00:13:27,280 --> 00:13:29,670
+And and match that I mean.
+
+238
+00:13:31,700 --> 00:13:34,484
+Pretty much. So we're good in that
+
+239
+00:13:34,484 --> 00:13:37,268
+sense, at least for now. For sure
+
+240
+00:13:37,268 --> 00:13:40,052
+the exceptions, you gave us a way
+
+241
+00:13:40,052 --> 00:13:42,836
+to work around it already. Yeah. And
+
+242
+00:13:42,836 --> 00:13:45,620
+a lot of the, the disclaimer one
+
+243
+00:13:45,620 --> 00:13:48,404
+seems to work a lot better because
+
+244
+00:13:48,404 --> 00:13:50,790
+we used to have to use.
+
+245
+00:13:51,090 --> 00:13:53,080
+Good rules to.
+
+246
+00:13:54,690 --> 00:13:57,486
+To do it so that we
+
+247
+00:13:57,486 --> 00:14:00,282
+can to get duplicate disclaimers but
+
+248
+00:14:00,282 --> 00:14:03,157
+single rule from. From
+
+249
+00:14:03,157 --> 00:14:06,008
+blue point was working just fine, so
+
+250
+00:14:06,008 --> 00:14:07,230
+explained some others.
+
+251
+00:14:14,250 --> 00:14:16,907
+I think once we get the
+
+252
+00:14:16,907 --> 00:14:19,563
+groups and everything synced up we
+
+253
+00:14:19,563 --> 00:14:22,220
+can do a little bit better.
+
+254
+00:14:23,270 --> 00:14:26,024
+Working as well because we have a lot of
+
+255
+00:14:26,024 --> 00:14:28,290
+um. Well, that's good.
+
+256
+00:14:29,900 --> 00:14:32,504
+Yeah, yeah, yeah. So 100% correct. That
+
+257
+00:14:32,504 --> 00:14:35,481
+would help a lot. Once we get the
+
+258
+00:14:35,481 --> 00:14:38,457
+the sync up, do we want to look
+
+259
+00:14:38,457 --> 00:14:41,434
+at that at all? I, I've done many,
+
+260
+00:14:41,434 --> 00:14:42,550
+many dozens of.
+
+261
+00:14:44,490 --> 00:14:47,370
+User report and Azure SSO integrations.
+
+262
+00:14:49,700 --> 00:14:52,526
+I think that I know is the setting it up
+
+263
+00:14:52,526 --> 00:14:54,787
+right. So I have no insight into that
+
+264
+00:14:54,787 --> 00:14:56,200
+part right now. OK, Ryan.
+
+265
+00:14:57,640 --> 00:15:00,368
+Said. And just
+
+266
+00:15:00,368 --> 00:15:02,776
+offering some real time expertise if it
+
+267
+00:15:02,776 --> 00:15:05,528
+was me. No, no, it's been great. So
+
+268
+00:15:05,528 --> 00:15:07,936
+yeah, I'll ping you whether I have
+
+269
+00:15:07,936 --> 00:15:09,1000
+questions. Exactly what I've been doing.
+
+270
+00:15:12,660 --> 00:15:14,350
+And when we run into issues like.
+
+271
+00:15:18,890 --> 00:15:21,641
+So Tim, what would the question be
+
+272
+00:15:21,641 --> 00:15:23,605
+open that anything outside of
+
+273
+00:15:23,605 --> 00:15:25,570
+out-of-the-box or standard, you know?
+
+274
+00:15:26,1000 --> 00:15:29,450
+Rules that were already imported.
+
+275
+00:15:29,450 --> 00:15:31,900
+Anything beyond that called the
+
+276
+00:15:31,900 --> 00:15:33,370
+spreadsheet. Should we?
+
+277
+00:15:34,610 --> 00:15:37,250
+That was going to be uploading either to
+
+278
+00:15:37,250 --> 00:15:40,220
+the share or shared with us. So I can
+
+279
+00:15:40,220 --> 00:15:42,860
+go through it. I can't remember that. I
+
+280
+00:15:42,860 --> 00:15:44,840
+just, I do think Daniel uploaded
+
+281
+00:15:44,840 --> 00:15:47,150
+especially of the rules as well. Yeah,
+
+282
+00:15:47,150 --> 00:15:50,120
+that was up before. I don't know, let me
+
+283
+00:15:50,120 --> 00:15:52,760
+mark off some time to actually go through
+
+284
+00:15:52,760 --> 00:15:55,427
+those more closely because that was. And
+
+285
+00:15:55,427 --> 00:15:57,897
+before decisions, just yes,
+
+286
+00:15:57,897 --> 00:15:59,750
+move everything defacto.
+
+287
+00:16:00,980 --> 00:16:03,579
+So I think looking on the proof point
+
+288
+00:16:03,579 --> 00:16:06,502
+side may be the better way and and I
+
+289
+00:16:06,502 --> 00:16:09,425
+live in that interface. So what I can do
+
+290
+00:16:09,425 --> 00:16:12,349
+is just run a quick export of all of
+
+291
+00:16:12,349 --> 00:16:14,298
+the e-mail firewall rules, just quickly
+
+292
+00:16:14,298 --> 00:16:16,571
+eliminate the four or five that are
+
+293
+00:16:16,571 --> 00:16:18,520
+default rules and create a spreadsheet
+
+294
+00:16:18,520 --> 00:16:19,170
+from that.
+
+295
+00:16:22,450 --> 00:16:24,688
+Yeah. So I think what you're saying,
+
+296
+00:16:24,688 --> 00:16:26,926
+Daniel, may have been uploaded at the
+
+297
+00:16:26,926 --> 00:16:29,165
+initiation of the project, but not since
+
+298
+00:16:29,165 --> 00:16:30,763
+we've learned recent developments. We
+
+299
+00:16:30,763 --> 00:16:32,682
+want to eliminate assumptions. Let's call
+
+300
+00:16:32,682 --> 00:16:34,920
+it the latest and greatest, we'll call
+
+301
+00:16:34,920 --> 00:16:37,698
+it. OK.
+
+302
+00:16:37,698 --> 00:16:39,574
+Wouldn't hurt that. You can take another
+
+303
+00:16:39,574 --> 00:16:42,255
+look at how we set it up and whether you
+
+304
+00:16:42,255 --> 00:16:44,399
+think it's the wrong way or not, right?
+
+305
+00:16:44,399 --> 00:16:46,543
+Yeah, that is definitely going to be at
+
+306
+00:16:46,543 --> 00:16:48,956
+least a couple of hours. So let me find
+
+307
+00:16:48,956 --> 00:16:51,368
+some time on my calendar and I will, I
+
+308
+00:16:51,368 --> 00:16:52,440
+will block that out.
+
+309
+00:16:58,380 --> 00:17:00,157
+Yeah, because I'm not seeing it here now,
+
+310
+00:17:00,157 --> 00:17:01,490
+so I want to make sure.
+
+311
+00:17:03,040 --> 00:17:05,460
+So on that note.
+
+312
+00:17:06,900 --> 00:17:09,090
+The summary takeaways and sorry team, I
+
+313
+00:17:09,090 --> 00:17:11,907
+thought I sent this out to them. I'm not
+
+314
+00:17:11,907 --> 00:17:14,723
+100% sure. I mean I go send them out
+
+315
+00:17:14,723 --> 00:17:17,539
+every day, but we had a follow up which
+
+316
+00:17:17,539 --> 00:17:20,042
+I think we've addressed for the back end
+
+317
+00:17:20,042 --> 00:17:22,233
+support, but was that the group based
+
+318
+00:17:22,233 --> 00:17:24,110
+routing? Did we cover all that?
+
+319
+00:17:26,330 --> 00:17:28,962
+That's what Jim was just saying. And yes
+
+320
+00:17:28,962 --> 00:17:31,266
+exactly, I'm assuming it's working so but
+
+321
+00:17:31,266 --> 00:17:34,227
+we need to see what the, I guess the
+
+322
+00:17:34,227 --> 00:17:36,860
+back end says what was causing the issue.
+
+323
+00:17:42,610 --> 00:17:45,346
+If we address the SMTP connection
+
+324
+00:17:45,346 --> 00:17:47,170
+failure to Office 365.
+
+325
+00:17:48,200 --> 00:17:50,776
+Yeah, that's what I mentioned it. It was
+
+326
+00:17:50,776 --> 00:17:51,420
+a FQDN.
+
+327
+00:17:53,900 --> 00:17:56,899
+OK, so. Looks like we
+
+328
+00:17:56,899 --> 00:17:58,965
+got a lot of it crossed off. Those are
+
+329
+00:17:58,965 --> 00:18:00,801
+the primaries, so let me just see if
+
+330
+00:18:00,801 --> 00:18:01,260
+anything else.
+
+331
+00:18:13,270 --> 00:18:16,012
+Most of the stuff is later in July, a
+
+332
+00:18:16,012 --> 00:18:17,840
+couple of weeks out with Anya.
+
+333
+00:18:19,350 --> 00:18:21,880
+You know, around SSO and things likethat.
+
+334
+00:18:30,180 --> 00:18:32,388
+The end user experience testing, I think
+
+335
+00:18:32,388 --> 00:18:35,228
+we want to set up a separate session to
+
+336
+00:18:35,228 --> 00:18:37,751
+talk through that or after the 4th, one
+
+337
+00:18:37,751 --> 00:18:40,275
+of the things we talked about, you know,
+
+338
+00:18:40,275 --> 00:18:42,168
+the team perception or assumption was
+
+339
+00:18:42,168 --> 00:18:44,981
+maybe do it later. We'd like to review
+
+340
+00:18:44,981 --> 00:18:47,924
+it with Justin and everyone to kind of
+
+341
+00:18:47,924 --> 00:18:50,867
+get some input to make sure we don't
+
+342
+00:18:50,867 --> 00:18:53,442
+miss miss any opportunities to share best
+
+343
+00:18:53,442 --> 00:18:56,384
+practices, which I can do after the next
+
+344
+00:18:56,384 --> 00:18:57,120
+week's holidays.
+
+345
+00:18:59,610 --> 00:19:02,451
+The MX record for the pack
+
+346
+00:19:02,451 --> 00:19:05,293
+domain is complete the cutover of
+
+347
+00:19:05,293 --> 00:19:06,240
+the domains.
+
+348
+00:19:09,830 --> 00:19:12,190
+I mean that that those are all the
+
+349
+00:19:12,190 --> 00:19:13,960
+primaries as far as key takeaways.
+
+350
+00:19:15,870 --> 00:19:18,793
+I think we're really in a space where we
+
+351
+00:19:18,793 --> 00:19:21,066
+need to turn our attention to testing
+
+352
+00:19:21,066 --> 00:19:23,664
+once the SSO is configured. I think we
+
+353
+00:19:23,664 --> 00:19:26,262
+had a question question open. I have to
+
+354
+00:19:26,262 --> 00:19:28,535
+follow up with the account team about
+
+355
+00:19:28,535 --> 00:19:28,860
+encryption.
+
+356
+00:19:33,120 --> 00:19:35,404
+That's it. Am I missing anything else?
+
+357
+00:19:35,404 --> 00:19:38,220
+Team?No question.
+
+358
+00:19:38,220 --> 00:19:40,742
+We talked in regards to encryption, in
+
+359
+00:19:40,742 --> 00:19:43,264
+regards to encryption stuff, SER, is it
+
+360
+00:19:43,264 --> 00:19:45,785
+possible to set up a separate call?
+
+361
+00:19:45,785 --> 00:19:48,667
+Because it's probably going to be just a
+
+362
+00:19:48,667 --> 00:19:51,549
+one time call, so we could ask all
+
+363
+00:19:51,549 --> 00:19:53,710
+the questions we have around that.
+
+364
+00:19:56,110 --> 00:19:58,346
+They should be dead already. Submission
+
+365
+00:19:58,346 --> 00:20:01,328
+we need. Is that OK? I think we
+
+366
+00:20:01,328 --> 00:20:03,192
+would definitely want because there
+
+367
+00:20:03,192 --> 00:20:06,174
+seemed to be a lot of work that
+
+368
+00:20:06,174 --> 00:20:08,783
+you guys are obviously working on 2nd
+
+369
+00:20:08,783 --> 00:20:11,765
+with Daniel and Jet. I hate to take
+
+370
+00:20:11,765 --> 00:20:14,747
+time away from that work on these calls
+
+371
+00:20:14,747 --> 00:20:17,476
+well. You know, that's a great point, but
+
+372
+00:20:17,476 --> 00:20:20,030
+what we can do or what I can offer
+
+373
+00:20:20,030 --> 00:20:22,301
+working with Dave or your lead, I'll set
+
+374
+00:20:22,301 --> 00:20:25,138
+it up from our side is it seems we're at
+
+375
+00:20:25,138 --> 00:20:27,976
+a place where SAG is, is as far as we
+
+376
+00:20:27,976 --> 00:20:30,246
+can bring it until they, you know, until
+
+377
+00:20:30,246 --> 00:20:33,170
+the. We called DSO the
+
+378
+00:20:33,170 --> 00:20:35,532
+and all those things that kind of
+
+379
+00:20:35,532 --> 00:20:37,556
+finalized with the user experience and
+
+380
+00:20:37,556 --> 00:20:40,255
+all of that in July is pending. We
+
+381
+00:20:40,255 --> 00:20:42,955
+have some work to do with that. And
+
+382
+00:20:42,955 --> 00:20:45,317
+then while that's kind of pending which
+
+383
+00:20:45,317 --> 00:20:48,016
+you feel we could use one of these
+
+384
+00:20:48,016 --> 00:20:50,040
+already scheduled working sessions on a
+
+385
+00:20:50,040 --> 00:20:51,390
+Tuesday. Sure, absolutely, absolutely.
+
+386
+00:20:51,630 --> 00:20:52,876
+Whatever it's called, everyone's
+
+387
+00:20:52,876 --> 00:20:54,433
+cultural. Yeah, absolutely. Exactly. Call
+
+388
+00:20:54,433 --> 00:20:57,235
+it the SER session Now to that. OK, Dan,
+
+389
+00:20:57,235 --> 00:20:59,727
+Dan, do we drive it from our we're
+
+390
+00:20:59,727 --> 00:21:01,595
+starting from scratch, let's go through
+
+391
+00:21:01,595 --> 00:21:04,398
+all things SER. Or do we ask this team,
+
+392
+00:21:04,398 --> 00:21:07,200
+what do you want to cover? What are some
+
+393
+00:21:07,200 --> 00:21:09,692
+of the nuances you'd like to address in
+
+394
+00:21:09,692 --> 00:21:11,560
+that session? Either or So basically.
+
+395
+00:21:11,630 --> 00:21:14,575
+Just to quickly update you on that, what
+
+396
+00:21:14,575 --> 00:21:17,519
+we have already set up, trying to set
+
+397
+00:21:17,519 --> 00:21:20,464
+up an example and make sure things are
+
+398
+00:21:20,464 --> 00:21:23,408
+working. So we already set up a user
+
+399
+00:21:23,408 --> 00:21:25,985
+management relay accounts so we could use
+
+400
+00:21:25,985 --> 00:21:28,929
+for relaying emails and we have set up
+
+401
+00:21:28,929 --> 00:21:31,874
+a rule to encrypt those emails with a
+
+402
+00:21:31,874 --> 00:21:34,365
+specific keyboard. And it's working. The
+
+403
+00:21:34,365 --> 00:21:36,719
+emails are being sent to the external
+
+404
+00:21:36,719 --> 00:21:39,073
+user. Let's say on Hotmail account I
+
+405
+00:21:39,073 --> 00:21:41,427
+received the e-mail. It's just that when
+
+406
+00:21:41,427 --> 00:21:44,117
+I click on it, of course it doesn't
+
+407
+00:21:44,117 --> 00:21:46,807
+go to anywhere because I have to set
+
+408
+00:21:46,807 --> 00:21:49,497
+up the website. So I have set up
+
+409
+00:21:49,497 --> 00:21:51,851
+the request for the sub domain. It's
+
+410
+00:21:51,851 --> 00:21:54,433
+called TDE encrypt. Path.com that's going
+
+411
+00:21:54,433 --> 00:21:57,310
+to be set up soon. I have
+
+412
+00:21:57,310 --> 00:21:59,776
+some questions around that because Daniel
+
+413
+00:21:59,776 --> 00:22:02,653
+told me that we also need a
+
+414
+00:22:02,653 --> 00:22:05,530
+C name to basically reroute that to.
+
+415
+00:22:06,910 --> 00:22:09,699
+I suppose that a proof point that provide
+
+416
+00:22:09,699 --> 00:22:11,790
+address, yeah. I have some questions
+
+417
+00:22:11,790 --> 00:22:14,230
+around the certificate that we need to
+
+418
+00:22:14,230 --> 00:22:17,019
+get. Is it going to be for the
+
+419
+00:22:17,019 --> 00:22:19,808
+first URL or is that a certificate for
+
+420
+00:22:19,808 --> 00:22:22,248
+the second URL that it's rerouted to
+
+421
+00:22:22,248 --> 00:22:24,688
+submit questions for the one within your
+
+422
+00:22:24,688 --> 00:22:26,780
+domain that's for the first, OK.
+
+423
+00:22:28,480 --> 00:22:31,139
+I just want to make sure I whatever
+
+424
+00:22:31,139 --> 00:22:33,798
+question I have, I'm going to just list
+
+425
+00:22:33,798 --> 00:22:36,457
+them and in that session I'll ask them
+
+426
+00:22:36,457 --> 00:22:39,116
+all. So that way I have a overall
+
+427
+00:22:39,116 --> 00:22:41,110
+understanding of how things work. Of
+
+428
+00:22:41,110 --> 00:22:43,437
+course, and not trying to be flippant
+
+429
+00:22:43,437 --> 00:22:45,763
+here that the domain and the certificate
+
+430
+00:22:45,763 --> 00:22:47,758
+are really just give those external
+
+431
+00:22:47,758 --> 00:22:50,426
+recipients. Gmail.com the warm and
+
+432
+00:22:50,426 --> 00:22:53,323
+fuzzies that they are clicking on a
+
+433
+00:22:53,323 --> 00:22:56,220
+domain that is at least managed and
+
+434
+00:22:56,220 --> 00:22:58,290
+condoned by your organization. Exactly.
+
+435
+00:22:58,290 --> 00:23:01,187
+That makes sense, but that's what they're
+
+436
+00:23:01,187 --> 00:23:04,084
+going to see in the emails and
+
+437
+00:23:04,084 --> 00:23:05,740
+notifications they receive, correct?
+
+438
+00:23:07,030 --> 00:23:08,240
+It's perfect sense.
+
+439
+00:23:14,370 --> 00:23:15,220
+Thank you.
+
+440
+00:23:32,970 --> 00:23:34,977
+If it's not too much, yeah. If you want
+
+441
+00:23:34,977 --> 00:23:36,985
+to share like a, you know, just like, you
+
+442
+00:23:36,985 --> 00:23:38,788
+know, click on the napkin. Few questions
+
+443
+00:23:38,788 --> 00:23:40,641
+ahead of time. Ohh, absolutely. Yeah,
+
+444
+00:23:40,641 --> 00:23:42,495
+yeah, yeah, that's right yeah. And
+
+445
+00:23:42,495 --> 00:23:44,348
+reminding everyone given next week's a
+
+446
+00:23:44,348 --> 00:23:47,129
+short week, I mean, we can cover it with
+
+447
+00:23:47,129 --> 00:23:49,909
+you then, but I I don't think I'll make
+
+448
+00:23:49,909 --> 00:23:52,689
+a leap of faith. It may be may might
+
+449
+00:23:52,689 --> 00:23:55,161
+not be the best time to cover something
+
+450
+00:23:55,161 --> 00:23:57,941
+if you want to get good detail on a
+
+451
+00:23:57,941 --> 00:24:00,758
+good. Look at context out of
+
+452
+00:24:00,758 --> 00:24:02,784
+it again, we're meeting Tuesday and
+
+453
+00:24:02,784 --> 00:24:05,147
+Thursday, but if you're off Wednesday and
+
+454
+00:24:05,147 --> 00:24:07,511
+we're off Friday, maybe we lose an
+
+455
+00:24:07,511 --> 00:24:10,212
+opportunity with some of the some of the
+
+456
+00:24:10,212 --> 00:24:12,575
+individuals who might have time off. I'm
+
+457
+00:24:12,575 --> 00:24:15,276
+just I'm guessing here, but we might take
+
+458
+00:24:15,276 --> 00:24:17,977
+advantage of what is it July 6th or
+
+459
+00:24:17,977 --> 00:24:20,521
+sure yeah, just. Thought I could talk to
+
+460
+00:24:20,521 --> 00:24:22,826
+Dan about it what what his preference is,
+
+461
+00:24:22,826 --> 00:24:25,420
+but I want to give this the attention and
+
+462
+00:24:25,420 --> 00:24:28,301
+the and the time it may need and I don't
+
+463
+00:24:28,301 --> 00:24:30,895
+want to like end up cutting it short or
+
+464
+00:24:30,895 --> 00:24:32,912
+losing people because of out of office
+
+465
+00:24:32,912 --> 00:24:35,217
+and stuff. Just the thought. OK OK again
+
+466
+00:24:35,217 --> 00:24:37,523
+we can we'll try it Tuesday. That's that
+
+467
+00:24:37,523 --> 00:24:39,540
+Hey, we're here. But if it gets.
+
+468
+00:24:39,740 --> 00:24:42,133
+Disjointed or or broken, we can always
+
+469
+00:24:42,133 --> 00:24:44,525
+revisit it the following week as well
+
+470
+00:24:44,525 --> 00:24:47,260
+because we have some time, but let's take
+
+471
+00:24:47,260 --> 00:24:49,995
+advantage of it. I'll break it out on
+
+472
+00:24:49,995 --> 00:24:52,729
+the agenda as an SI discussion. These are
+
+473
+00:24:52,729 --> 00:24:55,464
+the topics and we'll take it from there.
+
+474
+00:24:55,464 --> 00:24:57,515
+That's fantastic. Thank you. Work for
+
+475
+00:24:57,515 --> 00:24:58,540
+you, Mr. Wheeler.
+
+476
+00:25:00,620 --> 00:25:02,310
+Perfect. And then obviously.
+
+477
+00:25:09,610 --> 00:25:12,031
+And I, I will check with NAV there as
+
+478
+00:25:12,031 --> 00:25:14,182
+well too. I heard you earlier, Dan. I
+
+479
+00:25:14,182 --> 00:25:16,334
+didn't mean to skip over you. Ohh. No,
+
+480
+00:25:16,334 --> 00:25:17,410
+you're good. You're good.
+
+481
+00:25:35,420 --> 00:25:37,403
+I guess if there's nothing else, maybe we
+
+482
+00:25:37,403 --> 00:25:38,890
+can end this a little early.
+
+483
+00:25:42,270 --> 00:25:44,886
+I'm thinking out loud, coming back to I
+
+484
+00:25:44,886 --> 00:25:47,829
+think it was Daniel you had. I have to
+
+485
+00:25:47,829 --> 00:25:48,810
+send you documentation.
+
+486
+00:25:51,940 --> 00:25:53,830
+He might have dropped. Are you out there?
+
+487
+00:25:55,260 --> 00:25:57,394
+And you might not be honest. Yeah, you
+
+488
+00:25:57,394 --> 00:25:59,261
+might have. Alright, I'll go into. I'll
+
+489
+00:25:59,261 --> 00:26:01,661
+take care of that right now while I have
+
+490
+00:26:01,661 --> 00:26:03,795
+given. We have 30 minutes. I'll get that
+
+491
+00:26:03,795 --> 00:26:05,662
+covered. I'll go back through the action
+
+492
+00:26:05,662 --> 00:26:07,263
+items from Tuesday immediately just to
+
+493
+00:26:07,263 --> 00:26:09,130
+kind of make sure we covered everything.
+
+494
+00:26:10,360 --> 00:26:13,336
+And I'll sync up with Dave Reese on the
+
+495
+00:26:13,336 --> 00:26:15,651
+summaries tomorrow. Status will go up. So
+
+496
+00:26:15,651 --> 00:26:17,965
+for E messaging on track, there's some
+
+497
+00:26:17,965 --> 00:26:20,280
+open items that are coming up mid-july
+
+498
+00:26:20,280 --> 00:26:22,925
+that will get us, you know, into deeper
+
+499
+00:26:22,925 --> 00:26:25,571
+into testing. We'll ask and Dan, if you
+
+500
+00:26:25,571 --> 00:26:28,216
+will, I'll Dan Wheeler and I'll ask Dave
+
+501
+00:26:28,216 --> 00:26:30,704
+Reese looking for that list of. Updated
+
+502
+00:26:30,704 --> 00:26:32,710
+rules for refinement and review. Um,
+
+503
+00:26:32,710 --> 00:26:35,051
+Daniel's going to need some time to
+
+504
+00:26:35,051 --> 00:26:37,725
+evaluate that. So maybe July 3rd might be
+
+505
+00:26:37,725 --> 00:26:40,400
+a good time for you, Dan, because I
+
+506
+00:26:40,400 --> 00:26:43,075
+know how booked you are on work days,
+
+507
+00:26:43,075 --> 00:26:45,749
+but past that, we'll pick up SER topics
+
+508
+00:26:45,749 --> 00:26:48,424
+and items as well. This is, this is
+
+509
+00:26:48,424 --> 00:26:51,188
+an opportunity to get those covered. The
+
+510
+00:26:51,188 --> 00:26:53,972
+time to fix the roof is when the
+
+511
+00:26:53,972 --> 00:26:56,407
+sun is shining. So let's take advantage
+
+512
+00:26:56,407 --> 00:26:59,191
+of next week for some Q&A around SER
+
+513
+00:26:59,191 --> 00:27:01,975
+versus for Chad. And if we need to
+
+514
+00:27:01,975 --> 00:27:04,758
+come back to, we can. Thank you so
+
+515
+00:27:04,758 --> 00:27:07,542
+much. Yep. All right. Sounds like a plan
+
+516
+00:27:07,542 --> 00:27:10,285
+everyone. Appreciate you all.
+
+517
+00:27:10,285 --> 00:27:12,255
+Thank you. Thank you. Thank you,
+
+518
+00:27:12,255 --> 00:27:13,240
+everyone. Thanks. Bye.
