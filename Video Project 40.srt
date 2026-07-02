@@ -1,0 +1,4095 @@
+1
+00:00:00,160 --> 00:00:03,015
+Um, there's a meeting that's just going
+
+2
+00:00:03,015 --> 00:00:05,870
+wrong. OK, I'll just join you soon.
+
+3
+00:00:07,160 --> 00:00:09,810
+Right. OK, got that. Thanks.
+
+4
+00:00:30,090 --> 00:00:50,040
+
+
+5
+00:00:57,710 --> 00:00:58,300
+One question.
+
+6
+00:01:26,1000 --> 00:01:29,618
+Dave just give a shout out
+
+7
+00:01:29,618 --> 00:01:32,236
+when you feel we have the
+
+8
+00:01:32,236 --> 00:01:34,853
+right people. I see for shades
+
+9
+00:01:34,853 --> 00:01:37,471
+here. So to my agenda was
+
+10
+00:01:37,471 --> 00:01:40,308
+SER today. Yep. And what I'd
+
+11
+00:01:40,308 --> 00:01:42,800
+like to cover for that is, um.
+
+12
+00:01:44,180 --> 00:01:47,093
+Again, I I would I would I would
+
+13
+00:01:47,093 --> 00:01:50,007
+advise or suggest if we could just start
+
+14
+00:01:50,007 --> 00:01:52,920
+from the top from me to make sure
+
+15
+00:01:52,920 --> 00:01:55,833
+when I update my project plan, I'd like
+
+16
+00:01:55,833 --> 00:01:58,747
+to evaluate where we are for SER the
+
+17
+00:01:58,747 --> 00:02:00,567
+instance configuration setup and then
+
+18
+00:02:00,567 --> 00:02:01,660
+understand from the.
+
+19
+00:02:03,140 --> 00:02:05,954
+TD team past that, what you're
+
+20
+00:02:05,954 --> 00:02:08,767
+what you're what you're sort of
+
+21
+00:02:08,767 --> 00:02:11,581
+strategy is for testing and preparing
+
+22
+00:02:11,581 --> 00:02:13,925
+for cutover for the application
+
+23
+00:02:13,925 --> 00:02:16,270
+environment. Does that make sense?
+
+24
+00:02:20,510 --> 00:02:23,155
+So I would say in a in a simple sense,
+
+25
+00:02:23,155 --> 00:02:25,007
+just make sure that we have the
+
+26
+00:02:25,007 --> 00:02:26,330
+requirements captured for the plan.
+
+27
+00:02:33,240 --> 00:02:35,581
+No, it's done. That's great. No, that's
+
+28
+00:02:35,581 --> 00:02:38,257
+for you Every it's for us. It's for
+
+29
+00:02:38,257 --> 00:02:39,930
+you. It's it's easy bank.
+
+30
+00:02:41,540 --> 00:02:44,403
+Right. I
+
+31
+00:02:44,403 --> 00:02:46,525
+was saying to others asking Daniel and
+
+32
+00:02:46,525 --> 00:02:49,253
+Jet if they're OK with you can start this
+
+33
+00:02:49,253 --> 00:02:51,677
+on Sarah without them. And then the only
+
+34
+00:02:51,677 --> 00:02:54,405
+the only other item I had on the agenda
+
+35
+00:02:54,405 --> 00:02:56,830
+if time permits, if I could ask a
+
+36
+00:02:56,830 --> 00:02:59,255
+question, Dave for you to follow up with
+
+37
+00:02:59,255 --> 00:03:02,120
+the TD team is the. How
+
+38
+00:03:02,120 --> 00:03:04,845
+do we, how do we keep the, the
+
+39
+00:03:04,845 --> 00:03:07,228
+hardware, the the design and the hardware
+
+40
+00:03:07,228 --> 00:03:09,612
+deployment? I know we were talking about
+
+41
+00:03:09,612 --> 00:03:11,655
+having that discussion around that in
+
+42
+00:03:11,655 --> 00:03:14,379
+June. If we can add that to an
+
+43
+00:03:14,379 --> 00:03:17,103
+agenda. So when we bring it to Dan,
+
+44
+00:03:17,103 --> 00:03:19,827
+my Dan, Dan wheel is attention. We say,
+
+45
+00:03:19,827 --> 00:03:21,870
+hey here, here's the hardware refresh.
+
+46
+00:03:21,940 --> 00:03:24,904
+This is the design we talked about way
+
+47
+00:03:24,904 --> 00:03:27,869
+back in April. This is the one we
+
+48
+00:03:27,869 --> 00:03:30,834
+want to certify and we talked about that
+
+49
+00:03:30,834 --> 00:03:32,686
+hardware replacement strategy or planning
+
+50
+00:03:32,686 --> 00:03:35,280
+session and what you're going to be
+
+51
+00:03:35,280 --> 00:03:38,245
+asking of Dan Wheeler for that setup and
+
+52
+00:03:38,245 --> 00:03:40,468
+and certification. All right. So yeah,
+
+53
+00:03:40,468 --> 00:03:43,152
+that sounds good. Your object and
+
+54
+00:03:43,152 --> 00:03:45,956
+yeah, Danielle and everyone here. OK, so
+
+55
+00:03:45,956 --> 00:03:47,959
+because they're, they're, they're gonna
+
+56
+00:03:47,959 --> 00:03:50,763
+have the provision then. So yeah, so
+
+57
+00:03:50,763 --> 00:03:53,568
+they're supposed to be racked and stacked
+
+58
+00:03:53,568 --> 00:03:55,170
+by this weekend. Yeah.
+
+59
+00:03:56,910 --> 00:03:59,221
+Almost finished already. So yeah, so and
+
+60
+00:03:59,221 --> 00:04:02,193
+again, I don't want to steal this like I
+
+61
+00:04:02,193 --> 00:04:05,164
+don't want to go off. Let's focus on SER
+
+62
+00:04:05,164 --> 00:04:08,136
+today. We're ready to go and then as long
+
+63
+00:04:08,136 --> 00:04:10,447
+as we we plan accordingly and be
+
+64
+00:04:10,447 --> 00:04:12,758
+considered to all our team for going
+
+65
+00:04:12,758 --> 00:04:14,739
+forward for that, for that discussion
+
+66
+00:04:14,739 --> 00:04:17,015
+around the hardware replacement, OK. All
+
+67
+00:04:17,015 --> 00:04:18,140
+right, sounds good.
+
+68
+00:04:23,130 --> 00:04:25,947
+Alright, SER is secure e-mail relay.
+
+69
+00:04:25,947 --> 00:04:28,764
+It is essentially a system by
+
+70
+00:04:28,764 --> 00:04:31,581
+proof point that is designed to
+
+71
+00:04:31,581 --> 00:04:33,929
+take transaction slash something like.
+
+72
+00:04:33,929 --> 00:04:36,746
+Sorry, just getting a little bit
+
+73
+00:04:36,746 --> 00:04:39,563
+of feedback there. It's a system
+
+74
+00:04:39,563 --> 00:04:42,380
+that is designed to take transactional
+
+75
+00:04:42,380 --> 00:04:45,028
+AKA. Automated traffic and send it
+
+76
+00:04:45,028 --> 00:04:47,402
+outbound and legitimize it through the
+
+77
+00:04:47,402 --> 00:04:50,172
+use of two dedicated IP addresses where
+
+78
+00:04:50,172 --> 00:04:52,942
+you can update your SPF records or
+
+79
+00:04:52,942 --> 00:04:55,712
+it can apply a DKIM signature on
+
+80
+00:04:55,712 --> 00:04:58,482
+that outbound e-mail so that you can
+
+81
+00:04:58,482 --> 00:05:01,251
+do either or you can do both.
+
+82
+00:05:01,251 --> 00:05:03,900
+Essentially you could be 100%. Mark
+
+83
+00:05:03,900 --> 00:05:06,260
+compliant with those automated
+
+84
+00:05:06,260 --> 00:05:08,030
+transactional outbound emails.
+
+85
+00:05:09,390 --> 00:05:12,299
+And do feel free to pause me, ask me to
+
+86
+00:05:12,299 --> 00:05:14,626
+stop if you have any questions at all
+
+87
+00:05:14,626 --> 00:05:16,080
+during the course of this.
+
+88
+00:05:18,190 --> 00:05:20,966
+So SER is essentially 2 separate
+
+89
+00:05:20,966 --> 00:05:23,742
+layers. We have what is called
+
+90
+00:05:23,742 --> 00:05:26,518
+the authentication layer. That is a
+
+91
+00:05:26,518 --> 00:05:29,294
+method where we will take a
+
+92
+00:05:29,294 --> 00:05:32,070
+username and password and send emails
+
+93
+00:05:32,070 --> 00:05:34,847
+up to. Another way of calling
+
+94
+00:05:34,847 --> 00:05:37,771
+it is the SCR cloud. There's
+
+95
+00:05:37,771 --> 00:05:40,277
+some and that username is
+
+96
+00:05:40,277 --> 00:05:42,784
+identified as your organization specific
+
+97
+00:05:42,784 --> 00:05:45,290
+meaning because it is username
+
+98
+00:05:45,290 --> 00:05:47,796
+and password. And further we
+
+99
+00:05:47,796 --> 00:05:50,302
+can restrict it via IP
+
+100
+00:05:50,302 --> 00:05:52,809
+address if you want. We
+
+101
+00:05:52,809 --> 00:05:55,315
+identify it as de facto
+
+102
+00:05:55,315 --> 00:05:57,944
+TD banks outbound e-mail. We
+
+103
+00:05:57,944 --> 00:06:00,549
+will then route that to a
+
+104
+00:06:00,549 --> 00:06:03,154
+dedicated outbound TD Bank SER cluster
+
+105
+00:06:03,154 --> 00:06:05,758
+and that cluster is is what
+
+106
+00:06:05,758 --> 00:06:08,363
+has your dedicated IP addresses, your
+
+107
+00:06:08,363 --> 00:06:10,968
+two SER specific IP addresses and
+
+108
+00:06:10,968 --> 00:06:13,573
+where we can do that DKIM
+
+109
+00:06:13,573 --> 00:06:15,743
+signing. Furthermore, we can apply
+
+110
+00:06:15,743 --> 00:06:17,480
+additional filtering or different.
+
+111
+00:06:17,570 --> 00:06:20,455
+Routing options there as well and
+
+112
+00:06:20,455 --> 00:06:23,339
+that system will eventually have your
+
+113
+00:06:23,339 --> 00:06:26,224
+proof point, DLP and encryption services
+
+114
+00:06:26,224 --> 00:06:29,108
+as well. So any questions with
+
+115
+00:06:29,108 --> 00:06:30,070
+that then?
+
+116
+00:06:33,750 --> 00:06:36,306
+Is the authentication part going to be
+
+117
+00:06:36,306 --> 00:06:38,862
+multiple accounts or just expected to be
+
+118
+00:06:38,862 --> 00:06:41,784
+one account And we provide based on IP
+
+119
+00:06:41,784 --> 00:06:44,705
+at that point or as many accounts as
+
+120
+00:06:44,705 --> 00:06:47,262
+you need. So those accounts are called
+
+121
+00:06:47,262 --> 00:06:50,183
+relay users. And when we dive into the
+
+122
+00:06:50,183 --> 00:06:52,739
+product, we can absolutely do that in
+
+123
+00:06:52,739 --> 00:06:55,414
+just a little bit. Right now, whatever
+
+124
+00:06:55,414 --> 00:06:58,083
+you want here when we dive into
+
+125
+00:06:58,083 --> 00:07:00,753
+the product, we can create a sample
+
+126
+00:07:00,753 --> 00:07:03,422
+relay user and we can look at
+
+127
+00:07:03,422 --> 00:07:05,710
+all of the properties that individual
+
+128
+00:07:05,710 --> 00:07:08,379
+relay user has and then you can
+
+129
+00:07:08,379 --> 00:07:10,667
+build towards the individual user, right
+
+130
+00:07:10,667 --> 00:07:13,273
+or correct?In
+
+131
+00:07:13,273 --> 00:07:16,099
+fact, we can apply tags or parameters
+
+132
+00:07:16,099 --> 00:07:18,924
+to those relay users and those tags
+
+133
+00:07:18,924 --> 00:07:21,345
+can be assigned to individual application
+
+134
+00:07:21,345 --> 00:07:24,171
+owners for the purpose of data tracking
+
+135
+00:07:24,171 --> 00:07:26,996
+and eventually in the product, I believe
+
+136
+00:07:26,996 --> 00:07:29,821
+sometime during Q3 here, you will be
+
+137
+00:07:29,821 --> 00:07:32,646
+able to use those tags to allow
+
+138
+00:07:32,646 --> 00:07:34,968
+the. Application owners to modify their
+
+139
+00:07:34,968 --> 00:07:37,174
+relay users correctly. Not required, but
+
+140
+00:07:37,174 --> 00:07:39,380
+it's a nice option to have.
+
+141
+00:07:41,700 --> 00:07:44,416
+The big consideration typically with most
+
+142
+00:07:44,416 --> 00:07:47,131
+of the people I've worked with
+
+143
+00:07:47,131 --> 00:07:49,847
+on SER is well, we have
+
+144
+00:07:49,847 --> 00:07:52,563
+lots of applications that can't handle
+
+145
+00:07:52,563 --> 00:07:55,278
+SMTP authentication, IE they are very
+
+146
+00:07:55,278 --> 00:07:57,994
+simple e-mail sending systems only and
+
+147
+00:07:57,994 --> 00:08:00,710
+they don't know how to apply.
+
+148
+00:08:00,790 --> 00:08:03,601
+The username and password. In that case,
+
+149
+00:08:03,601 --> 00:08:06,412
+we are going to need an optional
+
+150
+00:08:06,412 --> 00:08:09,223
+third layer, or if you're looking at
+
+151
+00:08:09,223 --> 00:08:12,034
+it from a pipeline standpoint, a first
+
+152
+00:08:12,034 --> 00:08:14,845
+layer where we can send e-mail to
+
+153
+00:08:14,845 --> 00:08:17,656
+that first layer. In this case, we're
+
+154
+00:08:17,656 --> 00:08:20,467
+on Prem MPA's and then those on
+
+155
+00:08:20,467 --> 00:08:23,396
+Prem MTA's. Can send the e-mail to
+
+156
+00:08:23,396 --> 00:08:26,037
+the SER cloud layer which is where
+
+157
+00:08:26,037 --> 00:08:28,677
+we are giving it the username and
+
+158
+00:08:28,677 --> 00:08:30,941
+password to identify that traffic as
+
+159
+00:08:30,941 --> 00:08:32,450
+clearly TD banks traffic.
+
+160
+00:08:38,210 --> 00:08:40,060
+Any questions with that?
+
+161
+00:08:41,750 --> 00:08:44,563
+No. But when an application is assigned
+
+162
+00:08:44,563 --> 00:08:47,377
+to a username and password, is there
+
+163
+00:08:47,377 --> 00:08:50,190
+a limitation like you know how many
+
+164
+00:08:50,190 --> 00:08:53,004
+emails per day, how many emails per
+
+165
+00:08:53,004 --> 00:08:55,817
+hour and things like that? Just the
+
+166
+00:08:55,817 --> 00:08:57,827
+overall limitation by the system.
+
+167
+00:08:57,827 --> 00:09:00,238
+However, you as SER administrators are
+
+168
+00:09:00,238 --> 00:09:02,248
+going to apply your organizational
+
+169
+00:09:02,248 --> 00:09:04,677
+limitations. That you want if if
+
+170
+00:09:04,677 --> 00:09:07,026
+necessary. So on each individual relay
+
+171
+00:09:07,026 --> 00:09:09,766
+user you can set a cap of
+
+172
+00:09:09,766 --> 00:09:12,506
+number of messages, number of bytes, that
+
+173
+00:09:12,506 --> 00:09:13,680
+sort of thing.
+
+174
+00:09:15,800 --> 00:09:18,784
+OK. So
+
+175
+00:09:18,784 --> 00:09:21,475
+on the first layer, let's say that
+
+176
+00:09:21,475 --> 00:09:24,165
+they can't authenticate. Will we be using
+
+177
+00:09:24,165 --> 00:09:27,101
+the?Some people people profiler
+
+178
+00:09:27,101 --> 00:09:30,043
+to do that with the MTH. Yes, and
+
+179
+00:09:30,043 --> 00:09:32,617
+those MTA's are going to be separate
+
+180
+00:09:32,617 --> 00:09:33,720
+proof point clusters.
+
+181
+00:09:38,740 --> 00:09:41,572
+Do any of you have
+
+182
+00:09:41,572 --> 00:09:44,403
+access to the r.proofpoint.com admin
+
+183
+00:09:44,403 --> 00:09:47,130
+console?Yes, you too.
+
+184
+00:09:47,910 --> 00:09:50,868
+If I could get somebody to log into that
+
+185
+00:09:50,868 --> 00:09:53,498
+and share out their screen, I would like
+
+186
+00:09:53,498 --> 00:09:56,128
+to walk through the relay users and the
+
+187
+00:09:56,128 --> 00:09:58,100
+other areas of that admin console.
+
+188
+00:10:00,330 --> 00:10:03,330
+OK. I'll let me log in first.
+
+189
+00:10:03,330 --> 00:10:06,330
+Excellent. Thank you. Took care of that.
+
+190
+00:10:26,030 --> 00:10:46,030
+
+
+191
+00:10:47,360 --> 00:10:48,010
+Look here.
+
+192
+00:11:13,990 --> 00:11:15,566
+Alright, I see you started screen
+
+193
+00:11:15,566 --> 00:11:16,880
+sharing. Thank you for that.
+
+194
+00:11:18,770 --> 00:11:20,420
+No problem. Rustic.
+
+195
+00:11:27,880 --> 00:11:28,190
+Alright.
+
+196
+00:11:40,060 --> 00:11:43,041
+And look at that single sign on. It is
+
+197
+00:11:43,041 --> 00:11:45,028
+telling you that your organization has
+
+198
+00:11:45,028 --> 00:11:47,678
+not given you access to that. Yeah, it
+
+199
+00:11:47,678 --> 00:11:49,997
+was working, but they changed that. So
+
+200
+00:11:49,997 --> 00:11:52,978
+I've got to log into my pad VDI to
+
+201
+00:11:52,978 --> 00:11:55,627
+make that work one second. OK, Yeah, not
+
+202
+00:11:55,627 --> 00:11:56,290
+a problem.
+
+203
+00:11:59,480 --> 00:12:02,149
+Her point is a security company and
+
+204
+00:12:02,149 --> 00:12:04,436
+we don't we don't begrudge organizations
+
+205
+00:12:04,436 --> 00:12:05,580
+extra security features.
+
+206
+00:12:26,060 --> 00:12:46,060
+
+
+207
+00:13:05,380 --> 00:13:06,490
+Let's try again.
+
+208
+00:13:23,440 --> 00:13:23,900
+So.
+
+209
+00:13:35,170 --> 00:13:37,697
+Anybody else has access to
+
+210
+00:13:37,697 --> 00:13:40,224
+SCR until I fix my
+
+211
+00:13:40,224 --> 00:13:43,163
+path?Check do
+
+212
+00:13:43,163 --> 00:13:45,699
+you have access to SCR? I could try if
+
+213
+00:13:45,699 --> 00:13:48,234
+you want. Ohh good 'cause I was going to
+
+214
+00:13:48,234 --> 00:13:50,770
+say, not that I want to admit to it.
+
+215
+00:13:53,670 --> 00:13:56,322
+I'll fix this soon, I'll let you
+
+216
+00:13:56,322 --> 00:13:57,080
+guys know.
+
+217
+00:14:07,030 --> 00:14:07,680
+Hey.
+
+218
+00:14:26,210 --> 00:14:28,990
+Where am I here?
+
+219
+00:14:56,590 --> 00:14:57,270
+Chemistry.
+
+220
+00:14:59,720 --> 00:15:02,400
+OK. Just wanted to make sure.
+
+221
+00:15:14,260 --> 00:15:16,970
+All right, fantastic. So we are in
+
+222
+00:15:16,970 --> 00:15:19,681
+SER. I would recommend that we expand
+
+223
+00:15:19,681 --> 00:15:22,391
+that left hand side menu so that
+
+224
+00:15:22,391 --> 00:15:25,323
+it stays open and. To all see what
+
+225
+00:15:25,323 --> 00:15:27,621
+those options are. Perfect, Thank you. So
+
+226
+00:15:27,621 --> 00:15:30,248
+at the very top, we have the reporting
+
+227
+00:15:30,248 --> 00:15:32,546
+feature, not much use. So we actually
+
+228
+00:15:32,546 --> 00:15:34,515
+have traffic going through here. Notice
+
+229
+00:15:34,515 --> 00:15:36,814
+the no data available, we haven't sent
+
+230
+00:15:36,814 --> 00:15:39,440
+anything through at all, but you can look
+
+231
+00:15:39,440 --> 00:15:41,410
+to see your overall quota here.
+
+232
+00:15:42,680 --> 00:15:45,563
+The usage forecasts and usage trends. In
+
+233
+00:15:45,563 --> 00:15:48,447
+addition, there are tabs up at the
+
+234
+00:15:48,447 --> 00:15:51,331
+top. We have the data usage report,
+
+235
+00:15:51,331 --> 00:15:54,214
+but the failures report can be extremely
+
+236
+00:15:54,214 --> 00:15:56,686
+handy and determining why messages aren't
+
+237
+00:15:56,686 --> 00:15:59,429
+going out. And
+
+238
+00:15:59,429 --> 00:16:02,157
+we did some traffic through it, very
+
+239
+00:16:02,157 --> 00:16:04,496
+little, right, Just testing and stuff
+
+240
+00:16:04,496 --> 00:16:07,223
+like that. But as you can see,
+
+241
+00:16:07,223 --> 00:16:09,562
+just just tested. Fantastic. Yeah, just
+
+242
+00:16:09,562 --> 00:16:11,900
+nothing in the past seven days.
+
+243
+00:16:13,170 --> 00:16:14,831
+Then please click on the Show your
+
+244
+00:16:14,831 --> 00:16:15,780
+support at the top.
+
+245
+00:16:18,060 --> 00:16:20,800
+And then she's that one for the last
+
+246
+00:16:20,800 --> 00:16:23,540
+30 days as well. So in this, we
+
+247
+00:16:23,540 --> 00:16:26,280
+can go ahead and click and get more
+
+248
+00:16:26,280 --> 00:16:29,068
+details on those failures. And,
+
+249
+00:16:29,068 --> 00:16:31,715
+and yeah, you can click on the
+
+250
+00:16:31,715 --> 00:16:34,362
+individual viewer users and it will tell
+
+251
+00:16:34,362 --> 00:16:36,630
+you why it failed, policy violations,
+
+252
+00:16:36,630 --> 00:16:38,899
+filterings or delivery failures, which is
+
+253
+00:16:38,899 --> 00:16:41,168
+typically that preceding side. So this
+
+254
+00:16:41,168 --> 00:16:43,815
+can be a very useful console as
+
+255
+00:16:43,815 --> 00:16:46,084
+well for determining why messages aren't
+
+256
+00:16:46,084 --> 00:16:46,840
+going out.
+
+257
+00:16:55,330 --> 00:16:57,488
+Let's jump over to Relay user management,
+
+258
+00:16:57,488 --> 00:16:59,955
+please. And we, I'm sure you know about
+
+259
+00:16:59,955 --> 00:17:02,114
+this already if you send text messages
+
+260
+00:17:02,114 --> 00:17:04,889
+out, but this is where we can create and
+
+261
+00:17:04,889 --> 00:17:07,048
+modify Relay because this is more for
+
+262
+00:17:07,048 --> 00:17:09,631
+everybody else on the call. Let's go
+
+263
+00:17:09,631 --> 00:17:12,213
+ahead and walk through creating an
+
+264
+00:17:12,213 --> 00:17:14,795
+additional test relay user. So First
+
+265
+00:17:14,795 --> 00:17:17,378
+off, that name is going to
+
+266
+00:17:17,378 --> 00:17:19,530
+be unique to your organization.
+
+267
+00:17:21,540 --> 00:17:24,404
+You can add in contacts, These are
+
+268
+00:17:24,404 --> 00:17:27,268
+people who will be emailed in the
+
+269
+00:17:27,268 --> 00:17:30,132
+event of critical issues and so that
+
+270
+00:17:30,132 --> 00:17:32,996
+other admins of this product can see
+
+271
+00:17:32,996 --> 00:17:35,861
+who to contact in the event of
+
+272
+00:17:35,861 --> 00:17:38,725
+non deliveries. This is where you would
+
+273
+00:17:38,725 --> 00:17:41,180
+most likely want to put in.
+
+274
+00:17:41,470 --> 00:17:44,183
+The business owners of the applications
+
+275
+00:17:44,183 --> 00:17:46,895
+that are utilized in each individual
+
+276
+00:17:46,895 --> 00:17:49,666
+relay user. I
+
+277
+00:17:49,666 --> 00:17:52,511
+do highly recommend creating as many tags
+
+278
+00:17:52,511 --> 00:17:55,355
+as you need for each individual or
+
+279
+00:17:55,355 --> 00:17:58,199
+relay user. Tags are going to be
+
+280
+00:17:58,199 --> 00:18:01,044
+used in currently the reporting so that
+
+281
+00:18:01,044 --> 00:18:03,888
+you can look at different areas of
+
+282
+00:18:03,888 --> 00:18:06,733
+traffic, you can assign tags for specific
+
+283
+00:18:06,733 --> 00:18:08,764
+applications, things like that. In
+
+284
+00:18:08,764 --> 00:18:11,275
+addition as I mentioned. Moving forward,
+
+285
+00:18:11,275 --> 00:18:14,130
+tags are going to be used for
+
+286
+00:18:14,130 --> 00:18:16,170
+security purposes to allow the.
+
+287
+00:18:38,720 --> 00:18:41,720
+Other Christians and can be reply.
+
+288
+00:18:41,720 --> 00:18:44,720
+Sorry, apply other restrictions. So First
+
+289
+00:18:44,720 --> 00:18:47,720
+off at the top we have
+
+290
+00:18:47,720 --> 00:18:50,720
+the username and address combinations, or
+
+291
+00:18:50,720 --> 00:18:53,720
+I should just say e-mail address
+
+292
+00:18:53,720 --> 00:18:56,720
+combinations. So it's going to be
+
+293
+00:18:56,720 --> 00:18:59,657
+the the header from. I'm not
+
+294
+00:18:59,657 --> 00:19:02,485
+saying that's the rewrite we went down.
+
+295
+00:19:02,485 --> 00:19:05,312
+One right here is going to be
+
+296
+00:19:05,312 --> 00:19:08,139
+the the from address and then the
+
+297
+00:19:08,139 --> 00:19:10,966
+header from. So the from address is
+
+298
+00:19:10,966 --> 00:19:13,793
+the envelope sender and you can put
+
+299
+00:19:13,793 --> 00:19:16,620
+in wild cards here. So for example,
+
+300
+00:19:16,620 --> 00:19:18,640
+you could put in asterisk@tdbank.com.
+
+301
+00:19:18,850 --> 00:19:21,470
+Her* at* Scotch ebank.com however
+
+302
+00:19:21,470 --> 00:19:24,090
+you want to choose that.
+
+303
+00:19:25,450 --> 00:19:27,771
+And I'm assuming that we could use
+
+304
+00:19:27,771 --> 00:19:29,430
+supplements, right? Like absolutely. And
+
+305
+00:19:29,430 --> 00:19:32,083
+you can Click to see what the current
+
+306
+00:19:32,083 --> 00:19:34,073
+cloud domains are for your organization.
+
+307
+00:19:34,073 --> 00:19:36,395
+If you click on view verified domains,
+
+308
+00:19:36,395 --> 00:19:39,380
+that will show it on the right hand side.
+
+309
+00:19:40,990 --> 00:19:43,790
+Yeah, yeah. We just had your PCI E
+
+310
+00:19:43,790 --> 00:19:45,190
+environment there for now.
+
+311
+00:19:48,670 --> 00:19:50,738
+And you can just do a like a copy and
+
+312
+00:19:50,738 --> 00:19:52,599
+paste from the mail from and put it in
+
+313
+00:19:52,599 --> 00:19:53,220
+the header from.
+
+314
+00:19:55,510 --> 00:19:58,016
+There are scenarios where you may want
+
+315
+00:19:58,016 --> 00:20:00,165
+those to be different. Generally we
+
+316
+00:20:00,165 --> 00:20:02,314
+recommend they be the same for
+
+317
+00:20:02,314 --> 00:20:05,311
+authentication purposes. So this would
+
+318
+00:20:05,311 --> 00:20:08,232
+just be just to be clear, this
+
+319
+00:20:08,232 --> 00:20:11,152
+one will restrict the sending to just
+
+320
+00:20:11,152 --> 00:20:13,945
+this. Correct this suddenly
+
+321
+00:20:13,945 --> 00:20:16,902
+yeah so in in fact you can restrict it
+
+322
+00:20:16,902 --> 00:20:19,530
+further if you wanted to put an address
+
+323
+00:20:19,530 --> 00:20:22,486
+in so if you put in no reply at
+
+324
+00:20:22,486 --> 00:20:25,443
+it could only go out with no reply at
+
+325
+00:20:25,443 --> 00:20:27,085
+you're restricting how those application
+
+326
+00:20:27,085 --> 00:20:29,713
+owners can send traffic so this is going
+
+327
+00:20:29,713 --> 00:20:32,670
+to be a big feature for us because we.
+
+328
+00:20:32,880 --> 00:20:35,731
+Who wants to do that? We
+
+329
+00:20:35,731 --> 00:20:38,583
+have going forward, we're going to
+
+330
+00:20:38,583 --> 00:20:41,434
+ask the land of businesses to
+
+331
+00:20:41,434 --> 00:20:44,285
+use statistics, sample means or if
+
+332
+00:20:44,285 --> 00:20:47,137
+not specific e-mail addresses and be
+
+333
+00:20:47,137 --> 00:20:49,988
+limited to just those right and
+
+334
+00:20:49,988 --> 00:20:52,840
+restrict from sending to and from.
+
+335
+00:20:52,920 --> 00:20:53,730
+If he does.
+
+336
+00:20:56,150 --> 00:20:59,107
+And this is going to be. Super
+
+337
+00:20:59,107 --> 00:21:02,094
+important when it comes to vendors.
+
+338
+00:21:02,094 --> 00:21:04,583
+Remain through, through, through, right?
+
+339
+00:21:04,583 --> 00:21:07,071
+Absolutely. Yeah. Specific addresses and
+
+340
+00:21:07,071 --> 00:21:10,058
+domains. Exactly. Exactly. So this is
+
+341
+00:21:10,058 --> 00:21:13,044
+the thing. So that doesn't match.
+
+342
+00:21:13,044 --> 00:21:16,031
+Did he get a bounce or
+
+343
+00:21:16,031 --> 00:21:18,520
+what exactly did he get?
+
+344
+00:21:18,830 --> 00:21:20,883
+You are sensational layer doesn't even
+
+345
+00:21:20,883 --> 00:21:23,279
+accept the traffic. You would get a
+
+346
+00:21:23,279 --> 00:21:26,016
+failure it it wouldn't even go to your
+
+347
+00:21:26,016 --> 00:21:28,070
+SER pod for outbound delivery. OK.
+
+348
+00:21:31,100 --> 00:21:33,944
+It would probably say the exact
+
+349
+00:21:33,944 --> 00:21:36,788
+error message would probably be local
+
+350
+00:21:36,788 --> 00:21:39,633
+policy violation and it would be
+
+351
+00:21:39,633 --> 00:21:42,477
+a 500 error message. That internal
+
+352
+00:21:42,477 --> 00:21:45,321
+recipient check box. It basically says
+
+353
+00:21:45,321 --> 00:21:48,165
+the recipients, all of them must
+
+354
+00:21:48,165 --> 00:21:51,010
+match the domains listed here and.
+
+355
+00:21:51,080 --> 00:21:53,256
+You can add in multiple addresses, but
+
+356
+00:21:53,256 --> 00:21:55,433
+that check box basically says we don't
+
+357
+00:21:55,433 --> 00:21:58,231
+want this to go out to the Internet. We
+
+358
+00:21:58,231 --> 00:22:01,029
+want this to stay on the domains that are
+
+359
+00:22:01,029 --> 00:22:03,206
+used in the mail from addressing header
+
+360
+00:22:03,206 --> 00:22:05,382
+from. So generally you don't want that
+
+361
+00:22:05,382 --> 00:22:07,559
+check box check off because the whole
+
+362
+00:22:07,559 --> 00:22:10,046
+point of this product is to legitimize to
+
+363
+00:22:10,046 --> 00:22:12,513
+less educate your e-mail. Going out to
+
+364
+00:22:12,513 --> 00:22:15,181
+the Internet? Yep. If you do have
+
+365
+00:22:15,181 --> 00:22:17,849
+multiple Sr. clusters you can select. In
+
+366
+00:22:17,849 --> 00:22:20,516
+this case we only have one SCR
+
+367
+00:22:20,516 --> 00:22:23,184
+cluster per account, so for your PE
+
+368
+00:22:23,184 --> 00:22:25,090
+account you only have one.
+
+369
+00:22:27,250 --> 00:22:29,912
+The IP's and CIR's are the
+
+370
+00:22:29,912 --> 00:22:32,574
+IP addresses or IP address ranges
+
+371
+00:22:32,574 --> 00:22:35,237
+that would be allowed to connect
+
+372
+00:22:35,237 --> 00:22:37,899
+to this authentication layer using this
+
+373
+00:22:37,899 --> 00:22:40,561
+relay. So sorry, then can we,
+
+374
+00:22:40,561 --> 00:22:43,224
+can we go back for a
+
+375
+00:22:43,224 --> 00:22:45,886
+second? Yeah, absolutely. So for the
+
+376
+00:22:45,886 --> 00:22:48,830
+cluster. ER right. You mentioned that
+
+377
+00:22:48,830 --> 00:22:51,590
+you can have multiple clusters per
+
+378
+00:22:51,590 --> 00:22:54,304
+fob. Right. In
+
+379
+00:22:54,304 --> 00:22:57,051
+this case, you currently have one proof
+
+380
+00:22:57,051 --> 00:22:59,797
+point hosted classes. That's the last in
+
+381
+00:22:59,797 --> 00:23:02,544
+the pipeline for SER. For the on
+
+382
+00:23:02,544 --> 00:23:05,290
+Prem MFA's you can absolutely have as
+
+383
+00:23:05,290 --> 00:23:08,037
+many clusters as you need. But for
+
+384
+00:23:08,037 --> 00:23:10,783
+this we only have, we can only
+
+385
+00:23:10,783 --> 00:23:13,530
+have one, so we cannot have two.
+
+386
+00:23:13,870 --> 00:23:15,973
+SCR clusters that provides two different
+
+387
+00:23:15,973 --> 00:23:18,076
+functionalities. You could you just have
+
+388
+00:23:18,076 --> 00:23:20,529
+not licensed those yet that would be
+
+389
+00:23:20,529 --> 00:23:22,983
+between you and your account team, but
+
+390
+00:23:22,983 --> 00:23:25,436
+you could certainly say, hey, you know
+
+391
+00:23:25,436 --> 00:23:27,890
+what, we want to complete these separate
+
+392
+00:23:27,890 --> 00:23:29,993
+Sr. cluster to do different filtering
+
+393
+00:23:29,993 --> 00:23:32,447
+into only send to trusted vendors and
+
+394
+00:23:32,447 --> 00:23:35,053
+then you could have your original. I'm
+
+395
+00:23:35,053 --> 00:23:38,037
+sending just more of a mass or bulk
+
+396
+00:23:38,037 --> 00:23:40,922
+emails. And
+
+397
+00:23:40,922 --> 00:23:43,780
+the and the.
+
+398
+00:23:44,390 --> 00:23:46,657
+Total throughput, it's still coming
+
+399
+00:23:46,657 --> 00:23:49,378
+coming from the same market no
+
+400
+00:23:49,378 --> 00:23:52,099
+matter how many HR clusters you
+
+401
+00:23:52,099 --> 00:23:54,820
+have. I believe so, but I'm
+
+402
+00:23:54,820 --> 00:23:57,541
+not sure. OK. So you're essentially
+
+403
+00:23:57,541 --> 00:24:00,262
+right, Daniel, right? Yeah. And I
+
+404
+00:24:00,262 --> 00:24:02,983
+know what our plan is to
+
+405
+00:24:02,983 --> 00:24:05,197
+have separate. Your environment or
+
+406
+00:24:05,197 --> 00:24:07,849
+perhaps and for UMP and then for
+
+407
+00:24:07,849 --> 00:24:10,123
+you know the associated P environments
+
+408
+00:24:10,123 --> 00:24:12,397
+and that's something that we've built
+
+409
+00:24:12,397 --> 00:24:14,671
+into the quote structure. We can
+
+410
+00:24:14,671 --> 00:24:17,324
+certainly review with you as needed on
+
+411
+00:24:17,324 --> 00:24:19,977
+that call that we've got next Wednesday,
+
+412
+00:24:19,977 --> 00:24:22,251
+but that's what we've accounted for
+
+413
+00:24:22,251 --> 00:24:25,152
+today. He was appreciative.
+
+414
+00:24:25,152 --> 00:24:27,700
+Don't change anything. I just I would
+
+415
+00:24:27,700 --> 00:24:30,612
+just give you the fact that that that
+
+416
+00:24:30,612 --> 00:24:33,161
+that mentioned that you could have moved
+
+417
+00:24:33,161 --> 00:24:35,709
+the ones. Now we're just trying to
+
+418
+00:24:35,709 --> 00:24:37,893
+understand the key scenario for for
+
+419
+00:24:37,893 --> 00:24:39,713
+having multiple clusters, right? That's
+
+420
+00:24:39,713 --> 00:24:42,625
+OK. Just wanted to confirm that you like
+
+421
+00:24:42,625 --> 00:24:44,810
+a single management interface for the.
+
+422
+00:24:45,490 --> 00:24:47,350
+The surgeon, yes.
+
+423
+00:24:48,840 --> 00:24:50,074
+Admin.console@startupproofpoint.com is on
+
+424
+00:24:50,074 --> 00:24:52,954
+a per quote UN quote customer basis.
+
+425
+00:24:52,954 --> 00:24:55,834
+So in this case, let's just say
+
+426
+00:24:55,834 --> 00:24:58,715
+that you decided to add an additional
+
+427
+00:24:58,715 --> 00:25:01,595
+proof we hosted SER cluster for PCE.
+
+428
+00:25:01,595 --> 00:25:04,475
+You would be able to select which
+
+429
+00:25:04,475 --> 00:25:06,944
+cluster you wanted that final outbound
+
+430
+00:25:06,944 --> 00:25:08,590
+delivery to go through.
+
+431
+00:25:15,190 --> 00:25:18,035
+So one more question before we
+
+432
+00:25:18,035 --> 00:25:20,880
+move to the IPS and Cidrs
+
+433
+00:25:20,880 --> 00:25:23,725
+in regards to in general recipient,
+
+434
+00:25:23,725 --> 00:25:26,570
+you said if I want to
+
+435
+00:25:26,570 --> 00:25:29,415
+force my application to only send
+
+436
+00:25:29,415 --> 00:25:31,398
+emails. Relay emails to internal
+
+437
+00:25:31,398 --> 00:25:33,541
+disappearance. I would check that check
+
+438
+00:25:33,541 --> 00:25:36,397
+mark so it ensures it doesn't go out
+
+439
+00:25:36,397 --> 00:25:39,254
+and it's only limited to what is defined
+
+440
+00:25:39,254 --> 00:25:41,754
+in the mail from address, right? Correct.
+
+441
+00:25:41,754 --> 00:25:44,610
+It would only be able to go to
+
+442
+00:25:44,610 --> 00:25:47,467
+the domain to find in the mail from,
+
+443
+00:25:47,467 --> 00:25:50,389
+no in the mail from address. Only
+
+444
+00:25:50,389 --> 00:25:53,326
+to find one domain. What if the
+
+445
+00:25:53,326 --> 00:25:55,844
+application is sending emails to multiple
+
+446
+00:25:55,844 --> 00:25:58,781
+internal domains? Is that a? Is that?
+
+447
+00:25:58,781 --> 00:26:01,718
+Is that a setup that can be
+
+448
+00:26:01,718 --> 00:26:04,655
+done within this relay user record? Or
+
+449
+00:26:04,655 --> 00:26:07,592
+does that require multiple of these So
+
+450
+00:26:07,592 --> 00:26:10,110
+you can add additional addresses here?
+
+451
+00:26:10,230 --> 00:26:13,174
+But there will only ever be one mail
+
+452
+00:26:13,174 --> 00:26:13,910
+from address.
+
+453
+00:26:19,430 --> 00:26:22,370
+Yes, that is correct. So there is
+
+454
+00:26:22,370 --> 00:26:25,310
+all there is there, all there is
+
+455
+00:26:25,310 --> 00:26:28,250
+only. OK, fair enough. So if I
+
+456
+00:26:28,250 --> 00:26:31,190
+check that check mark, it's going to
+
+457
+00:26:31,190 --> 00:26:33,710
+limit the functionality to that whatever
+
+458
+00:26:33,710 --> 00:26:36,650
+domain is specified in mail from address,
+
+459
+00:26:36,650 --> 00:26:39,390
+correct?Now if there are more,
+
+460
+00:26:39,390 --> 00:26:42,270
+if the e-mail is being sent to multiple
+
+461
+00:26:42,270 --> 00:26:44,790
+internal domains, what happens to the all
+
+462
+00:26:44,790 --> 00:26:47,310
+the other emails? They're going to get
+
+463
+00:26:47,310 --> 00:26:49,830
+bounced back or I believe it wouldn't
+
+464
+00:26:49,830 --> 00:26:51,630
+even accept the the e-mail.
+
+465
+00:26:53,050 --> 00:26:55,717
+OK. And if he wants to set up
+
+466
+00:26:55,717 --> 00:26:57,718
+something like that so that an
+
+467
+00:26:57,718 --> 00:27:00,053
+application can send, let's say, to two
+
+468
+00:27:00,053 --> 00:27:00,720
+internal domains.
+
+469
+00:27:03,080 --> 00:27:05,852
+Is that a? Is that a
+
+470
+00:27:05,852 --> 00:27:08,625
+possibility you would just leave that
+
+471
+00:27:08,625 --> 00:27:09,550
+checkbox unchecked?
+
+472
+00:27:12,270 --> 00:27:15,069
+And hope that they don't send
+
+473
+00:27:15,069 --> 00:27:17,869
+emails out right through Internet. If
+
+474
+00:27:17,869 --> 00:27:20,668
+you did want to further filter
+
+475
+00:27:20,668 --> 00:27:23,468
+them, you could do so on
+
+476
+00:27:23,468 --> 00:27:26,267
+on the actual SER cluster, the
+
+477
+00:27:26,267 --> 00:27:29,067
+SPR_hosted cluster, you could put in
+
+478
+00:27:29,067 --> 00:27:31,866
+filtering rules just like the normal
+
+479
+00:27:31,866 --> 00:27:34,817
+you know. Ohh, I'm sending out. OK,
+
+480
+00:27:34,817 --> 00:27:37,460
+OK, thank you. Can just drop them
+
+481
+00:27:37,460 --> 00:27:38,970
+there. Yeah, thank you.
+
+482
+00:27:43,540 --> 00:27:46,172
+The IPCC IDR again, that is
+
+483
+00:27:46,172 --> 00:27:48,805
+where you can restrict who can
+
+484
+00:27:48,805 --> 00:27:51,438
+use this relay user. So for
+
+485
+00:27:51,438 --> 00:27:54,070
+example, if you put in whatever
+
+486
+00:27:54,070 --> 00:27:56,703
+IP range your VPN uses, only
+
+487
+00:27:56,703 --> 00:27:59,336
+things coming from that IP range
+
+488
+00:27:59,336 --> 00:28:01,530
+can utilize this relay user.
+
+489
+00:28:02,780 --> 00:28:04,971
+Anybody else that tries to connect is
+
+490
+00:28:04,971 --> 00:28:06,850
+going to get an immediate failure.
+
+491
+00:28:11,200 --> 00:28:13,917
+Yeah, so if you tried to connect
+
+492
+00:28:13,917 --> 00:28:16,635
+with like 137 dot something, you would
+
+493
+00:28:16,635 --> 00:28:18,965
+get in immediate failure, wouldn't even
+
+494
+00:28:18,965 --> 00:28:20,130
+accept the connection.
+
+495
+00:28:22,670 --> 00:28:25,271
+Yeah. Again, this is going to be very
+
+496
+00:28:25,271 --> 00:28:28,198
+useful for vendors. So we tie them to a
+
+497
+00:28:28,198 --> 00:28:30,149
+youthful assistant domain and a specific
+
+498
+00:28:30,149 --> 00:28:33,035
+IP address. Not so much for
+
+499
+00:28:33,035 --> 00:28:34,110
+the internal traffic, right?
+
+500
+00:28:42,890 --> 00:28:45,671
+Down further is the size restrictions
+
+501
+00:28:45,671 --> 00:28:48,453
+on any emails this relay user
+
+502
+00:28:48,453 --> 00:28:51,234
+is allowed to send. So notice
+
+503
+00:28:51,234 --> 00:28:54,016
+right now Max message size 5
+
+504
+00:28:54,016 --> 00:28:54,480
+megabytes.
+
+505
+00:28:57,350 --> 00:29:00,240
+Overall, using a relay user, you are
+
+506
+00:29:00,240 --> 00:29:03,130
+limited to 50 megabytes and then using
+
+507
+00:29:03,130 --> 00:29:06,020
+our API connections, which we do have
+
+508
+00:29:06,020 --> 00:29:08,498
+documented for a few popular vendors
+
+509
+00:29:08,498 --> 00:29:11,388
+right now with Salesforce Work Day and
+
+510
+00:29:11,388 --> 00:29:14,278
+a few others, you're limited to 150
+
+511
+00:29:14,278 --> 00:29:16,810
+megabytes and then further. There are
+
+512
+00:29:16,810 --> 00:29:18,410
+rate limits down below.
+
+513
+00:29:26,210 --> 00:29:28,819
+If you don't put any values in those,
+
+514
+00:29:28,819 --> 00:29:31,755
+they are not limited in those 24 hour or
+
+515
+00:29:31,755 --> 00:29:33,060
+one hour time periods.
+
+516
+00:29:35,720 --> 00:29:38,295
+I learned English for this. Yeah,
+
+517
+00:29:38,295 --> 00:29:40,871
+yes I would use caution both
+
+518
+00:29:40,871 --> 00:29:43,447
+applying a limit and not. Just
+
+519
+00:29:43,447 --> 00:29:46,023
+as an example, we had an
+
+520
+00:29:46,023 --> 00:29:48,599
+early SER customer where one of
+
+521
+00:29:48,599 --> 00:29:51,175
+their developers accidentally put in a
+
+522
+00:29:51,175 --> 00:29:53,751
+loop in their code and they
+
+523
+00:29:53,751 --> 00:29:56,383
+used up. Almost half of their overall
+
+524
+00:29:56,383 --> 00:29:58,768
+allotment in one day because they were
+
+525
+00:29:58,768 --> 00:30:00,472
+just constantly sending out massive
+
+526
+00:30:00,472 --> 00:30:02,857
+amounts of emails to the Internet and
+
+527
+00:30:02,857 --> 00:30:03,880
+didn't realize it.
+
+528
+00:30:07,930 --> 00:30:10,484
+Um, so limits are good
+
+529
+00:30:10,484 --> 00:30:13,038
+for that, I'll give you
+
+530
+00:30:13,038 --> 00:30:14,060
+that, but.
+
+531
+00:30:16,080 --> 00:30:18,378
+Is there some type of notification, Is
+
+532
+00:30:18,378 --> 00:30:21,332
+there some type of an alert that is being
+
+533
+00:30:21,332 --> 00:30:23,302
+triggered when something like this, it's,
+
+534
+00:30:23,302 --> 00:30:25,272
+it's happening because limits are good,
+
+535
+00:30:25,272 --> 00:30:27,899
+don't get me wrong. It's just going to
+
+536
+00:30:27,899 --> 00:30:30,197
+take longer to spread the pain, right?
+
+537
+00:30:30,197 --> 00:30:32,167
+Hopefully in the meantime, somebody is
+
+538
+00:30:32,167 --> 00:30:35,121
+going to, is going to, is going to see
+
+539
+00:30:35,121 --> 00:30:37,918
+it. Fix it. But I mean, you
+
+540
+00:30:37,918 --> 00:30:40,635
+know, instead of using, you know, in
+
+541
+00:30:40,635 --> 00:30:43,351
+the case that you mentioned half the
+
+542
+00:30:43,351 --> 00:30:46,068
+afternoon time in in in one day,
+
+543
+00:30:46,068 --> 00:30:48,784
+you could use increased in three days,
+
+544
+00:30:48,784 --> 00:30:51,501
+right? Yes. So the relay user API
+
+545
+00:30:51,501 --> 00:30:53,829
+does have notifications where it can
+
+546
+00:30:53,829 --> 00:30:55,770
+notify you when certain thresholds.
+
+547
+00:30:55,850 --> 00:30:57,920
+OK, OK.
+
+548
+00:31:00,050 --> 00:31:02,959
+So that is so we can pull
+
+549
+00:31:02,959 --> 00:31:05,868
+that data from from from from there.
+
+550
+00:31:05,868 --> 00:31:08,778
+Yes, OK. What about, what about the
+
+551
+00:31:08,778 --> 00:31:11,687
+reports that you were showing us where
+
+552
+00:31:11,687 --> 00:31:14,596
+it could show you what kind of
+
+553
+00:31:14,596 --> 00:31:17,090
+failures you have in the outbound
+
+554
+00:31:17,090 --> 00:31:19,584
+traffic? Could that identify issues like
+
+555
+00:31:19,584 --> 00:31:22,238
+this?Absolutely, it will show you usage
+
+556
+00:31:22,238 --> 00:31:25,162
+trends. OK, yeah, but that
+
+557
+00:31:25,162 --> 00:31:27,235
+requires somebody to look at those,
+
+558
+00:31:27,235 --> 00:31:29,653
+right? Yeah, that's my, that's the point
+
+559
+00:31:29,653 --> 00:31:32,072
+that I'm trying. Yeah, yeah, yeah, yeah.
+
+560
+00:31:32,072 --> 00:31:34,491
+If nobody's looking at those and nobody
+
+561
+00:31:34,491 --> 00:31:36,909
+knows about it, yes, we have limits
+
+562
+00:31:36,909 --> 00:31:39,328
+that's going to spread the pain over
+
+563
+00:31:39,328 --> 00:31:42,092
+three days instead of one day. But again,
+
+564
+00:31:42,092 --> 00:31:43,820
+unless somebody gets certified and.
+
+565
+00:31:43,900 --> 00:31:46,394
+Somebody that could be looking at this,
+
+566
+00:31:46,394 --> 00:31:49,244
+it's it's, it's a slope that things start
+
+567
+00:31:49,244 --> 00:31:50,670
+right, but not much.
+
+568
+00:31:55,320 --> 00:31:58,206
+OK. So at
+
+569
+00:31:58,206 --> 00:32:00,749
+the very bottom, we have
+
+570
+00:32:00,749 --> 00:32:03,291
+unsubscribed management. If you start
+
+571
+00:32:03,291 --> 00:32:05,833
+an unsubscribe and then yeah,
+
+572
+00:32:05,833 --> 00:32:08,376
+OK. So how quickly can
+
+573
+00:32:08,376 --> 00:32:10,918
+for example, how quickly you
+
+574
+00:32:10,918 --> 00:32:13,460
+turn around then if we've
+
+575
+00:32:13,460 --> 00:32:16,003
+already consumed up the all
+
+576
+00:32:16,003 --> 00:32:18,829
+of the. Allotted amount, I'll
+
+577
+00:32:18,829 --> 00:32:21,560
+quickly can you turn around
+
+578
+00:32:21,560 --> 00:32:23,200
+adding additional um.
+
+579
+00:32:25,150 --> 00:32:27,828
+Capacity to us, where does that turn
+
+580
+00:32:27,828 --> 00:32:30,507
+around for example, I don't know what
+
+581
+00:32:30,507 --> 00:32:33,186
+the turn around is much will alleviate
+
+582
+00:32:33,186 --> 00:32:35,482
+your concern. It requires somebody from
+
+583
+00:32:35,482 --> 00:32:38,161
+your sales team to manually come in
+
+584
+00:32:38,161 --> 00:32:40,840
+to the Sr. portal or talk to
+
+585
+00:32:40,840 --> 00:32:43,519
+our back end operations to actually stop
+
+586
+00:32:43,519 --> 00:32:46,480
+your outbound mail flow. If you exceed
+
+587
+00:32:46,480 --> 00:32:49,117
+the allotted limit, we do not have
+
+588
+00:32:49,117 --> 00:32:51,377
+an automated shutoff. We understand the
+
+589
+00:32:51,377 --> 00:32:53,638
+necessity and use cases where outbound
+
+590
+00:32:53,638 --> 00:32:56,275
+e-mail needs to go out and sometimes
+
+591
+00:32:56,275 --> 00:32:58,912
+you might go over that allotment, but
+
+592
+00:32:58,912 --> 00:33:01,549
+there is no automatic hard cap where
+
+593
+00:33:01,549 --> 00:33:04,186
+it just shuts down your ability to
+
+594
+00:33:04,186 --> 00:33:07,076
+send emails. OK, so it's not like so
+
+595
+00:33:07,076 --> 00:33:08,040
+again, we're not.
+
+596
+00:33:10,030 --> 00:33:12,747
+We, it won't automatically turn off.
+
+597
+00:33:12,747 --> 00:33:15,465
+It'll still function, but most likely
+
+598
+00:33:15,465 --> 00:33:18,183
+we'll get a call from, you
+
+599
+00:33:18,183 --> 00:33:20,900
+know, the account managers just saying,
+
+600
+00:33:20,900 --> 00:33:23,618
+hey, you gotta pay up something
+
+601
+00:33:23,618 --> 00:33:26,336
+up. OK, Thanks. Yeah, it's a
+
+602
+00:33:26,336 --> 00:33:29,054
+great question. Yeah, perfect. And then
+
+603
+00:33:29,054 --> 00:33:31,827
+he unsubscribed. Down at the bottom,
+
+604
+00:33:31,827 --> 00:33:34,780
+this will basically if it sees its
+
+605
+00:33:34,780 --> 00:33:37,733
+height to an unsubscribed list, it will
+
+606
+00:33:37,733 --> 00:33:40,686
+be adding headers to any outbound e-mail.
+
+607
+00:33:40,686 --> 00:33:43,218
+Those headers are utilized by popular
+
+608
+00:33:43,218 --> 00:33:46,171
+e-mail clients where you can just click
+
+609
+00:33:46,171 --> 00:33:48,702
+unsubscribe for example in Gmail or
+
+610
+00:33:48,702 --> 00:33:50,874
+Google Workspace and Notification. You
+
+611
+00:33:50,874 --> 00:33:53,636
+know will come back and that user
+
+612
+00:33:53,636 --> 00:33:56,398
+will be added to that unsubscribe list.
+
+613
+00:33:56,398 --> 00:33:58,765
+Meaning when sending through this relay
+
+614
+00:33:58,765 --> 00:34:01,527
+user, that user's e-mail will be stripped
+
+615
+00:34:01,527 --> 00:34:03,500
+for any outbound future emails.
+
+616
+00:34:06,700 --> 00:34:09,312
+So that's the capital company that that's
+
+617
+00:34:09,312 --> 00:34:11,552
+capital compliance, yes. And and there
+
+618
+00:34:11,552 --> 00:34:13,418
+are going to be additional
+
+619
+00:34:13,418 --> 00:34:14,911
+functionalities that you unsubscribe
+
+620
+00:34:14,911 --> 00:34:17,524
+management moving forward. I do know they
+
+621
+00:34:17,524 --> 00:34:20,510
+are working on a URL embedded within the
+
+622
+00:34:20,510 --> 00:34:23,497
+e-mail that can be clicked as well. Not
+
+623
+00:34:23,497 --> 00:34:26,110
+quite here yet, but we do comply.
+
+624
+00:34:26,210 --> 00:34:29,084
+It's just as Example and spam Act
+
+625
+00:34:29,084 --> 00:34:31,958
+in the United States or Castle compliance
+
+626
+00:34:31,958 --> 00:34:34,704
+in Canada. Sorry,
+
+627
+00:34:34,704 --> 00:34:37,536
+thank you. Run that by me one
+
+628
+00:34:37,536 --> 00:34:40,368
+more time. So you have a you
+
+629
+00:34:40,368 --> 00:34:42,796
+create this unsubscribe list right there.
+
+630
+00:34:42,796 --> 00:34:44,819
+Subscribe list, unsubscribe. This is
+
+631
+00:34:44,819 --> 00:34:47,247
+composed of what users e-mail addresses
+
+632
+00:34:47,247 --> 00:34:49,269
+right? External e-mail address. OK.
+
+633
+00:34:50,629 --> 00:34:53,333
+So I sent an e-mail to
+
+634
+00:34:53,333 --> 00:34:56,037
+to jed@gmail.com, right? He clicks. I
+
+635
+00:34:56,037 --> 00:34:57,839
+don't want his emails.
+
+636
+00:34:59,439 --> 00:35:02,201
+Yeah, you know that his e-mail address
+
+637
+00:35:02,201 --> 00:35:04,962
+is added to the list when the
+
+638
+00:35:04,962 --> 00:35:07,723
+relay user goes. If it's that e-mail
+
+639
+00:35:07,723 --> 00:35:10,485
+as a recipient on any future mailings,
+
+640
+00:35:10,485 --> 00:35:13,246
+it will strip that e-mail out of
+
+641
+00:35:13,246 --> 00:35:16,007
+the two or CC or BCC or
+
+642
+00:35:16,007 --> 00:35:17,979
+wherever he is in it.
+
+643
+00:35:19,289 --> 00:35:21,319
+That's, uh, that's, umm.
+
+644
+00:35:22,749 --> 00:35:25,417
+For relay user, right? Yes.
+
+645
+00:35:25,417 --> 00:35:28,085
+However multiple relay users can
+
+646
+00:35:28,085 --> 00:35:30,219
+share the same unsubscribe.
+
+647
+00:35:32,129 --> 00:35:34,340
+I'm just thinking we don't want to share
+
+648
+00:35:34,340 --> 00:35:35,169
+it baby, right?
+
+649
+00:35:38,169 --> 00:35:40,825
+So that has the ability to
+
+650
+00:35:40,825 --> 00:35:43,481
+feed into like an existing database
+
+651
+00:35:43,481 --> 00:35:46,137
+that we might have right with
+
+652
+00:35:46,137 --> 00:35:49,050
+APIs. We do. We
+
+653
+00:35:49,050 --> 00:35:51,826
+actually do. We do have a Capacity Castle
+
+654
+00:35:51,826 --> 00:35:53,908
+compliant database where end users are
+
+655
+00:35:53,908 --> 00:35:56,684
+told that they can do it. It's just
+
+656
+00:35:56,684 --> 00:35:59,112
+not really integrated with what we do.
+
+657
+00:35:59,112 --> 00:36:01,888
+It's that URL that you attach in the
+
+658
+00:36:01,888 --> 00:36:04,317
+header and we do have a Catholic
+
+659
+00:36:04,317 --> 00:36:06,746
+compliance. It's just that it's not an
+
+660
+00:36:06,746 --> 00:36:09,407
+automated process. Also
+
+661
+00:36:09,407 --> 00:36:11,829
+go to website.
+
+662
+00:36:13,439 --> 00:36:16,303
+I know what you're saying right now from
+
+663
+00:36:16,303 --> 00:36:18,093
+an application perspective though, each
+
+664
+00:36:18,093 --> 00:36:19,883
+individual LED's or individual sender
+
+665
+00:36:19,883 --> 00:36:22,747
+right now I'm talking about right now is
+
+666
+00:36:22,747 --> 00:36:25,611
+right now, of course we don't have, we
+
+667
+00:36:25,611 --> 00:36:28,475
+don't have it all. But The thing is
+
+668
+00:36:28,475 --> 00:36:31,339
+again, a lot of the our applications are
+
+669
+00:36:31,339 --> 00:36:33,871
+not the compliant like or. External
+
+670
+00:36:33,871 --> 00:36:36,463
+sending. So I guess The thing
+
+671
+00:36:36,463 --> 00:36:39,055
+is it's more of a future
+
+672
+00:36:39,055 --> 00:36:41,647
+enhancement for us to talk to
+
+673
+00:36:41,647 --> 00:36:44,238
+the people who own castle to
+
+674
+00:36:44,238 --> 00:36:46,830
+encourage them to manage it. Now
+
+675
+00:36:46,830 --> 00:36:49,422
+I guess the other question is,
+
+676
+00:36:49,422 --> 00:36:52,014
+is that your database or this
+
+677
+00:36:52,014 --> 00:36:54,948
+when when somebody. Um, goes in,
+
+678
+00:36:54,948 --> 00:36:57,805
+unsubscribes it, it you place it
+
+679
+00:36:57,805 --> 00:37:00,662
+in a proof point area, right?
+
+680
+00:37:00,662 --> 00:37:03,519
+And then our application would have
+
+681
+00:37:03,519 --> 00:37:06,377
+to call that area to pull
+
+682
+00:37:06,377 --> 00:37:09,234
+out it from our main list,
+
+683
+00:37:09,234 --> 00:37:12,091
+right? Or and vice versa in
+
+684
+00:37:12,091 --> 00:37:14,819
+the way that. It would, uh,
+
+685
+00:37:14,819 --> 00:37:17,259
+feed into like the ultimate database.
+
+686
+00:37:18,379 --> 00:37:21,278
+Yes. And there is an API for that
+
+687
+00:37:21,278 --> 00:37:24,177
+as well. We have an unsubscribe API where
+
+688
+00:37:24,177 --> 00:37:27,076
+you can read and write to the point
+
+689
+00:37:27,076 --> 00:37:29,975
+list so that it can be synchronized with
+
+690
+00:37:29,975 --> 00:37:32,512
+some sort of masculist underside. OK. And
+
+691
+00:37:32,512 --> 00:37:35,048
+once the user gets onto that unsubscribe
+
+692
+00:37:35,048 --> 00:37:37,585
+list, let's say Jeff Flakes and subscribe
+
+693
+00:37:37,585 --> 00:37:40,422
+and then. Ohh shoot, I didn't mean to.
+
+694
+00:37:40,422 --> 00:37:43,296
+No what?What's
+
+695
+00:37:43,296 --> 00:37:45,826
+the undo option? That's a
+
+696
+00:37:45,826 --> 00:37:48,357
+good question. I am not
+
+697
+00:37:48,357 --> 00:37:51,290
+sure. OK. Because it's, it's
+
+698
+00:37:51,290 --> 00:37:54,227
+OK if you end up in the list, but I mean,
+
+699
+00:37:54,227 --> 00:37:56,630
+you know, some at some point in time you
+
+700
+00:37:56,630 --> 00:37:58,499
+might wanna get off actually for whatever
+
+701
+00:37:58,499 --> 00:38:01,123
+reason, right, Right. That
+
+702
+00:38:01,123 --> 00:38:03,876
+is probably where the API would come
+
+703
+00:38:03,876 --> 00:38:06,628
+into play where you know they could
+
+704
+00:38:06,628 --> 00:38:09,381
+resubscribe on on the key bank side
+
+705
+00:38:09,381 --> 00:38:12,134
+and then your masculist could using the
+
+706
+00:38:12,134 --> 00:38:14,887
+API update the proof point list and
+
+707
+00:38:14,887 --> 00:38:17,640
+I guess again it would be to
+
+708
+00:38:17,640 --> 00:38:20,393
+customize it. So for example I might
+
+709
+00:38:20,393 --> 00:38:22,993
+not want. Females from like
+
+710
+00:38:22,993 --> 00:38:25,721
+Arshad, but I want the communal.
+
+711
+00:38:25,721 --> 00:38:28,449
+That would be something I had.
+
+712
+00:38:28,449 --> 00:38:31,176
+I would have to customize through
+
+713
+00:38:31,176 --> 00:38:33,449
+the API right? Yes, OK.
+
+714
+00:38:34,809 --> 00:38:37,547
+So then, if you don't mind, can we
+
+715
+00:38:37,547 --> 00:38:40,284
+put this on the on the list of
+
+716
+00:38:40,284 --> 00:38:43,021
+things that that we can check back on
+
+717
+00:38:43,021 --> 00:38:45,759
+to see how that process works from being
+
+718
+00:38:45,759 --> 00:38:47,469
+removed from an unsubscribed list?
+
+719
+00:38:49,799 --> 00:38:52,583
+I'm I'm not sure what you mean how
+
+720
+00:38:52,583 --> 00:38:55,366
+exactly it works to be removed. Yes yes
+
+721
+00:38:55,366 --> 00:38:57,801
+that's what I meant. I'm on the
+
+722
+00:38:57,801 --> 00:38:59,888
+Proofpoint side. We send out an
+
+723
+00:38:59,888 --> 00:39:02,324
+unsubscribe header and then it would be
+
+724
+00:39:02,324 --> 00:39:04,759
+up to the individual e-mail client to
+
+725
+00:39:04,759 --> 00:39:07,194
+offer an unsubscribe through that. I know
+
+726
+00:39:07,194 --> 00:39:09,629
+Gmail already has it and it's optional.
+
+727
+00:39:09,719 --> 00:39:12,521
+In Outlook, so we're talking about,
+
+728
+00:39:12,521 --> 00:39:15,323
+you know, 90 something percent of
+
+729
+00:39:15,323 --> 00:39:17,658
+the world's e-mail clients. Moving
+
+730
+00:39:17,658 --> 00:39:20,460
+forward we will have an unsubscribed
+
+731
+00:39:20,460 --> 00:39:23,262
+URL option. However, when you unsubscribe
+
+732
+00:39:23,262 --> 00:39:26,064
+header is activated, it will add
+
+733
+00:39:26,064 --> 00:39:28,865
+that e-mail address to the list
+
+734
+00:39:28,865 --> 00:39:31,500
+local on. SER and then you
+
+735
+00:39:31,500 --> 00:39:34,337
+can do whatever you need to do
+
+736
+00:39:34,337 --> 00:39:37,174
+via the API. But what I was
+
+737
+00:39:37,174 --> 00:39:40,010
+asking is once you're on the list,
+
+738
+00:39:40,010 --> 00:39:42,847
+how do you get off the unsubscribed
+
+739
+00:39:42,847 --> 00:39:45,684
+list? It would be API calls from
+
+740
+00:39:45,684 --> 00:39:48,656
+your central database. So
+
+741
+00:39:48,656 --> 00:39:51,426
+you you have the option to remove it
+
+742
+00:39:51,426 --> 00:39:54,196
+from there. Yes, it is there an option
+
+743
+00:39:54,196 --> 00:39:56,967
+to create the list but not action on
+
+744
+00:39:56,967 --> 00:39:57,659
+it? Yeah.
+
+745
+00:39:59,979 --> 00:40:01,768
+You can create everything here and it's
+
+746
+00:40:01,768 --> 00:40:03,557
+not going to do anything because it's
+
+747
+00:40:03,557 --> 00:40:04,579
+going to be blank.
+
+748
+00:40:06,919 --> 00:40:09,503
+No no no no. I mean
+
+749
+00:40:09,503 --> 00:40:12,087
+when a user clicks on the
+
+750
+00:40:12,087 --> 00:40:14,671
+unsubscribe right? Can the system just
+
+751
+00:40:14,671 --> 00:40:17,255
+generate a list and provide it
+
+752
+00:40:17,255 --> 00:40:19,839
+to maybe our back end to
+
+753
+00:40:19,839 --> 00:40:22,423
+update or something on their life
+
+754
+00:40:22,423 --> 00:40:25,007
+rather than immediate action if the
+
+755
+00:40:25,007 --> 00:40:27,181
+user activates the unsubscribe?Their
+
+756
+00:40:27,181 --> 00:40:29,570
+their e-mail address is added to whatever
+
+757
+00:40:29,570 --> 00:40:31,619
+unsubscribed list is associated with the
+
+758
+00:40:31,619 --> 00:40:34,349
+relay user that sent that e-mail out, and
+
+759
+00:40:34,349 --> 00:40:36,739
+that is essentially like a gatekeeper or
+
+760
+00:40:36,739 --> 00:40:39,129
+a goalie. It will prevent emails from
+
+761
+00:40:39,129 --> 00:40:41,859
+going from that relay user to that user.
+
+762
+00:40:44,449 --> 00:40:47,409
+It would be a different error message
+
+763
+00:40:47,409 --> 00:40:50,368
+when a user tries to send an
+
+764
+00:40:50,368 --> 00:40:53,327
+e-mail to a user that 800 subscribers.
+
+765
+00:40:53,327 --> 00:40:56,286
+Is it something? OK, so it's something
+
+766
+00:40:56,286 --> 00:40:59,245
+that then we see over there and
+
+767
+00:40:59,245 --> 00:41:02,204
+if they're watching the logs, yes, OK,
+
+768
+00:41:02,204 --> 00:41:04,529
+fair enough. I believe it's also
+
+769
+00:41:04,529 --> 00:41:06,029
+available in the shelters report.
+
+770
+00:41:08,459 --> 00:41:10,768
+Yeah, I'm more concerned about the, you
+
+771
+00:41:10,768 --> 00:41:12,747
+know, getting them getting a notification
+
+772
+00:41:12,747 --> 00:41:15,386
+back when the e-mail is not delivered for
+
+773
+00:41:15,386 --> 00:41:17,695
+whatever reason. They will see the reason
+
+774
+00:41:17,695 --> 00:41:20,333
+for why it's it's not being sent as
+
+775
+00:41:20,333 --> 00:41:23,302
+opposed to reach back to us for us to
+
+776
+00:41:23,302 --> 00:41:26,270
+go and and and do it right. It would
+
+777
+00:41:26,270 --> 00:41:29,039
+be like kind of like a. With
+
+778
+00:41:29,039 --> 00:41:31,964
+manage uh. Thing for, for, for
+
+779
+00:41:31,964 --> 00:41:34,441
+the, for the, for the business, right,
+
+780
+00:41:34,441 --> 00:41:36,209
+For the, yeah, yeah, OK.
+
+781
+00:41:42,349 --> 00:41:45,235
+Let's go ahead and click on next
+
+782
+00:41:45,235 --> 00:41:48,120
+so that we can see the the
+
+783
+00:41:48,120 --> 00:41:51,006
+next options here. Last we get to
+
+784
+00:41:51,006 --> 00:41:53,891
+the alias. This alias, if you decide
+
+785
+00:41:53,891 --> 00:41:56,776
+to type one in, must be globally
+
+786
+00:41:56,776 --> 00:41:59,662
+unique, IE this has to be unique
+
+787
+00:41:59,662 --> 00:42:02,135
+across all three-point customers. This is
+
+788
+00:42:02,135 --> 00:42:04,929
+the username. That is part of the
+
+789
+00:42:04,929 --> 00:42:06,449
+username password combination that
+
+790
+00:42:06,449 --> 00:42:08,349
+essentially makes up a relationship.
+
+791
+00:42:09,959 --> 00:42:12,937
+If you were to click save right now,
+
+792
+00:42:12,937 --> 00:42:15,915
+it would create a GUID as an alias
+
+793
+00:42:15,915 --> 00:42:18,893
+for you and it would generate a random
+
+794
+00:42:18,893 --> 00:42:21,633
+12 character password. It
+
+795
+00:42:21,633 --> 00:42:24,384
+would be up to you to disseminate that
+
+796
+00:42:24,384 --> 00:42:26,104
+username and password to whatever
+
+797
+00:42:26,104 --> 00:42:28,511
+application owners need to use this data
+
+798
+00:42:28,511 --> 00:42:31,262
+user. In fact, when you click on save
+
+799
+00:42:31,262 --> 00:42:34,013
+on the next screen you can click a
+
+800
+00:42:34,013 --> 00:42:36,764
+download where you can copy out all of
+
+801
+00:42:36,764 --> 00:42:38,139
+the information for that.
+
+802
+00:42:39,649 --> 00:42:42,338
+So do we want to do this
+
+803
+00:42:42,338 --> 00:42:45,026
+as opposed to keep guessing if it
+
+804
+00:42:45,026 --> 00:42:47,714
+has to be unique across? Ohh, yeah,
+
+805
+00:42:47,714 --> 00:42:50,018
+absolutely. I I recommend always letting
+
+806
+00:42:50,018 --> 00:42:52,707
+us still to go in. This would
+
+807
+00:42:52,707 --> 00:42:55,395
+be for a scenario where if you
+
+808
+00:42:55,395 --> 00:42:58,083
+had some, you know, mainframe app coded
+
+809
+00:42:58,083 --> 00:43:01,028
+in 1988 that couldn't. Use
+
+810
+00:43:01,028 --> 00:43:03,843
+8 characters or less. You could
+
+811
+00:43:03,843 --> 00:43:06,657
+come up with some globally unique
+
+812
+00:43:06,657 --> 00:43:09,472
+8 character username so that legacy
+
+813
+00:43:09,472 --> 00:43:12,286
+application could send out. So whenever
+
+814
+00:43:12,286 --> 00:43:15,100
+I stop thinking typing something in
+
+815
+00:43:15,100 --> 00:43:17,931
+here. He will start
+
+816
+00:43:17,931 --> 00:43:20,334
+checking against a list when I when I
+
+817
+00:43:20,334 --> 00:43:23,037
+click save or how is that going to work?
+
+818
+00:43:23,037 --> 00:43:25,140
+Yes, it will look across the entire
+
+819
+00:43:25,140 --> 00:43:26,942
+global list of all different customers.
+
+820
+00:43:26,942 --> 00:43:28,444
+However, we have been strongly
+
+821
+00:43:28,444 --> 00:43:30,546
+recommending using the GUID. So you made
+
+822
+00:43:30,546 --> 00:43:32,649
+it obviously if they come up with
+
+823
+00:43:32,649 --> 00:43:35,502
+something. And strongly recommend using
+
+824
+00:43:35,502 --> 00:43:38,411
+do it for all of our customers. You may
+
+825
+00:43:38,411 --> 00:43:40,996
+be may be able to decide something in
+
+826
+00:43:40,996 --> 00:43:43,905
+right now. I would bet if you type in
+
+827
+00:43:43,905 --> 00:43:46,167
+test it probably wouldn't work. But if
+
+828
+00:43:46,167 --> 00:43:49,076
+you just like test XYZ 123 maybe it would
+
+829
+00:43:49,076 --> 00:43:51,818
+work. He gave you
+
+830
+00:43:51,818 --> 00:43:54,722
+like playing test please. Tried
+
+831
+00:43:54,722 --> 00:43:57,617
+to claim it. No, but
+
+832
+00:43:57,617 --> 00:44:00,488
+to be honest with you that I like that
+
+833
+00:44:00,488 --> 00:44:03,040
+idea of that, of that random guy. Right.
+
+834
+00:44:03,040 --> 00:44:05,273
+Yeah. Because that's what we want. Yeah,
+
+835
+00:44:05,273 --> 00:44:07,506
+right. It's it's it's not something that.
+
+836
+00:44:07,506 --> 00:44:10,377
+Yeah, but I still want to try to claim
+
+837
+00:44:10,377 --> 00:44:12,929
+test, please. There you go. There you go.
+
+838
+00:44:14,469 --> 00:44:17,223
+Safe No, you cannot do so. OK,
+
+839
+00:44:17,223 --> 00:44:19,977
+it's like a popular post on social
+
+840
+00:44:19,977 --> 00:44:22,337
+media and somebody typing in first.
+
+841
+00:44:22,337 --> 00:44:25,091
+That's the first comment exactly no, but
+
+842
+00:44:25,091 --> 00:44:27,845
+this is really good. I like that
+
+843
+00:44:27,845 --> 00:44:30,599
+option of grid and even when I
+
+844
+00:44:30,599 --> 00:44:33,353
+created mine like initially I like that
+
+845
+00:44:33,353 --> 00:44:36,266
+idea that. You know, it's a, it's a
+
+846
+00:44:36,266 --> 00:44:38,648
+big long number that cannot be like, you
+
+847
+00:44:38,648 --> 00:44:41,625
+really have to type it in and you have to
+
+848
+00:44:41,625 --> 00:44:43,710
+go in the competition with the password
+
+849
+00:44:43,710 --> 00:44:45,794
+and all that stuff, right? Yeah, for
+
+850
+00:44:45,794 --> 00:44:46,389
+sure, yeah.
+
+851
+00:44:49,379 --> 00:44:52,198
+So here we can and and you can
+
+852
+00:44:52,198 --> 00:44:54,312
+change that password. My personal habit
+
+853
+00:44:54,312 --> 00:44:57,131
+over the last couple of years I do
+
+854
+00:44:57,131 --> 00:44:59,598
+19 characters because I have run across
+
+855
+00:44:59,598 --> 00:45:02,064
+some Internet sites that have a 20
+
+856
+00:45:02,064 --> 00:45:04,883
+character limit, but 19 seems to be a
+
+857
+00:45:04,883 --> 00:45:06,997
+pretty good sweet spot between easily
+
+858
+00:45:06,997 --> 00:45:09,438
+crackable. The group force and getting
+
+859
+00:45:09,438 --> 00:45:12,194
+into the, you know, many, many years
+
+860
+00:45:12,194 --> 00:45:13,769
+by reports level, Yeah.
+
+861
+00:45:17,689 --> 00:45:20,457
+OK. And OK, so there's a time
+
+862
+00:45:20,457 --> 00:45:22,829
+frame for this. This is good.
+
+863
+00:45:25,099 --> 00:45:27,896
+So if I set up three months,
+
+864
+00:45:27,896 --> 00:45:30,294
+what's going to happen after three
+
+865
+00:45:30,294 --> 00:45:33,091
+months? And again, coming back to this,
+
+866
+00:45:33,091 --> 00:45:35,888
+Yeah, yeah. That password will no longer
+
+867
+00:45:35,888 --> 00:45:38,685
+be usable by this relay user. And
+
+868
+00:45:38,685 --> 00:45:41,482
+you can create a new password and
+
+869
+00:45:41,482 --> 00:45:43,880
+have overlap time, meaning the new
+
+870
+00:45:43,880 --> 00:45:46,477
+password. The old one both worked for one
+
+871
+00:45:46,477 --> 00:45:48,909
+week. And that allows you to get that
+
+872
+00:45:48,909 --> 00:45:50,429
+password to the application owners.
+
+873
+00:45:51,849 --> 00:45:54,073
+About from a sender perspective, they
+
+874
+00:45:54,073 --> 00:45:57,038
+gonna get some type of an error message
+
+875
+00:45:57,038 --> 00:45:59,261
+saying that the password expired, the
+
+876
+00:45:59,261 --> 00:46:01,855
+login is not current anymore or something
+
+877
+00:46:01,855 --> 00:46:04,449
+along those lines. I believe it's just
+
+878
+00:46:04,449 --> 00:46:06,302
+invalid authentication. OK, but that's
+
+879
+00:46:06,302 --> 00:46:08,896
+good enough because they will know what
+
+880
+00:46:08,896 --> 00:46:10,749
+internal competition issue, yes, OK.
+
+881
+00:46:11,989 --> 00:46:13,229
+Is there?
+
+882
+00:46:14,719 --> 00:46:17,299
+Any reports that will give us?
+
+883
+00:46:19,049 --> 00:46:21,968
+Um, the passwords that are
+
+884
+00:46:21,968 --> 00:46:23,719
+coming close to.
+
+885
+00:46:24,759 --> 00:46:27,665
+I don't think we're going to use the.
+
+886
+00:46:27,665 --> 00:46:29,844
+I don't necessarily think that we're
+
+887
+00:46:29,844 --> 00:46:32,024
+going to use the password expiration,
+
+888
+00:46:32,024 --> 00:46:34,566
+maybe one, maybe one, but this is
+
+889
+00:46:34,566 --> 00:46:37,472
+available in the Relay user API. OK, so
+
+890
+00:46:37,472 --> 00:46:40,378
+in there you can see each users probably
+
+891
+00:46:40,378 --> 00:46:43,283
+how much longer it hasn't been the end
+
+892
+00:46:43,283 --> 00:46:46,072
+of time or that's correct. OK, OK,
+
+893
+00:46:46,072 --> 00:46:48,523
+so then just as an example, so I've
+
+894
+00:46:48,523 --> 00:46:50,975
+played around with this API a little bit
+
+895
+00:46:50,975 --> 00:46:53,732
+before. What I did is I set up some
+
+896
+00:46:53,732 --> 00:46:55,571
+PowerShell function, one function I said,
+
+897
+00:46:55,571 --> 00:46:58,328
+hey, this all of the relay users for the
+
+898
+00:46:58,328 --> 00:47:00,473
+entire quote UN quote customer and it
+
+899
+00:47:00,473 --> 00:47:02,924
+listed them out. And then you could put
+
+900
+00:47:02,924 --> 00:47:05,664
+that list into a variable and say. For
+
+901
+00:47:05,664 --> 00:47:08,658
+each item in this variable, go ahead and
+
+902
+00:47:08,658 --> 00:47:10,904
+give me the password expiration. Yeah,
+
+903
+00:47:10,904 --> 00:47:13,149
+yeah, yeah. No, that makes sense.
+
+904
+00:47:14,139 --> 00:47:16,795
+And if we tie this in with
+
+905
+00:47:16,795 --> 00:47:19,451
+with the with the automated process there
+
+906
+00:47:19,451 --> 00:47:22,107
+was they will notify, you know, a
+
+907
+00:47:22,107 --> 00:47:24,384
+group of individuals that are responsible
+
+908
+00:47:24,384 --> 00:47:27,040
+for that application that's going to work
+
+909
+00:47:27,040 --> 00:47:29,696
+fantastic there. Exactly. And then we can
+
+910
+00:47:29,696 --> 00:47:32,352
+set this up for 12 months and
+
+911
+00:47:32,352 --> 00:47:35,058
+in a way then. This would be
+
+912
+00:47:35,058 --> 00:47:37,389
+all about this patient that, that, that,
+
+913
+00:47:37,389 --> 00:47:39,720
+that applications could use and it's to
+
+914
+00:47:39,720 --> 00:47:40,719
+be used, yes.
+
+915
+00:47:43,079 --> 00:47:45,901
+And that is called month mark. Using the
+
+916
+00:47:45,901 --> 00:47:48,723
+API you can create a new password and
+
+917
+00:47:48,723 --> 00:47:51,544
+again you can have an overlap. Where the
+
+918
+00:47:51,544 --> 00:47:54,366
+new and the old both are are valid
+
+919
+00:47:54,366 --> 00:47:56,129
+at the same time. OK.
+
+920
+00:47:57,489 --> 00:48:00,004
+I don't know how we're going to use this,
+
+921
+00:48:00,004 --> 00:48:02,240
+but but it's, it's good that it's here,
+
+922
+00:48:02,240 --> 00:48:02,519
+right?
+
+923
+00:48:07,639 --> 00:48:10,429
+Um, is there any type
+
+924
+00:48:10,429 --> 00:48:13,219
+of report that that that
+
+925
+00:48:13,219 --> 00:48:16,009
+can give us unused usernames?
+
+926
+00:48:17,619 --> 00:48:20,298
+It's your user names so I create so
+
+927
+00:48:20,298 --> 00:48:22,977
+we created like 1010 users but a year
+
+928
+00:48:22,977 --> 00:48:25,655
+down the road we want to know is
+
+929
+00:48:25,655 --> 00:48:27,329
+are they still in use?
+
+930
+00:48:28,729 --> 00:48:31,407
+I can click on every single one of them
+
+931
+00:48:31,407 --> 00:48:33,787
+and then just save them if they're still
+
+932
+00:48:33,787 --> 00:48:36,167
+in use, which works fine for like, you
+
+933
+00:48:36,167 --> 00:48:38,249
+know, 100 and we have thousands. That's
+
+934
+00:48:38,249 --> 00:48:39,439
+going to be hard.
+
+935
+00:48:41,939 --> 00:48:44,756
+Yeah, give me a second. I'm looking at
+
+936
+00:48:44,756 --> 00:48:46,869
+our relay user API to see.
+
+937
+00:48:47,929 --> 00:48:50,689
+If that is an option is
+
+938
+00:48:50,689 --> 00:48:52,529
+that would be fantastic.
+
+939
+00:48:57,519 --> 00:48:59,967
+That's one of the things that we're
+
+940
+00:48:59,967 --> 00:49:02,065
+lacking right now. We're lacking the,
+
+941
+00:49:02,065 --> 00:49:04,862
+the, the ability to look up if, if
+
+942
+00:49:04,862 --> 00:49:07,659
+an IP or an application or a user
+
+943
+00:49:07,659 --> 00:49:10,107
+is still still using or still consuming
+
+944
+00:49:10,107 --> 00:49:12,205
+the current service, right, right. Unless
+
+945
+00:49:12,205 --> 00:49:15,002
+you go 1 by 1, which again, we
+
+946
+00:49:15,002 --> 00:49:17,799
+have over 8000 IPS right now, you know?
+
+947
+00:49:17,899 --> 00:49:20,514
+Umm, I don't know basis, right? But you
+
+948
+00:49:20,514 --> 00:49:22,475
+can imagine that this happened about
+
+949
+00:49:22,475 --> 00:49:24,763
+going through all the steps, right? So
+
+950
+00:49:24,763 --> 00:49:27,378
+that's why I'm just wondering if if it's
+
+951
+00:49:27,378 --> 00:49:29,993
+an easy way that we'll be looking around
+
+952
+00:49:29,993 --> 00:49:31,954
+something or query something that would
+
+953
+00:49:31,954 --> 00:49:34,242
+give us that information. That would be
+
+954
+00:49:34,242 --> 00:49:34,569
+fantastic.
+
+955
+00:49:37,089 --> 00:49:39,843
+Can you utilize the tax to
+
+956
+00:49:39,843 --> 00:49:41,219
+pull reports on?
+
+957
+00:49:42,969 --> 00:49:45,076
+Yes. Ohh,
+
+958
+00:49:45,076 --> 00:49:46,129
+yeah.
+
+959
+00:49:49,689 --> 00:49:50,839
+If anything, that.
+
+960
+00:49:53,129 --> 00:49:55,859
+Is not using that tag. See how
+
+961
+00:49:55,859 --> 00:49:58,589
+many emails? If it's zero, then it's
+
+962
+00:49:58,589 --> 00:50:01,289
+not if. Finger or
+
+963
+00:50:01,289 --> 00:50:03,949
+something with those API's. So those are
+
+964
+00:50:03,949 --> 00:50:06,609
+the those API's are full days, right?
+
+965
+00:50:08,159 --> 00:50:10,819
+Uh, they, they are recognized.
+
+966
+00:50:10,819 --> 00:50:13,479
+OK, Yeah. So I could
+
+967
+00:50:13,479 --> 00:50:16,139
+build something for those. Yeah.
+
+968
+00:50:23,969 --> 00:50:26,283
+Nothing stopping us from from how to
+
+969
+00:50:26,283 --> 00:50:28,596
+listen until next Tuesday when we meet
+
+970
+00:50:28,596 --> 00:50:30,909
+again. I'll start playing those CPA's to
+
+971
+00:50:30,909 --> 00:50:33,883
+see see what we can get out of this.
+
+972
+00:50:33,883 --> 00:50:36,857
+There we go. Make sure you grab this out
+
+973
+00:50:36,857 --> 00:50:38,179
+of the zoom shots.
+
+974
+00:50:39,729 --> 00:50:42,707
+That is the API link for the reporting
+
+975
+00:50:42,707 --> 00:50:43,079
+API.
+
+976
+00:50:46,519 --> 00:50:49,210
+And then under usage trend we
+
+977
+00:50:49,210 --> 00:50:51,901
+could do get relay users usage
+
+978
+00:50:51,901 --> 00:50:52,349
+data.
+
+979
+00:51:01,399 --> 00:51:04,207
+OK, so you OK I see what you say. So
+
+980
+00:51:04,207 --> 00:51:06,734
+you can get the user data based on the
+
+981
+00:51:06,734 --> 00:51:09,260
+user and if it's zero then you know it's
+
+982
+00:51:09,260 --> 00:51:11,506
+not use correct? Is there a time frame
+
+983
+00:51:11,506 --> 00:51:12,629
+that you can specify?
+
+984
+00:51:15,019 --> 00:51:17,069
+I believe so. Um.
+
+985
+00:51:17,499 --> 00:51:18,159
+OK.
+
+986
+00:51:21,679 --> 00:51:23,489
+I'm just looking right now.
+
+987
+00:51:26,919 --> 00:51:29,626
+Yes, it will. Uh, you can submit dates as
+
+988
+00:51:29,626 --> 00:51:31,129
+part of the POST request.
+
+989
+00:51:32,519 --> 00:51:33,539
+OK, awesome.
+
+990
+00:51:39,629 --> 00:51:42,628
+Let me give you just quickly just to just
+
+991
+00:51:42,628 --> 00:51:45,627
+to follow up on that, but how long are
+
+992
+00:51:45,627 --> 00:51:48,537
+the logs around for?And
+
+993
+00:51:48,537 --> 00:51:51,478
+after 30 days, 30 days, OK, which is
+
+994
+00:51:51,478 --> 00:51:54,419
+why we recommend shipping the logs to a
+
+995
+00:51:54,419 --> 00:51:55,889
+stem like like Splunk.
+
+996
+00:51:57,119 --> 00:51:58,009
+OK.
+
+997
+00:52:00,179 --> 00:52:02,193
+So for sure, we're gonna do, we're gonna
+
+998
+00:52:02,193 --> 00:52:03,199
+shoot the last talk.
+
+999
+00:52:05,139 --> 00:52:08,074
+We already have. The
+
+1000
+00:52:08,074 --> 00:52:10,279
+people working on that to, to, to.
+
+1001
+00:52:12,249 --> 00:52:15,039
+Start configuration, yes.
+
+1002
+00:52:17,029 --> 00:52:19,840
+Alright. So
+
+1003
+00:52:19,840 --> 00:52:22,648
+here is the beginning of a Webber
+
+1004
+00:52:22,648 --> 00:52:25,456
+Request cost API and you can see
+
+1005
+00:52:25,456 --> 00:52:28,264
+dates at the very bottom of that
+
+1006
+00:52:28,264 --> 00:52:31,072
+so you can list updates. In this
+
+1007
+00:52:31,072 --> 00:52:33,880
+case it would give you everything in
+
+1008
+00:52:33,880 --> 00:52:36,688
+the 24 hour period on November 1st,
+
+1009
+00:52:36,688 --> 00:52:37,089
+2023.
+
+1010
+00:52:42,029 --> 00:52:44,059
+Yeah, yeah, that makes sense.
+
+1011
+00:52:49,639 --> 00:52:52,334
+I believe we are at time for today, time
+
+1012
+00:52:52,334 --> 00:52:54,429
+for us when we're having fun here.
+
+1013
+00:52:56,199 --> 00:52:57,069
+Absolutely.
+
+1014
+00:52:59,059 --> 00:53:01,279
+Any questions before we drop off?
+
+1015
+00:53:04,549 --> 00:53:06,909
+No, I think we're good to that.
+
+1016
+00:53:06,909 --> 00:53:08,931
+Excellent. No, but thanks for the
+
+1017
+00:53:08,931 --> 00:53:11,291
+session. It was great. You are most
+
+1018
+00:53:11,291 --> 00:53:13,988
+welcome. I hope you all had a happy
+
+1019
+00:53:13,988 --> 00:53:16,347
+Canadian Independence Day and I will be
+
+1020
+00:53:16,347 --> 00:53:18,370
+celebrating dinner and when this coming
+
+1021
+00:53:18,370 --> 00:53:21,067
+Saturday I wake up. More propane for my
+
+1022
+00:53:21,067 --> 00:53:23,089
+grill and I got some sparklers.
+
+1023
+00:53:24,949 --> 00:53:27,562
+Enjoy that then. Thank you so
+
+1024
+00:53:27,562 --> 00:53:29,739
+much. OK, go bye bye.
